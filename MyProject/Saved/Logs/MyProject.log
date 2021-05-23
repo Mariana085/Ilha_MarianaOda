@@ -1,0 +1,1079 @@
+﻿Log file open, 05/23/21 16:22:36
+LogInit: LLM is enabled
+LogInit: LLM CsvWriter: off TraceWriter: off
+LogInit: Display: Running engine for game: MyProject
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.425936
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -3:00, Platform Override: ''
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+LogLuminAPIImpl: Warning: MLSDK not found.  This likely means the MLSDK environment variable is not set.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.26-CL-15228867
+LogInit: Engine Version: 4.26.1-15228867+++UE4+Release-4.26
+LogInit: Compatible Engine Version: 4.26.0-14830424+++UE4+Release-4.26
+LogInit: Net CL: 14830424
+LogInit: OS: Windows 10 (Release 2009) (), CPU: AMD Ryzen 5 3500U with Radeon Vega Mobile Gfx  , GPU: AMD Radeon(TM) Vega 8 Graphics
+LogInit: Compiled (64-bit): Jan 28 2021 07:07:34
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.26
+LogInit: Command Line:  -EpicPortal -epicusername=Kushida05 -epicuserid=3d1fd5fa27ee49ea9b897b9bb1813211 -epiclocale=pt-BR
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.26/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 44
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 43
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 40
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/modak/Documents/técnico/unreal/Ilha_MarianaOda/MyProject/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2021.05.23-19.22.37:049][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2021.05.23-19.22.37:049][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2021.05.23-19.22.37:049][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/modak/Documents/técnico/unreal/Ilha_MarianaOda/MyProject/Saved/Config/Windows/Engine.ini]
+[2021.05.23-19.22.37:049][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2021.05.23-19.22.37:049][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/modak/Documents/técnico/unreal/Ilha_MarianaOda/MyProject/Saved/Config/Windows/Engine.ini]
+[2021.05.23-19.22.37:049][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/modak/Documents/técnico/unreal/Ilha_MarianaOda/MyProject/Saved/Config/Windows/Engine.ini]
+[2021.05.23-19.22.37:049][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2021.05.23-19.22.37:049][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2021.05.23-19.22.37:050][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2021.05.23-19.22.37:050][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2021.05.23-19.22.37:050][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2021.05.23-19.22.37:050][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2021.05.23-19.22.37:050][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2021.05.23-19.22.37:050][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2021.05.23-19.22.37:050][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2021.05.23-19.22.37:050][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2021.05.23-19.22.37:050][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2021.05.23-19.22.37:050][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2021.05.23-19.22.37:050][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2021.05.23-19.22.37:050][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2021.05.23-19.22.37:050][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/modak/Documents/técnico/unreal/Ilha_MarianaOda/MyProject/Saved/Config/Windows/Engine.ini]
+[2021.05.23-19.22.37:050][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2021.05.23-19.22.37:050][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2021.05.23-19.22.37:050][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2021.05.23-19.22.37:050][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2021.05.23-19.22.37:050][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2021.05.23-19.22.37:050][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2021.05.23-19.22.37:050][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2021.05.23-19.22.37:050][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2021.05.23-19.22.37:050][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2021.05.23-19.22.37:050][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2021.05.23-19.22.37:050][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2021.05.23-19.22.37:050][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2021.05.23-19.22.37:050][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2021.05.23-19.22.37:050][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2021.05.23-19.22.37:050][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/modak/Documents/técnico/unreal/Ilha_MarianaOda/MyProject/Saved/Config/Windows/Engine.ini]
+[2021.05.23-19.22.37:050][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/modak/Documents/técnico/unreal/Ilha_MarianaOda/MyProject/Saved/Config/Windows/Engine.ini]
+[2021.05.23-19.22.37:055][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/modak/Documents/técnico/unreal/Ilha_MarianaOda/MyProject/Saved/Config/Windows/Scalability.ini]
+[2021.05.23-19.22.37:055][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.05.23-19.22.37:055][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.05.23-19.22.37:055][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/modak/Documents/técnico/unreal/Ilha_MarianaOda/MyProject/Saved/Config/Windows/Scalability.ini]
+[2021.05.23-19.22.37:055][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.05.23-19.22.37:055][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/modak/Documents/técnico/unreal/Ilha_MarianaOda/MyProject/Saved/Config/Windows/Scalability.ini]
+[2021.05.23-19.22.37:055][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.05.23-19.22.37:055][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.05.23-19.22.37:055][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.05.23-19.22.37:055][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.05.23-19.22.37:055][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.05.23-19.22.37:055][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.05.23-19.22.37:055][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.05.23-19.22.37:055][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.05.23-19.22.37:055][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.05.23-19.22.37:055][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.05.23-19.22.37:055][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.05.23-19.22.37:055][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.05.23-19.22.37:055][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.05.23-19.22.37:055][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.05.23-19.22.37:055][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.05.23-19.22.37:055][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.05.23-19.22.37:055][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.05.23-19.22.37:055][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.05.23-19.22.37:055][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/modak/Documents/técnico/unreal/Ilha_MarianaOda/MyProject/Saved/Config/Windows/Scalability.ini]
+[2021.05.23-19.22.37:055][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.05.23-19.22.37:055][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.05.23-19.22.37:055][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.05.23-19.22.37:055][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.05.23-19.22.37:055][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.05.23-19.22.37:055][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.05.23-19.22.37:055][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.05.23-19.22.37:055][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.05.23-19.22.37:055][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.05.23-19.22.37:055][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.05.23-19.22.37:055][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.05.23-19.22.37:055][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.05.23-19.22.37:055][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.05.23-19.22.37:055][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.05.23-19.22.37:055][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.05.23-19.22.37:055][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.05.23-19.22.37:055][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.05.23-19.22.37:055][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.05.23-19.22.37:055][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.05.23-19.22.37:056][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.05.23-19.22.37:056][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.05.23-19.22.37:056][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.05.23-19.22.37:056][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.05.23-19.22.37:056][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.05.23-19.22.37:056][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.05.23-19.22.37:056][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.05.23-19.22.37:056][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.05.23-19.22.37:056][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.05.23-19.22.37:056][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.05.23-19.22.37:056][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.05.23-19.22.37:056][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/modak/Documents/técnico/unreal/Ilha_MarianaOda/MyProject/Saved/Config/Windows/Scalability.ini]
+[2021.05.23-19.22.37:056][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.05.23-19.22.37:056][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.05.23-19.22.37:056][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.05.23-19.22.37:056][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.05.23-19.22.37:056][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.05.23-19.22.37:056][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.05.23-19.22.37:056][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.05.23-19.22.37:056][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.05.23-19.22.37:056][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.05.23-19.22.37:056][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/modak/Documents/técnico/unreal/Ilha_MarianaOda/MyProject/Saved/Config/Windows/Scalability.ini]
+[2021.05.23-19.22.37:056][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.05.23-19.22.37:056][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.05.23-19.22.37:056][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.05.23-19.22.37:056][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.05.23-19.22.37:056][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.05.23-19.22.37:056][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.05.23-19.22.37:056][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.05.23-19.22.37:056][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.05.23-19.22.37:056][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.05.23-19.22.37:056][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.05.23-19.22.37:056][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.05.23-19.22.37:056][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.05.23-19.22.37:056][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.05.23-19.22.37:056][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.05.23-19.22.37:056][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.05.23-19.22.37:056][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.05.23-19.22.37:056][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.05.23-19.22.37:056][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.05.23-19.22.37:056][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.05.23-19.22.37:056][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.05.23-19.22.37:056][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.05.23-19.22.37:056][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.05.23-19.22.37:056][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.05.23-19.22.37:056][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.05.23-19.22.37:056][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.05.23-19.22.37:056][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.05.23-19.22.37:056][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.05.23-19.22.37:056][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/modak/Documents/técnico/unreal/Ilha_MarianaOda/MyProject/Saved/Config/Windows/Scalability.ini]
+[2021.05.23-19.22.37:056][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.05.23-19.22.37:056][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.05.23-19.22.37:056][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/modak/Documents/técnico/unreal/Ilha_MarianaOda/MyProject/Saved/Config/Windows/Scalability.ini]
+[2021.05.23-19.22.37:056][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.05.23-19.22.37:056][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.05.23-19.22.37:056][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.05.23-19.22.37:056][  0]LogInit: Selected Device Profile: [Windows]
+[2021.05.23-19.22.37:056][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2021.05.23-19.22.37:058][  0]LogHAL: Display: Platform has ~ 6 GB [6312697856 / 8589934592 / 6], which maps to Smaller [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2021.05.23-19.22.37:058][  0]LogInit: Going up to parent DeviceProfile []
+[2021.05.23-19.22.37:058][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/modak/Documents/técnico/unreal/Ilha_MarianaOda/MyProject/Saved/Config/Windows/Scalability.ini]
+[2021.05.23-19.22.37:058][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.05.23-19.22.37:058][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.05.23-19.22.37:058][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/modak/Documents/técnico/unreal/Ilha_MarianaOda/MyProject/Saved/Config/Windows/Scalability.ini]
+[2021.05.23-19.22.37:058][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.05.23-19.22.37:058][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/modak/Documents/técnico/unreal/Ilha_MarianaOda/MyProject/Saved/Config/Windows/Scalability.ini]
+[2021.05.23-19.22.37:058][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.05.23-19.22.37:058][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.05.23-19.22.37:058][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.05.23-19.22.37:058][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.05.23-19.22.37:058][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.05.23-19.22.37:058][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.05.23-19.22.37:058][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.05.23-19.22.37:058][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.05.23-19.22.37:058][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.05.23-19.22.37:058][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.05.23-19.22.37:058][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.05.23-19.22.37:058][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.05.23-19.22.37:058][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.05.23-19.22.37:058][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.05.23-19.22.37:058][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.05.23-19.22.37:058][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.05.23-19.22.37:058][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.05.23-19.22.37:058][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.05.23-19.22.37:058][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/modak/Documents/técnico/unreal/Ilha_MarianaOda/MyProject/Saved/Config/Windows/Scalability.ini]
+[2021.05.23-19.22.37:058][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.05.23-19.22.37:058][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.05.23-19.22.37:058][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.05.23-19.22.37:058][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.05.23-19.22.37:058][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.05.23-19.22.37:058][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.05.23-19.22.37:058][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.05.23-19.22.37:058][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.05.23-19.22.37:058][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.05.23-19.22.37:058][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.05.23-19.22.37:058][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.05.23-19.22.37:058][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.05.23-19.22.37:058][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.05.23-19.22.37:058][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.05.23-19.22.37:058][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.05.23-19.22.37:058][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.05.23-19.22.37:058][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.05.23-19.22.37:058][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.05.23-19.22.37:058][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.05.23-19.22.37:058][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.05.23-19.22.37:058][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.05.23-19.22.37:058][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.05.23-19.22.37:058][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.05.23-19.22.37:058][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.05.23-19.22.37:058][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.05.23-19.22.37:058][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.05.23-19.22.37:058][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.05.23-19.22.37:058][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.05.23-19.22.37:058][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.05.23-19.22.37:058][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.05.23-19.22.37:058][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/modak/Documents/técnico/unreal/Ilha_MarianaOda/MyProject/Saved/Config/Windows/Scalability.ini]
+[2021.05.23-19.22.37:058][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.05.23-19.22.37:058][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.05.23-19.22.37:058][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.05.23-19.22.37:058][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.05.23-19.22.37:058][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.05.23-19.22.37:058][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.05.23-19.22.37:058][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.05.23-19.22.37:058][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.05.23-19.22.37:058][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.05.23-19.22.37:058][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/modak/Documents/técnico/unreal/Ilha_MarianaOda/MyProject/Saved/Config/Windows/Scalability.ini]
+[2021.05.23-19.22.37:058][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.05.23-19.22.37:058][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.05.23-19.22.37:058][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.05.23-19.22.37:058][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.05.23-19.22.37:058][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.05.23-19.22.37:058][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.05.23-19.22.37:058][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.05.23-19.22.37:058][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.05.23-19.22.37:058][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.05.23-19.22.37:058][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.05.23-19.22.37:058][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.05.23-19.22.37:058][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.05.23-19.22.37:058][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.05.23-19.22.37:058][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.05.23-19.22.37:058][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.05.23-19.22.37:058][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.05.23-19.22.37:058][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.05.23-19.22.37:058][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.05.23-19.22.37:058][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.05.23-19.22.37:058][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.05.23-19.22.37:058][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.05.23-19.22.37:058][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.05.23-19.22.37:058][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.05.23-19.22.37:058][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.05.23-19.22.37:058][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.05.23-19.22.37:058][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.05.23-19.22.37:058][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.05.23-19.22.37:058][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/modak/Documents/técnico/unreal/Ilha_MarianaOda/MyProject/Saved/Config/Windows/Scalability.ini]
+[2021.05.23-19.22.37:058][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.05.23-19.22.37:058][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.05.23-19.22.37:058][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/modak/Documents/técnico/unreal/Ilha_MarianaOda/MyProject/Saved/Config/Windows/Scalability.ini]
+[2021.05.23-19.22.37:058][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.05.23-19.22.37:058][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.05.23-19.22.37:058][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.05.23-19.22.37:058][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2021.05.23-19.22.37:060][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2021.05.23-19.22.37:060][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2021.05.23-19.22.37:060][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2021.05.23-19.22.37:060][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/modak/Documents/técnico/unreal/Ilha_MarianaOda/MyProject/Saved/Config/Windows/Engine.ini]
+[2021.05.23-19.22.37:060][  0]LogInit: Computer: LAPTOP-CG24AST2
+[2021.05.23-19.22.37:060][  0]LogInit: User: modak
+[2021.05.23-19.22.37:061][  0]LogInit: CPU Page size=4096, Cores=4
+[2021.05.23-19.22.37:061][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2021.05.23-19.22.37:061][  0]LogMemory: Memory total: Physical=5.9GB (6GB approx)
+[2021.05.23-19.22.37:061][  0]LogMemory: Platform Memory Stats for Windows
+[2021.05.23-19.22.37:061][  0]LogMemory: Process Physical Memory: 135.54 MB used, 135.54 MB peak
+[2021.05.23-19.22.37:061][  0]LogMemory: Process Virtual Memory: 118.88 MB used, 118.88 MB peak
+[2021.05.23-19.22.37:061][  0]LogMemory: Physical Memory: 4939.57 MB used,  1080.69 MB free, 6020.26 MB total
+[2021.05.23-19.22.37:061][  0]LogMemory: Virtual Memory: 134212264.00 MB used,  5462.96 MB free, 134217728.00 MB total
+[2021.05.23-19.22.37:069][  0]LogWindows: WindowsPlatformFeatures enabled
+[2021.05.23-19.22.37:108][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2021.05.23-19.22.37:109][  0]LogInit: Using OS detected language (pt-BR).
+[2021.05.23-19.22.37:109][  0]LogInit: Using OS detected locale (pt-BR).
+[2021.05.23-19.22.37:168][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Editor/pt/Editor.locres' could not be opened for reading!
+[2021.05.23-19.22.37:169][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/EditorTutorials/pt/EditorTutorials.locres' could not be opened for reading!
+[2021.05.23-19.22.37:169][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Keywords/pt/Keywords.locres' could not be opened for reading!
+[2021.05.23-19.22.37:169][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Category/pt/Category.locres' could not be opened for reading!
+[2021.05.23-19.22.37:169][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/ToolTips/pt/ToolTips.locres' could not be opened for reading!
+[2021.05.23-19.22.37:169][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/PropertyNames/pt/PropertyNames.locres' could not be opened for reading!
+[2021.05.23-19.22.37:169][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Engine/pt/Engine.locres' could not be opened for reading!
+[2021.05.23-19.22.37:170][  0]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/OnlineSubsystem/Content/Localization/OnlineSubsystem/pt/OnlineSubsystem.locres' could not be opened for reading!
+[2021.05.23-19.22.37:170][  0]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/OnlineSubsystemUtils/Content/Localization/OnlineSubsystemUtils/pt/OnlineSubsystemUtils.locres' could not be opened for reading!
+[2021.05.23-19.22.37:170][  0]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/Android/OnlineSubsystemGooglePlay/Content/Localization/OnlineSubsystemGooglePlay/pt/OnlineSubsystemGooglePlay.locres' could not be opened for reading!
+[2021.05.23-19.22.37:170][  0]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/IOS/OnlineSubsystemIOS/Content/Localization/OnlineSubsystemIOS/pt/OnlineSubsystemIOS.locres' could not be opened for reading!
+[2021.05.23-19.22.37:187][  0]LogInit: Setting process to per monitor DPI aware
+[2021.05.23-19.22.37:207][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.05.23-19.22.37:238][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2021.05.23-19.22.37:238][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2021.05.23-19.22.37:460][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.05.23-19.22.37:460][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2021.05.23-19.22.37:460][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2021.05.23-19.22.37:460][  0]LogD3D11RHI: D3D11 adapters:
+[2021.05.23-19.22.37:507][  0]LogD3D11RHI:    0. 'AMD Radeon(TM) Vega 8 Graphics' (Feature Level 11_0)
+[2021.05.23-19.22.37:508][  0]LogD3D11RHI:       2033/0/3010 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x1002
+[2021.05.23-19.22.37:511][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2021.05.23-19.22.37:511][  0]LogD3D11RHI:       0/0/3010 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2021.05.23-19.22.37:511][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2021.05.23-19.22.37:520][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2021.05.23-19.22.37:520][  0]LogD3D11RHI:     GPU DeviceId: 0x15d8 (for the marketing name, search the web for "GPU Device Id")
+[2021.05.23-19.22.37:520][  0]LogWindows: EnumDisplayDevices:
+[2021.05.23-19.22.37:521][  0]LogWindows:    0. 'AMD Radeon(TM) Vega 8 Graphics' (P:1 D:1)
+[2021.05.23-19.22.37:521][  0]LogWindows:    1. 'AMD Radeon(TM) Vega 8 Graphics' (P:0 D:0)
+[2021.05.23-19.22.37:521][  0]LogWindows:    2. 'AMD Radeon(TM) Vega 8 Graphics' (P:0 D:0)
+[2021.05.23-19.22.37:522][  0]LogWindows:    3. 'AMD Radeon(TM) Vega 8 Graphics' (P:0 D:0)
+[2021.05.23-19.22.37:522][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2021.05.23-19.22.37:522][  0]LogD3D11RHI:     Adapter Name: AMD Radeon(TM) Vega 8 Graphics
+[2021.05.23-19.22.37:522][  0]LogD3D11RHI:   Driver Version: Adrenalin 19.40.46 (internal:26.20.14046.3, unified:26.20.14046.3)
+[2021.05.23-19.22.37:522][  0]LogD3D11RHI:      Driver Date: 4-8-2020
+[2021.05.23-19.22.37:522][  0]LogRHI: Texture pool is 3177 MB (70% of 4539 MB)
+[2021.05.23-19.22.37:574][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2021.05.23-19.22.37:574][  0]LogD3D11RHI: Async texture creation enabled
+[2021.05.23-19.22.37:575][  0]LogD3D11RHI: Array index from any shader is supported
+[2021.05.23-19.22.37:590][  0]LogD3D11RHI: GPU Timing Frequency: 25.000000 (Debug: 2 1)
+[2021.05.23-19.22.38:044][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2021.05.23-19.22.38:079][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2021.05.23-19.22.38:079][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2021.05.23-19.22.38:079][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2021.05.23-19.22.38:079][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2021.05.23-19.22.38:079][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2021.05.23-19.22.38:079][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2021.05.23-19.22.38:079][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2021.05.23-19.22.38:079][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2021.05.23-19.22.38:079][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2021.05.23-19.22.38:079][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2021.05.23-19.22.38:121][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2021.05.23-19.22.38:121][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2021.05.23-19.22.38:140][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2021.05.23-19.22.38:156][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2021.05.23-19.22.38:172][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2021.05.23-19.22.38:188][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2021.05.23-19.22.38:204][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2021.05.23-19.22.38:220][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2021.05.23-19.22.38:235][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2021.05.23-19.22.38:290][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2021.05.23-19.22.38:290][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2021.05.23-19.22.38:304][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2021.05.23-19.22.38:321][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2021.05.23-19.22.38:337][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2021.05.23-19.22.38:354][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2021.05.23-19.22.38:384][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2021.05.23-19.22.38:384][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2021.05.23-19.22.38:399][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2021.05.23-19.22.38:417][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2021.05.23-19.22.38:433][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2021.05.23-19.22.38:449][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2021.05.23-19.22.38:451][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2021.05.23-19.22.38:466][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2021.05.23-19.22.38:573][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2021.05.23-19.22.38:573][  0]LogShaderCompilers: Guid format shader working directory is -34 characters bigger than the processId version (../../../../../../Users/modak/Documents/técnico/unreal/Ilha_MarianaOda/MyProject/Intermediate/Shaders/WorkingDirectory/8496/).
+[2021.05.23-19.22.38:573][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/modak/AppData/Local/Temp/UnrealShaderWorkingDir/1C01C7C340F44866C94B2AAD556E5E70/'.
+[2021.05.23-19.22.38:574][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2021.05.23-19.22.38:574][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2021.05.23-19.22.39:543][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2021.05.23-19.22.39:612][  0]LogDerivedDataCache: Loaded boot cache 0.07s 77MB C:/Users/modak/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.05.23-19.22.39:612][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/modak/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc
+[2021.05.23-19.22.39:612][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/modak/Documents/técnico/unreal/Ilha_MarianaOda/MyProject/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2021.05.23-19.22.39:613][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2021.05.23-19.22.39:613][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/modak/Documents/técnico/unreal/Ilha_MarianaOda/MyProject/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.05.23-19.22.39:613][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2021.05.23-19.22.39:628][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2021.05.23-19.22.39:628][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.05.23-19.22.39:629][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2021.05.23-19.22.39:647][  0]LogDerivedDataCache: Speed tests for C:/Users/modak/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.02 seconds
+[2021.05.23-19.22.39:647][  0]LogDerivedDataCache: Display: Performance to C:/Users/modak/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.04ms. RandomReadSpeed=201.05MBs, RandomWriteSpeed=73.14MBs. Assigned SpeedClass 'Local'
+[2021.05.23-19.22.39:648][  0]LogDerivedDataCache: Using Local data cache path C:/Users/modak/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2021.05.23-19.22.39:648][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2021.05.23-19.22.39:648][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2021.05.23-19.22.39:709][  0]LogSlate: Using FreeType 2.10.0
+[2021.05.23-19.22.39:710][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2021.05.23-19.22.39:739][  0]LogAssetRegistry: FAssetRegistry took 0.0043 seconds to start up
+[2021.05.23-19.22.40:178][  0]LogInit: Selected Device Profile: [Windows]
+[2021.05.23-19.22.40:178][  0]LogInit: Active device profile: [0000026B24B93200][0000026B24250D80 49] Windows
+[2021.05.23-19.22.40:178][  0]LogInit: Profiles: [0000026B24B93200][0000026B24250D80 49] Windows, [0000026B24B69000][0000026B24258F00 49] WindowsNoEditor, [0000026B24B91000][0000026B2425D080 49] WindowsServer, [0000026B24B6AB00][0000026B24261200 49] WindowsClient, [0000026B24B92900][0000026B24265380 49] IOS, [0000026B24B69800][0000026B24269500 49] iPadAir, [0000026B24B91500][0000026B24255640 49] iPadAir2, [0000026B24AFC900][0000026B24271880 49] IPadPro, [0000026B24AFCA00][0000026B2426D8C0 49] iPadAir3, [0000026B24B93400][0000026B24275A00 49] iPadAir4, [0000026B24AFF300][0000026B2427DB80 49] iPadMini2, [0000026B24B90F00][0000026B1DF79D00 49] iPadMini3, [0000026B24AFFB00][0000026B1DF7C1C0 49] iPadMini4, [0000026B24B92B00][0000026B1DF80340 49] iPadMini5, [0000026B24B6AF00][0000026B1DF88600 49] iPhone6, [0000026B24AFBF00][0000026B1DF84640 49] iPodTouch6, [0000026B24B6B200][0000026B1DF90900 49] iPhone7, [0000026B24B6A900][0000026B1DF8C940 49] iPodTouch7, [0000026B24AF9500][0000026B1DF94AC0 49] iPhone5S, [0000026B24B69500][0000026B1DF98C40 49] iPhone6Plus, [0000026B24AFBD00][0000026B1DF9CDC0 49] iPhone6S, [0000026B24B68300][0000026B1DFA0F40 49] iPhone6SPlus, [0000026B24AF9100][0000026B1DFA50C0 49] iPhone7Plus, [0000026B24B6B500][0000026B1DFA9240 49] iPhoneSE, [0000026B24AF8500][0000026B1DFAD3C0 49] iPhone8, [0000026B24B6A400][0000026B1DFB1540 49] iPhone8Plus, [0000026B24AF9400][0000026B24279680 49] iPhoneX, [0000026B24B6A000][0000026B1DFB57C0 49] iPhoneXS, [0000026B24AFA500][0000026B1DFB9900 49] iPhoneXSMax, [0000026B24B6A700][0000026B1DFBDA40 49] iPhoneXR, [0000026B24AF9F00][0000026B1DFC5BC0 49] iPhone11, [0000026B24B69E00][0000026B1DFC9D40 49] iPhone11Pro, [0000026B24AFA200][0000026B1DFCC200 49] iPhone11ProMax, [0000026B24B68F00][0000026B1DFD0380 49] iPhoneSE2, [0000026B24AFAA00][0000026B1DFD4500 49] iPhone12Mini, [0000026B24B69700][0000026B1DFD8680 49] iPhone12, [0000026B24AF9B00][0000026B1DFDC800 49] iPhone12Pro, [0000026B24B6BE00][0000026B1DFE0980 49] iPhone12ProMax, [0000026B24AF9300][0000026B1DFE4B00 49] iPadPro105, [0000026B24B69C00][0000026B1DFE8C80 49] iPadPro129, [0000026B24AFAB00][0000026B1DFECE00 49] iPadPro97, [0000026B24B68600][0000026B1DFF0F80 49] iPadPro2_129, [0000026B24AFAE00][0000026B1DFF5100 49] iPad5, [0000026B24B68700][0000026B1DFF9280 49] iPad6, [0000026B24AF8600][0000026B1DFFD400 49] iPad7, [0000026B24B6B300][0000026B1E001580 49] iPad8, [0000026B24AFB000][0000026B1E005700 49] iPadPro11, [0000026B24B6BD00][0000026B1DFC1840 49] iPadPro2_11, [0000026B24AF9D00][0000026B1E055980 49] iPadPro3_129, [0000026B24B69D00][0000026B1E059AC0 49] iPadPro4_129, [0000026B24AFB200][0000026B1E061C40 49] AppleTV, [0000026B24B69A00][0000026B1E064100 49] AppleTV4K, [0000026B24AFA300][0000026B1E068280 49] TVOS, [0000026B24B68C00][0000026B1E06C400 49] Mac, [0000026B24AF9A00][0000026B1E070580 49] MacClient, [0000026B24B68400][0000026B1E074700 49] MacNoEditor, [0000026B24AFA100][0000026B1E078880 49] MacServer, [0000026B24C04500][0000026B1E07CA00 49] Linux, [0000026B24B92E00][0000026B1E080B80 49] LinuxNoEditor, [0000026B24C04400][0000026B1E084D00 49] LinuxAArch64NoEditor, [0000026B24B92F00][0000026B1E088E80 49] LinuxClient, [0000026B24C04200][0000026B1E08D000 49] LinuxAArch64Client, [0000026B24B91C00][0000026B1E091180 49] LinuxServer, [0000026B24C04E00][0000026B1E095300 49] LinuxAArch64Server, [0000026B24B92400][0000026B1E099480 49] Android, [0000026B24C04600][0000026B1E09D600 49] Android_Low, [0000026B24B92700][0000026B1E0A1780 49] Android_Mid, [0000026B24B68900][0000026B1E05D8C0 49] Android_High, [0000026B24B93E00][0000026B1E0A5A00 49] Android_Default, [0000026B24B6BC00][0000026B1E0A9B40 49] Android_Adreno4xx, [0000026B24B91800][0000026B1E0B1CC0 49] Android_Adreno5xx_Low, [0000026B24B6A500][0000026B1E0B4180 49] Android_Adreno5xx, [0000026B24B92300][0000026B1E0B8300 49] Android_Adreno6xx, [0000026B24B6AD00][0000026B1E0BC480 49] Android_Adreno6xx_Vulkan, [0000026B24B90900][0000026B1E0C0600 49] Android_Mali_T6xx, [0000026B24B6BB00][0000026B1E0C4780 49] Android_Mali_T7xx, [0000026B24B93000][0000026B1E0C8900 49] Android_Mali_T8xx, [0000026B24B6B900][0000026B1E0CCA80 49] Android_Mali_G71, [0000026B24B93500][0000026B1E0D0C00 49] Android_Mali_G72, [0000026B24B6AA00][0000026B1E0D4D80 49] Android_Mali_G72_Vulkan, [0000026B24B91300][0000026B25290F00 49] Android_Mali_G76, [0000026B24B68800][0000026B25295080 49] Android_Mali_G76_Vulkan, [0000026B24B90D00][0000026B25299200 49] Android_Mali_G77, [0000026B24B69600][0000026B2529D380 49] Android_Mali_G77_Vulkan, [0000026B24B92100][0000026B252A1500 49] Android_Vulkan_SM5, [0000026B24B69B00][0000026B252A5680 49] Android_PowerVR_G6xxx, [0000026B24B92600][0000026B252A9800 49] Android_PowerVR_GT7xxx, [0000026B24B68500][0000026B1E0AD940 49] Android_PowerVR_GE8xxx, [0000026B24B93700][0000026B252ADA80 49] Android_PowerVR_GM9xxx, [0000026B24B6BF00][0000026B252B1BC0 49] Android_PowerVR_GM9xxx_Vulkan, [0000026B24B93600][0000026B252B5D00 49] Android_TegraK1, [0000026B24B6AC00][0000026B252BC1C0 49] Android_Unknown_Vulkan, [0000026B24B93C00][0000026B252C0340 49] Lumin, [0000026B24B68D00][0000026B252C44C0 49] Lumin_Desktop, [0000026B24B91A00][0000026B252C8640 49] HoloLens, 
+[2021.05.23-19.22.40:414][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2021.05.23-19.22.40:414][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2021.05.23-19.22.40:414][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2021.05.23-19.22.40:414][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2021.05.23-19.22.40:414][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2021.05.23-19.22.40:454][  0]LogNetVersion: MyProject 1.0.0, NetCL: 14830424, EngineNetVer: 16, GameNetVer: 0 (Checksum: 1177340986)
+[2021.05.23-19.22.41:235][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2021.05.23-19.22.41:397][  0]LogPackageLocalizationCache: Processed 22 localized package path(s) for 2 prioritized culture(s) in 0.161368 seconds
+[2021.05.23-19.22.41:408][  0]LogUObjectArray: 16830 objects as part of root set at end of initial load.
+[2021.05.23-19.22.41:408][  0]LogUObjectAllocator: 4209472 out of 0 bytes used by permanent object pool.
+[2021.05.23-19.22.41:408][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2021.05.23-19.22.42:117][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2021.05.23-19.22.42:144][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2021.05.23-19.22.42:311][  0]SourceControl: Controle de origem desativado
+[2021.05.23-19.22.42:311][  0]SourceControl: Controle de origem desativado
+[2021.05.23-19.22.42:319][  0]SourceControl: Controle de origem desativado
+[2021.05.23-19.22.42:337][  0]SourceControl: Controle de origem desativado
+[2021.05.23-19.22.42:349][  0]LogUProjectInfo: Found projects:
+[2021.05.23-19.22.42:356][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2021.05.23-19.22.42:357][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2021.05.23-19.22.42:370][  0]SourceControl: Controle de origem desativado
+[2021.05.23-19.22.42:807][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2021.05.23-19.22.42:848][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.05.23-19.22.42:848][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.05.23-19.22.42:961][  0]LogCollectionManager: Loaded 0 collections in 0.002928 seconds
+[2021.05.23-19.22.43:003][  0]LogFileCache: Scanning file cache for directory 'C:/Users/modak/Documents/técnico/unreal/Ilha_MarianaOda/MyProject/Saved/Collections/' took 0.00s
+[2021.05.23-19.22.43:003][  0]LogFileCache: Scanning file cache for directory 'C:/Users/modak/Documents/técnico/unreal/Ilha_MarianaOda/MyProject/Content/Developers/modak/Collections/' took 0.00s
+[2021.05.23-19.22.43:003][  0]LogFileCache: Scanning file cache for directory 'C:/Users/modak/Documents/técnico/unreal/Ilha_MarianaOda/MyProject/Content/Collections/' took 0.00s
+[2021.05.23-19.22.43:003][  0]LogOcInput: OculusInput pre-init called
+[2021.05.23-19.22.43:022][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2021.05.23-19.22.43:022][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2021.05.23-19.22.43:096][  0]LogEngine: Initializing Engine...
+[2021.05.23-19.22.43:099][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.05.23-19.22.43:099][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2021.05.23-19.22.43:101][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2021.05.23-19.22.43:262][  0]LogInit: Initializing FReadOnlyCVARCache
+[2021.05.23-19.22.43:280][  0]LogAIModule: Creating AISystem for world Untitled
+[2021.05.23-19.22.43:289][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2021.05.23-19.22.43:297][  0]LogAudio: Display: Audio Device Manager Initialized
+[2021.05.23-19.22.43:297][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2021.05.23-19.22.43:297][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.23-19.22.43:297][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.23-19.22.43:297][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.23-19.22.43:297][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.23-19.22.43:297][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.23-19.22.43:297][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.23-19.22.43:297][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.23-19.22.43:297][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.23-19.22.43:297][  0]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.23-19.22.43:297][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.23-19.22.43:317][  0]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.23-19.22.43:317][  0]LogAudioMixer: Display: 1: FrontRight
+[2021.05.23-19.22.43:545][  0]LogAudioMixer: Display: Using Audio Device Alto-falantes (Realtek(R) Audio)
+[2021.05.23-19.22.43:549][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.23-19.22.43:551][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.23-19.22.43:551][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.23-19.22.43:553][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.23-19.22.43:553][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.05.23-19.22.43:553][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.05.23-19.22.43:555][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.05.23-19.22.43:555][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.05.23-19.22.43:555][  0]LogInit: FAudioDevice initialized.
+[2021.05.23-19.22.43:555][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2021.05.23-19.22.43:556][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2021.05.23-19.22.43:643][  0]LogDerivedDataCache: Saved boot cache 0.09s 77MB C:/Users/modak/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.05.23-19.22.43:643][  0]LogInit: Texture streaming: Enabled
+[2021.05.23-19.22.43:666][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.26.1-15228867+++UE4+Release-4.26
+[2021.05.23-19.22.43:671][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2021.05.23-19.22.43:671][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2021.05.23-19.22.43:674][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2021.05.23-19.22.43:707][  0]LogInit: Transaction tracking system initialized
+[2021.05.23-19.22.43:755][  0]BlueprintLog: New page: Carregar Editor
+[2021.05.23-19.22.43:938][  0]LocalizationService: Localization service is disabled
+[2021.05.23-19.22.43:987][  0]TimingProfiler: Initialize
+[2021.05.23-19.22.43:987][  0]TimingProfiler: OnSessionChanged
+[2021.05.23-19.22.43:987][  0]LoadingProfiler: Initialize
+[2021.05.23-19.22.43:987][  0]LoadingProfiler: OnSessionChanged
+[2021.05.23-19.22.43:987][  0]NetworkingProfiler: Initialize
+[2021.05.23-19.22.43:987][  0]NetworkingProfiler: OnSessionChanged
+[2021.05.23-19.22.43:987][  0]MemoryProfiler: Initialize
+[2021.05.23-19.22.43:987][  0]MemoryProfiler: OnSessionChanged
+[2021.05.23-19.22.44:219][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2021.05.23-19.22.44:220][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2021.05.23-19.22.44:377][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2021.05.23-19.22.44:377][  0]LogCook: Display: Mobile HDR setting 1
+[2021.05.23-19.22.44:693][  0]LogFileCache: Scanning file cache for directory 'C:/Users/modak/Documents/técnico/unreal/Ilha_MarianaOda/MyProject/Content/' took 0.00s
+[2021.05.23-19.22.44:927][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2021.05.23-19.22.44:935][  0]SourceControl: Controle de origem desativado
+[2021.05.23-19.22.44:935][  0]LogUnrealEdMisc: Loading editor; pre map load, took 9.655
+[2021.05.23-19.22.44:942][  0]LogFactory: FactoryCreateFile: PackFactory with PackFactory (0 0 C:/Program Files/Epic Games/UE_4.26/FeaturePacks/StarterContent.upack)
+[2021.05.23-19.22.44:944][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.05.23-19.22.44:944][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.23-19.22.44:944][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.05.23-19.22.44:956][  0]LogPackFactory: Finished extracting 8 files (including 0 errors).
+[2021.05.23-19.22.44:958][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Floor_400x400.uasset" to "../../../../../../Users/modak/Documents/técnico/unreal/Ilha_MarianaOda/MyProject/Content/StarterContent/Architecture/Floor_400x400.uasset"
+[2021.05.23-19.22.44:960][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Pillar_50x500.uasset" to "../../../../../../Users/modak/Documents/técnico/unreal/Ilha_MarianaOda/MyProject/Content/StarterContent/Architecture/Pillar_50x500.uasset"
+[2021.05.23-19.22.44:963][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/SM_AssetPlatform.uasset" to "../../../../../../Users/modak/Documents/técnico/unreal/Ilha_MarianaOda/MyProject/Content/StarterContent/Architecture/SM_AssetPlatform.uasset"
+[2021.05.23-19.22.44:965][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x200.uasset" to "../../../../../../Users/modak/Documents/técnico/unreal/Ilha_MarianaOda/MyProject/Content/StarterContent/Architecture/Wall_400x200.uasset"
+[2021.05.23-19.22.44:967][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x300.uasset" to "../../../../../../Users/modak/Documents/técnico/unreal/Ilha_MarianaOda/MyProject/Content/StarterContent/Architecture/Wall_400x300.uasset"
+[2021.05.23-19.22.44:970][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x400.uasset" to "../../../../../../Users/modak/Documents/técnico/unreal/Ilha_MarianaOda/MyProject/Content/StarterContent/Architecture/Wall_400x400.uasset"
+[2021.05.23-19.22.44:972][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_500x500.uasset" to "../../../../../../Users/modak/Documents/técnico/unreal/Ilha_MarianaOda/MyProject/Content/StarterContent/Architecture/Wall_500x500.uasset"
+[2021.05.23-19.22.44:974][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Door_400x300.uasset" to "../../../../../../Users/modak/Documents/técnico/unreal/Ilha_MarianaOda/MyProject/Content/StarterContent/Architecture/Wall_Door_400x300.uasset"
+[2021.05.23-19.22.44:977][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Door_400x400.uasset" to "../../../../../../Users/modak/Documents/técnico/unreal/Ilha_MarianaOda/MyProject/Content/StarterContent/Architecture/Wall_Door_400x400.uasset"
+[2021.05.23-19.22.44:979][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Window_400x300.uasset" to "../../../../../../Users/modak/Documents/técnico/unreal/Ilha_MarianaOda/MyProject/Content/StarterContent/Architecture/Wall_Window_400x300.uasset"
+[2021.05.23-19.22.44:981][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Window_400x400.uasset" to "../../../../../../Users/modak/Documents/técnico/unreal/Ilha_MarianaOda/MyProject/Content/StarterContent/Architecture/Wall_Window_400x400.uasset"
+[2021.05.23-19.22.44:984][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse01.uasset" to "../../../../../../Users/modak/Documents/técnico/unreal/Ilha_MarianaOda/MyProject/Content/StarterContent/Audio/Collapse01.uasset"
+[2021.05.23-19.22.44:987][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse02.uasset" to "../../../../../../Users/modak/Documents/técnico/unreal/Ilha_MarianaOda/MyProject/Content/StarterContent/Audio/Collapse02.uasset"
+[2021.05.23-19.22.44:989][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse_Cue.uasset" to "../../../../../../Users/modak/Documents/técnico/unreal/Ilha_MarianaOda/MyProject/Content/StarterContent/Audio/Collapse_Cue.uasset"
+[2021.05.23-19.22.44:992][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion01.uasset" to "../../../../../../Users/modak/Documents/técnico/unreal/Ilha_MarianaOda/MyProject/Content/StarterContent/Audio/Explosion01.uasset"
+[2021.05.23-19.22.44:994][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion02.uasset" to "../../../../../../Users/modak/Documents/técnico/unreal/Ilha_MarianaOda/MyProject/Content/StarterContent/Audio/Explosion02.uasset"
+[2021.05.23-19.22.44:996][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion_Cue.uasset" to "../../../../../../Users/modak/Documents/técnico/unreal/Ilha_MarianaOda/MyProject/Content/StarterContent/Audio/Explosion_Cue.uasset"
+[2021.05.23-19.22.44:999][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire01.uasset" to "../../../../../../Users/modak/Documents/técnico/unreal/Ilha_MarianaOda/MyProject/Content/StarterContent/Audio/Fire01.uasset"
+[2021.05.23-19.22.45:000][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire01_Cue.uasset" to "../../../../../../Users/modak/Documents/técnico/unreal/Ilha_MarianaOda/MyProject/Content/StarterContent/Audio/Fire01_Cue.uasset"
+[2021.05.23-19.22.45:004][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire_Sparks01.uasset" to "../../../../../../Users/modak/Documents/técnico/unreal/Ilha_MarianaOda/MyProject/Content/StarterContent/Audio/Fire_Sparks01.uasset"
+[2021.05.23-19.22.45:005][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset" to "../../../../../../Users/modak/Documents/técnico/unreal/Ilha_MarianaOda/MyProject/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset"
+[2021.05.23-19.22.45:008][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light01.uasset" to "../../../../../../Users/modak/Documents/técnico/unreal/Ilha_MarianaOda/MyProject/Content/StarterContent/Audio/Light01.uasset"
+[2021.05.23-19.22.45:009][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light01_Cue.uasset" to "../../../../../../Users/modak/Documents/técnico/unreal/Ilha_MarianaOda/MyProject/Content/StarterContent/Audio/Light01_Cue.uasset"
+[2021.05.23-19.22.45:011][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light02.uasset" to "../../../../../../Users/modak/Documents/técnico/unreal/Ilha_MarianaOda/MyProject/Content/StarterContent/Audio/Light02.uasset"
+[2021.05.23-19.22.45:013][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light02_Cue.uasset" to "../../../../../../Users/modak/Documents/técnico/unreal/Ilha_MarianaOda/MyProject/Content/StarterContent/Audio/Light02_Cue.uasset"
+[2021.05.23-19.22.45:016][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Smoke01.uasset" to "../../../../../../Users/modak/Documents/técnico/unreal/Ilha_MarianaOda/MyProject/Content/StarterContent/Audio/Smoke01.uasset"
+[2021.05.23-19.22.45:018][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Smoke01_Cue.uasset" to "../../../../../../Users/modak/Documents/técnico/unreal/Ilha_MarianaOda/MyProject/Content/StarterContent/Audio/Smoke01_Cue.uasset"
+[2021.05.23-19.22.45:020][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Background_Cue.uasset" to "../../../../../../Users/modak/Documents/técnico/unreal/Ilha_MarianaOda/MyProject/Content/StarterContent/Audio/Starter_Background_Cue.uasset"
+[2021.05.23-19.22.45:027][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Birds01.uasset" to "../../../../../../Users/modak/Documents/técnico/unreal/Ilha_MarianaOda/MyProject/Content/StarterContent/Audio/Starter_Birds01.uasset"
+[2021.05.23-19.22.45:040][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Music01.uasset" to "../../../../../../Users/modak/Documents/técnico/unreal/Ilha_MarianaOda/MyProject/Content/StarterContent/Audio/Starter_Music01.uasset"
+[2021.05.23-19.22.45:042][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Music_Cue.uasset" to "../../../../../../Users/modak/Documents/técnico/unreal/Ilha_MarianaOda/MyProject/Content/StarterContent/Audio/Starter_Music_Cue.uasset"
+[2021.05.23-19.22.45:047][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Wind05.uasset" to "../../../../../../Users/modak/Documents/técnico/unreal/Ilha_MarianaOda/MyProject/Content/StarterContent/Audio/Starter_Wind05.uasset"
+[2021.05.23-19.22.45:053][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Wind06.uasset" to "../../../../../../Users/modak/Documents/técnico/unreal/Ilha_MarianaOda/MyProject/Content/StarterContent/Audio/Starter_Wind06.uasset"
+[2021.05.23-19.22.45:056][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Steam01.uasset" to "../../../../../../Users/modak/Documents/técnico/unreal/Ilha_MarianaOda/MyProject/Content/StarterContent/Audio/Steam01.uasset"
+[2021.05.23-19.22.45:057][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Steam01_Cue.uasset" to "../../../../../../Users/modak/Documents/técnico/unreal/Ilha_MarianaOda/MyProject/Content/StarterContent/Audio/Steam01_Cue.uasset"
+[2021.05.23-19.22.45:060][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset" to "../../../../../../Users/modak/Documents/técnico/unreal/Ilha_MarianaOda/MyProject/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset"
+[2021.05.23-19.22.45:061][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset" to "../../../../../../Users/modak/Documents/técnico/unreal/Ilha_MarianaOda/MyProject/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset"
+[2021.05.23-19.22.45:063][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset" to "../../../../../../Users/modak/Documents/técnico/unreal/Ilha_MarianaOda/MyProject/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset"
+[2021.05.23-19.22.45:065][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset" to "../../../../../../Users/modak/Documents/técnico/unreal/Ilha_MarianaOda/MyProject/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset"
+[2021.05.23-19.22.45:066][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset" to "../../../../../../Users/modak/Documents/técnico/unreal/Ilha_MarianaOda/MyProject/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset"
+[2021.05.23-19.22.45:068][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset" to "../../../../../../Users/modak/Documents/técnico/unreal/Ilha_MarianaOda/MyProject/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset"
+[2021.05.23-19.22.45:070][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset" to "../../../../../../Users/modak/Documents/técnico/unreal/Ilha_MarianaOda/MyProject/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset"
+[2021.05.23-19.22.45:073][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/BP_LightStudio.uasset" to "../../../../../../Users/modak/Documents/técnico/unreal/Ilha_MarianaOda/MyProject/Content/StarterContent/Blueprints/BP_LightStudio.uasset"
+[2021.05.23-19.22.45:075][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset" to "../../../../../../Users/modak/Documents/técnico/unreal/Ilha_MarianaOda/MyProject/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset"
+[2021.05.23-19.22.45:077][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset" to "../../../../../../Users/modak/Documents/técnico/unreal/Ilha_MarianaOda/MyProject/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset"
+[2021.05.23-19.22.45:080][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset" to "../../../../../../Users/modak/Documents/técnico/unreal/Ilha_MarianaOda/MyProject/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset"
+[2021.05.23-19.22.45:082][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset" to "../../../../../../Users/modak/Documents/técnico/unreal/Ilha_MarianaOda/MyProject/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset"
+[2021.05.23-19.22.45:083][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset" to "../../../../../../Users/modak/Documents/técnico/unreal/Ilha_MarianaOda/MyProject/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset"
+[2021.05.23-19.22.45:087][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/Skybox.uasset" to "../../../../../../Users/modak/Documents/técnico/unreal/Ilha_MarianaOda/MyProject/Content/StarterContent/Blueprints/Assets/Skybox.uasset"
+[2021.05.23-19.22.45:089][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset" to "../../../../../../Users/modak/Documents/técnico/unreal/Ilha_MarianaOda/MyProject/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset"
+[2021.05.23-19.22.45:091][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset" to "../../../../../../Users/modak/Documents/técnico/unreal/Ilha_MarianaOda/MyProject/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset"
+[2021.05.23-19.22.45:176][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset" to "../../../../../../Users/modak/Documents/técnico/unreal/Ilha_MarianaOda/MyProject/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset"
+[2021.05.23-19.22.45:178][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Advanced_Lighting.umap" to "../../../../../../Users/modak/Documents/técnico/unreal/Ilha_MarianaOda/MyProject/Content/StarterContent/Maps/Advanced_Lighting.umap"
+[2021.05.23-19.22.45:182][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset" to "../../../../../../Users/modak/Documents/técnico/unreal/Ilha_MarianaOda/MyProject/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset"
+[2021.05.23-19.22.45:186][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Minimal_Default.umap" to "../../../../../../Users/modak/Documents/técnico/unreal/Ilha_MarianaOda/MyProject/Content/StarterContent/Maps/Minimal_Default.umap"
+[2021.05.23-19.22.45:201][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset" to "../../../../../../Users/modak/Documents/técnico/unreal/Ilha_MarianaOda/MyProject/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset"
+[2021.05.23-19.22.45:205][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/StarterMap.umap" to "../../../../../../Users/modak/Documents/técnico/unreal/Ilha_MarianaOda/MyProject/Content/StarterContent/Maps/StarterMap.umap"
+[2021.05.23-19.22.45:261][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/StarterMap_BuiltData.uasset" to "../../../../../../Users/modak/Documents/técnico/unreal/Ilha_MarianaOda/MyProject/Content/StarterContent/Maps/StarterMap_BuiltData.uasset"
+[2021.05.23-19.22.45:264][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_AssetPlatform.uasset" to "../../../../../../Users/modak/Documents/técnico/unreal/Ilha_MarianaOda/MyProject/Content/StarterContent/Materials/M_AssetPlatform.uasset"
+[2021.05.23-19.22.45:267][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Basic_Floor.uasset" to "../../../../../../Users/modak/Documents/técnico/unreal/Ilha_MarianaOda/MyProject/Content/StarterContent/Materials/M_Basic_Floor.uasset"
+[2021.05.23-19.22.45:269][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Basic_Wall.uasset" to "../../../../../../Users/modak/Documents/técnico/unreal/Ilha_MarianaOda/MyProject/Content/StarterContent/Materials/M_Basic_Wall.uasset"
+[2021.05.23-19.22.45:271][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset" to "../../../../../../Users/modak/Documents/técnico/unreal/Ilha_MarianaOda/MyProject/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset"
+[2021.05.23-19.22.45:273][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_New.uasset" to "../../../../../../Users/modak/Documents/técnico/unreal/Ilha_MarianaOda/MyProject/Content/StarterContent/Materials/M_Brick_Clay_New.uasset"
+[2021.05.23-19.22.45:276][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset" to "../../../../../../Users/modak/Documents/técnico/unreal/Ilha_MarianaOda/MyProject/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset"
+[2021.05.23-19.22.45:278][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset" to "../../../../../../Users/modak/Documents/técnico/unreal/Ilha_MarianaOda/MyProject/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset"
+[2021.05.23-19.22.45:280][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset" to "../../../../../../Users/modak/Documents/técnico/unreal/Ilha_MarianaOda/MyProject/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset"
+[2021.05.23-19.22.45:282][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset" to "../../../../../../Users/modak/Documents/técnico/unreal/Ilha_MarianaOda/MyProject/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset"
+[2021.05.23-19.22.45:285][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset" to "../../../../../../Users/modak/Documents/técnico/unreal/Ilha_MarianaOda/MyProject/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset"
+[2021.05.23-19.22.45:288][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset" to "../../../../../../Users/modak/Documents/técnico/unreal/Ilha_MarianaOda/MyProject/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset"
+[2021.05.23-19.22.45:291][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset" to "../../../../../../Users/modak/Documents/técnico/unreal/Ilha_MarianaOda/MyProject/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset"
+[2021.05.23-19.22.45:293][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset" to "../../../../../../Users/modak/Documents/técnico/unreal/Ilha_MarianaOda/MyProject/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset"
+[2021.05.23-19.22.45:295][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Grime.uasset" to "../../../../../../Users/modak/Documents/técnico/unreal/Ilha_MarianaOda/MyProject/Content/StarterContent/Materials/M_Concrete_Grime.uasset"
+[2021.05.23-19.22.45:297][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Panels.uasset" to "../../../../../../Users/modak/Documents/técnico/unreal/Ilha_MarianaOda/MyProject/Content/StarterContent/Materials/M_Concrete_Panels.uasset"
+[2021.05.23-19.22.45:299][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Poured.uasset" to "../../../../../../Users/modak/Documents/técnico/unreal/Ilha_MarianaOda/MyProject/Content/StarterContent/Materials/M_Concrete_Poured.uasset"
+[2021.05.23-19.22.45:302][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Tiles.uasset" to "../../../../../../Users/modak/Documents/técnico/unreal/Ilha_MarianaOda/MyProject/Content/StarterContent/Materials/M_Concrete_Tiles.uasset"
+[2021.05.23-19.22.45:306][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Glass.uasset" to "../../../../../../Users/modak/Documents/técnico/unreal/Ilha_MarianaOda/MyProject/Content/StarterContent/Materials/M_Glass.uasset"
+[2021.05.23-19.22.45:308][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Grass.uasset" to "../../../../../../Users/modak/Documents/técnico/unreal/Ilha_MarianaOda/MyProject/Content/StarterContent/Materials/M_Ground_Grass.uasset"
+[2021.05.23-19.22.45:310][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Gravel.uasset" to "../../../../../../Users/modak/Documents/técnico/unreal/Ilha_MarianaOda/MyProject/Content/StarterContent/Materials/M_Ground_Gravel.uasset"
+[2021.05.23-19.22.45:313][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Moss.uasset" to "../../../../../../Users/modak/Documents/técnico/unreal/Ilha_MarianaOda/MyProject/Content/StarterContent/Materials/M_Ground_Moss.uasset"
+[2021.05.23-19.22.45:316][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset" to "../../../../../../Users/modak/Documents/técnico/unreal/Ilha_MarianaOda/MyProject/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset"
+[2021.05.23-19.22.45:319][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset" to "../../../../../../Users/modak/Documents/técnico/unreal/Ilha_MarianaOda/MyProject/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset"
+[2021.05.23-19.22.45:321][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Chrome.uasset" to "../../../../../../Users/modak/Documents/técnico/unreal/Ilha_MarianaOda/MyProject/Content/StarterContent/Materials/M_Metal_Chrome.uasset"
+[2021.05.23-19.22.45:323][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Copper.uasset" to "../../../../../../Users/modak/Documents/técnico/unreal/Ilha_MarianaOda/MyProject/Content/StarterContent/Materials/M_Metal_Copper.uasset"
+[2021.05.23-19.22.45:326][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Gold.uasset" to "../../../../../../Users/modak/Documents/técnico/unreal/Ilha_MarianaOda/MyProject/Content/StarterContent/Materials/M_Metal_Gold.uasset"
+[2021.05.23-19.22.45:328][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Rust.uasset" to "../../../../../../Users/modak/Documents/técnico/unreal/Ilha_MarianaOda/MyProject/Content/StarterContent/Materials/M_Metal_Rust.uasset"
+[2021.05.23-19.22.45:331][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Steel.uasset" to "../../../../../../Users/modak/Documents/técnico/unreal/Ilha_MarianaOda/MyProject/Content/StarterContent/Materials/M_Metal_Steel.uasset"
+[2021.05.23-19.22.45:334][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Basalt.uasset" to "../../../../../../Users/modak/Documents/técnico/unreal/Ilha_MarianaOda/MyProject/Content/StarterContent/Materials/M_Rock_Basalt.uasset"
+[2021.05.23-19.22.45:337][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset" to "../../../../../../Users/modak/Documents/técnico/unreal/Ilha_MarianaOda/MyProject/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset"
+[2021.05.23-19.22.45:339][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Sandstone.uasset" to "../../../../../../Users/modak/Documents/técnico/unreal/Ilha_MarianaOda/MyProject/Content/StarterContent/Materials/M_Rock_Sandstone.uasset"
+[2021.05.23-19.22.45:343][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Slate.uasset" to "../../../../../../Users/modak/Documents/técnico/unreal/Ilha_MarianaOda/MyProject/Content/StarterContent/Materials/M_Rock_Slate.uasset"
+[2021.05.23-19.22.45:345][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset" to "../../../../../../Users/modak/Documents/técnico/unreal/Ilha_MarianaOda/MyProject/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset"
+[2021.05.23-19.22.45:348][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset" to "../../../../../../Users/modak/Documents/técnico/unreal/Ilha_MarianaOda/MyProject/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset"
+[2021.05.23-19.22.45:351][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset" to "../../../../../../Users/modak/Documents/técnico/unreal/Ilha_MarianaOda/MyProject/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset"
+[2021.05.23-19.22.45:354][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Panel.uasset" to "../../../../../../Users/modak/Documents/técnico/unreal/Ilha_MarianaOda/MyProject/Content/StarterContent/Materials/M_Tech_Panel.uasset"
+[2021.05.23-19.22.45:356][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Water_Lake.uasset" to "../../../../../../Users/modak/Documents/técnico/unreal/Ilha_MarianaOda/MyProject/Content/StarterContent/Materials/M_Water_Lake.uasset"
+[2021.05.23-19.22.45:359][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Water_Ocean.uasset" to "../../../../../../Users/modak/Documents/técnico/unreal/Ilha_MarianaOda/MyProject/Content/StarterContent/Materials/M_Water_Ocean.uasset"
+[2021.05.23-19.22.45:361][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset" to "../../../../../../Users/modak/Documents/técnico/unreal/Ilha_MarianaOda/MyProject/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset"
+[2021.05.23-19.22.45:363][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset" to "../../../../../../Users/modak/Documents/técnico/unreal/Ilha_MarianaOda/MyProject/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset"
+[2021.05.23-19.22.45:366][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Oak.uasset" to "../../../../../../Users/modak/Documents/técnico/unreal/Ilha_MarianaOda/MyProject/Content/StarterContent/Materials/M_Wood_Oak.uasset"
+[2021.05.23-19.22.45:368][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Pine.uasset" to "../../../../../../Users/modak/Documents/técnico/unreal/Ilha_MarianaOda/MyProject/Content/StarterContent/Materials/M_Wood_Pine.uasset"
+[2021.05.23-19.22.45:370][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Walnut.uasset" to "../../../../../../Users/modak/Documents/técnico/unreal/Ilha_MarianaOda/MyProject/Content/StarterContent/Materials/M_Wood_Walnut.uasset"
+[2021.05.23-19.22.45:373][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Ambient_Dust.uasset" to "../../../../../../Users/modak/Documents/técnico/unreal/Ilha_MarianaOda/MyProject/Content/StarterContent/Particles/P_Ambient_Dust.uasset"
+[2021.05.23-19.22.45:376][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Explosion.uasset" to "../../../../../../Users/modak/Documents/técnico/unreal/Ilha_MarianaOda/MyProject/Content/StarterContent/Particles/P_Explosion.uasset"
+[2021.05.23-19.22.45:379][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Fire.uasset" to "../../../../../../Users/modak/Documents/técnico/unreal/Ilha_MarianaOda/MyProject/Content/StarterContent/Particles/P_Fire.uasset"
+[2021.05.23-19.22.45:381][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Smoke.uasset" to "../../../../../../Users/modak/Documents/técnico/unreal/Ilha_MarianaOda/MyProject/Content/StarterContent/Particles/P_Smoke.uasset"
+[2021.05.23-19.22.45:383][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Sparks.uasset" to "../../../../../../Users/modak/Documents/técnico/unreal/Ilha_MarianaOda/MyProject/Content/StarterContent/Particles/P_Sparks.uasset"
+[2021.05.23-19.22.45:386][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Steam_Lit.uasset" to "../../../../../../Users/modak/Documents/técnico/unreal/Ilha_MarianaOda/MyProject/Content/StarterContent/Particles/P_Steam_Lit.uasset"
+[2021.05.23-19.22.45:388][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Burst.uasset" to "../../../../../../Users/modak/Documents/técnico/unreal/Ilha_MarianaOda/MyProject/Content/StarterContent/Particles/Materials/M_Burst.uasset"
+[2021.05.23-19.22.45:390][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset" to "../../../../../../Users/modak/Documents/técnico/unreal/Ilha_MarianaOda/MyProject/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset"
+[2021.05.23-19.22.45:393][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset" to "../../../../../../Users/modak/Documents/técnico/unreal/Ilha_MarianaOda/MyProject/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset"
+[2021.05.23-19.22.45:395][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset" to "../../../../../../Users/modak/Documents/técnico/unreal/Ilha_MarianaOda/MyProject/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset"
+[2021.05.23-19.22.45:397][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/m_flare_01.uasset" to "../../../../../../Users/modak/Documents/técnico/unreal/Ilha_MarianaOda/MyProject/Content/StarterContent/Particles/Materials/m_flare_01.uasset"
+[2021.05.23-19.22.45:399][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset" to "../../../../../../Users/modak/Documents/técnico/unreal/Ilha_MarianaOda/MyProject/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset"
+[2021.05.23-19.22.45:401][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset" to "../../../../../../Users/modak/Documents/técnico/unreal/Ilha_MarianaOda/MyProject/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset"
+[2021.05.23-19.22.45:403][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset" to "../../../../../../Users/modak/Documents/técnico/unreal/Ilha_MarianaOda/MyProject/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset"
+[2021.05.23-19.22.45:405][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset" to "../../../../../../Users/modak/Documents/técnico/unreal/Ilha_MarianaOda/MyProject/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset"
+[2021.05.23-19.22.45:407][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Spark.uasset" to "../../../../../../Users/modak/Documents/técnico/unreal/Ilha_MarianaOda/MyProject/Content/StarterContent/Particles/Materials/M_Spark.uasset"
+[2021.05.23-19.22.45:410][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/MaterialSphere.uasset" to "../../../../../../Users/modak/Documents/técnico/unreal/Ilha_MarianaOda/MyProject/Content/StarterContent/Props/MaterialSphere.uasset"
+[2021.05.23-19.22.45:412][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Bush.uasset" to "../../../../../../Users/modak/Documents/técnico/unreal/Ilha_MarianaOda/MyProject/Content/StarterContent/Props/SM_Bush.uasset"
+[2021.05.23-19.22.45:415][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Chair.uasset" to "../../../../../../Users/modak/Documents/técnico/unreal/Ilha_MarianaOda/MyProject/Content/StarterContent/Props/SM_Chair.uasset"
+[2021.05.23-19.22.45:422][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_CornerFrame.uasset" to "../../../../../../Users/modak/Documents/técnico/unreal/Ilha_MarianaOda/MyProject/Content/StarterContent/Props/SM_CornerFrame.uasset"
+[2021.05.23-19.22.45:426][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Couch.uasset" to "../../../../../../Users/modak/Documents/técnico/unreal/Ilha_MarianaOda/MyProject/Content/StarterContent/Props/SM_Couch.uasset"
+[2021.05.23-19.22.45:431][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Door.uasset" to "../../../../../../Users/modak/Documents/técnico/unreal/Ilha_MarianaOda/MyProject/Content/StarterContent/Props/SM_Door.uasset"
+[2021.05.23-19.22.45:439][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_DoorFrame.uasset" to "../../../../../../Users/modak/Documents/técnico/unreal/Ilha_MarianaOda/MyProject/Content/StarterContent/Props/SM_DoorFrame.uasset"
+[2021.05.23-19.22.45:442][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_GlassWindow.uasset" to "../../../../../../Users/modak/Documents/técnico/unreal/Ilha_MarianaOda/MyProject/Content/StarterContent/Props/SM_GlassWindow.uasset"
+[2021.05.23-19.22.45:445][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset" to "../../../../../../Users/modak/Documents/técnico/unreal/Ilha_MarianaOda/MyProject/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset"
+[2021.05.23-19.22.45:452][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Lamp_Wall.uasset" to "../../../../../../Users/modak/Documents/técnico/unreal/Ilha_MarianaOda/MyProject/Content/StarterContent/Props/SM_Lamp_Wall.uasset"
+[2021.05.23-19.22.45:465][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset" to "../../../../../../Users/modak/Documents/técnico/unreal/Ilha_MarianaOda/MyProject/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset"
+[2021.05.23-19.22.45:469][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_PillarFrame.uasset" to "../../../../../../Users/modak/Documents/técnico/unreal/Ilha_MarianaOda/MyProject/Content/StarterContent/Props/SM_PillarFrame.uasset"
+[2021.05.23-19.22.45:471][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_PillarFrame300.uasset" to "../../../../../../Users/modak/Documents/técnico/unreal/Ilha_MarianaOda/MyProject/Content/StarterContent/Props/SM_PillarFrame300.uasset"
+[2021.05.23-19.22.45:475][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Rock.uasset" to "../../../../../../Users/modak/Documents/técnico/unreal/Ilha_MarianaOda/MyProject/Content/StarterContent/Props/SM_Rock.uasset"
+[2021.05.23-19.22.45:484][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Shelf.uasset" to "../../../../../../Users/modak/Documents/técnico/unreal/Ilha_MarianaOda/MyProject/Content/StarterContent/Props/SM_Shelf.uasset"
+[2021.05.23-19.22.45:488][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Stairs.uasset" to "../../../../../../Users/modak/Documents/técnico/unreal/Ilha_MarianaOda/MyProject/Content/StarterContent/Props/SM_Stairs.uasset"
+[2021.05.23-19.22.45:492][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Statue.uasset" to "../../../../../../Users/modak/Documents/técnico/unreal/Ilha_MarianaOda/MyProject/Content/StarterContent/Props/SM_Statue.uasset"
+[2021.05.23-19.22.45:500][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_TableRound.uasset" to "../../../../../../Users/modak/Documents/técnico/unreal/Ilha_MarianaOda/MyProject/Content/StarterContent/Props/SM_TableRound.uasset"
+[2021.05.23-19.22.45:506][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_WindowFrame.uasset" to "../../../../../../Users/modak/Documents/técnico/unreal/Ilha_MarianaOda/MyProject/Content/StarterContent/Props/SM_WindowFrame.uasset"
+[2021.05.23-19.22.45:512][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Bush.uasset" to "../../../../../../Users/modak/Documents/técnico/unreal/Ilha_MarianaOda/MyProject/Content/StarterContent/Props/Materials/M_Bush.uasset"
+[2021.05.23-19.22.45:518][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Chair.uasset" to "../../../../../../Users/modak/Documents/técnico/unreal/Ilha_MarianaOda/MyProject/Content/StarterContent/Props/Materials/M_Chair.uasset"
+[2021.05.23-19.22.45:524][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Door.uasset" to "../../../../../../Users/modak/Documents/técnico/unreal/Ilha_MarianaOda/MyProject/Content/StarterContent/Props/Materials/M_Door.uasset"
+[2021.05.23-19.22.45:528][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Frame.uasset" to "../../../../../../Users/modak/Documents/técnico/unreal/Ilha_MarianaOda/MyProject/Content/StarterContent/Props/Materials/M_Frame.uasset"
+[2021.05.23-19.22.45:531][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Lamp.uasset" to "../../../../../../Users/modak/Documents/técnico/unreal/Ilha_MarianaOda/MyProject/Content/StarterContent/Props/Materials/M_Lamp.uasset"
+[2021.05.23-19.22.45:538][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset" to "../../../../../../Users/modak/Documents/técnico/unreal/Ilha_MarianaOda/MyProject/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset"
+[2021.05.23-19.22.45:541][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset" to "../../../../../../Users/modak/Documents/técnico/unreal/Ilha_MarianaOda/MyProject/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset"
+[2021.05.23-19.22.45:544][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Rock.uasset" to "../../../../../../Users/modak/Documents/técnico/unreal/Ilha_MarianaOda/MyProject/Content/StarterContent/Props/Materials/M_Rock.uasset"
+[2021.05.23-19.22.45:546][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Shelf.uasset" to "../../../../../../Users/modak/Documents/técnico/unreal/Ilha_MarianaOda/MyProject/Content/StarterContent/Props/Materials/M_Shelf.uasset"
+[2021.05.23-19.22.45:549][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Statue.uasset" to "../../../../../../Users/modak/Documents/técnico/unreal/Ilha_MarianaOda/MyProject/Content/StarterContent/Props/Materials/M_Statue.uasset"
+[2021.05.23-19.22.45:553][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_StatueGlass.uasset" to "../../../../../../Users/modak/Documents/técnico/unreal/Ilha_MarianaOda/MyProject/Content/StarterContent/Props/Materials/M_StatueGlass.uasset"
+[2021.05.23-19.22.45:557][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_TableRound.uasset" to "../../../../../../Users/modak/Documents/técnico/unreal/Ilha_MarianaOda/MyProject/Content/StarterContent/Props/Materials/M_TableRound.uasset"
+[2021.05.23-19.22.45:559][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cone.uasset" to "../../../../../../Users/modak/Documents/técnico/unreal/Ilha_MarianaOda/MyProject/Content/StarterContent/Shapes/Shape_Cone.uasset"
+[2021.05.23-19.22.45:561][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cube.uasset" to "../../../../../../Users/modak/Documents/técnico/unreal/Ilha_MarianaOda/MyProject/Content/StarterContent/Shapes/Shape_Cube.uasset"
+[2021.05.23-19.22.45:567][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cylinder.uasset" to "../../../../../../Users/modak/Documents/técnico/unreal/Ilha_MarianaOda/MyProject/Content/StarterContent/Shapes/Shape_Cylinder.uasset"
+[2021.05.23-19.22.45:569][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset" to "../../../../../../Users/modak/Documents/técnico/unreal/Ilha_MarianaOda/MyProject/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset"
+[2021.05.23-19.22.45:571][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe.uasset" to "../../../../../../Users/modak/Documents/técnico/unreal/Ilha_MarianaOda/MyProject/Content/StarterContent/Shapes/Shape_Pipe.uasset"
+[2021.05.23-19.22.45:574][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe_180.uasset" to "../../../../../../Users/modak/Documents/técnico/unreal/Ilha_MarianaOda/MyProject/Content/StarterContent/Shapes/Shape_Pipe_180.uasset"
+[2021.05.23-19.22.45:579][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe_90.uasset" to "../../../../../../Users/modak/Documents/técnico/unreal/Ilha_MarianaOda/MyProject/Content/StarterContent/Shapes/Shape_Pipe_90.uasset"
+[2021.05.23-19.22.45:586][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Plane.uasset" to "../../../../../../Users/modak/Documents/técnico/unreal/Ilha_MarianaOda/MyProject/Content/StarterContent/Shapes/Shape_Plane.uasset"
+[2021.05.23-19.22.45:589][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset" to "../../../../../../Users/modak/Documents/técnico/unreal/Ilha_MarianaOda/MyProject/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset"
+[2021.05.23-19.22.45:591][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Sphere.uasset" to "../../../../../../Users/modak/Documents/técnico/unreal/Ilha_MarianaOda/MyProject/Content/StarterContent/Shapes/Shape_Sphere.uasset"
+[2021.05.23-19.22.45:596][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Torus.uasset" to "../../../../../../Users/modak/Documents/técnico/unreal/Ilha_MarianaOda/MyProject/Content/StarterContent/Shapes/Shape_Torus.uasset"
+[2021.05.23-19.22.45:598][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim.uasset" to "../../../../../../Users/modak/Documents/técnico/unreal/Ilha_MarianaOda/MyProject/Content/StarterContent/Shapes/Shape_Trim.uasset"
+[2021.05.23-19.22.45:601][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset" to "../../../../../../Users/modak/Documents/técnico/unreal/Ilha_MarianaOda/MyProject/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset"
+[2021.05.23-19.22.45:603][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset" to "../../../../../../Users/modak/Documents/técnico/unreal/Ilha_MarianaOda/MyProject/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset"
+[2021.05.23-19.22.45:606][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_TriPyramid.uasset" to "../../../../../../Users/modak/Documents/técnico/unreal/Ilha_MarianaOda/MyProject/Content/StarterContent/Shapes/Shape_TriPyramid.uasset"
+[2021.05.23-19.22.45:608][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Tube.uasset" to "../../../../../../Users/modak/Documents/técnico/unreal/Ilha_MarianaOda/MyProject/Content/StarterContent/Shapes/Shape_Tube.uasset"
+[2021.05.23-19.22.45:611][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Wedge_A.uasset" to "../../../../../../Users/modak/Documents/técnico/unreal/Ilha_MarianaOda/MyProject/Content/StarterContent/Shapes/Shape_Wedge_A.uasset"
+[2021.05.23-19.22.45:613][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Wedge_B.uasset" to "../../../../../../Users/modak/Documents/técnico/unreal/Ilha_MarianaOda/MyProject/Content/StarterContent/Shapes/Shape_Wedge_B.uasset"
+[2021.05.23-19.22.45:617][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_WideCapsule.uasset" to "../../../../../../Users/modak/Documents/técnico/unreal/Ilha_MarianaOda/MyProject/Content/StarterContent/Shapes/Shape_WideCapsule.uasset"
+[2021.05.23-19.22.45:632][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset" to "../../../../../../Users/modak/Documents/técnico/unreal/Ilha_MarianaOda/MyProject/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset"
+[2021.05.23-19.22.45:645][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset" to "../../../../../../Users/modak/Documents/técnico/unreal/Ilha_MarianaOda/MyProject/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset"
+[2021.05.23-19.22.45:660][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset" to "../../../../../../Users/modak/Documents/técnico/unreal/Ilha_MarianaOda/MyProject/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset"
+[2021.05.23-19.22.45:671][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset" to "../../../../../../Users/modak/Documents/técnico/unreal/Ilha_MarianaOda/MyProject/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset"
+[2021.05.23-19.22.45:688][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset" to "../../../../../../Users/modak/Documents/técnico/unreal/Ilha_MarianaOda/MyProject/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset"
+[2021.05.23-19.22.45:702][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset" to "../../../../../../Users/modak/Documents/técnico/unreal/Ilha_MarianaOda/MyProject/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset"
+[2021.05.23-19.22.45:721][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset" to "../../../../../../Users/modak/Documents/técnico/unreal/Ilha_MarianaOda/MyProject/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset"
+[2021.05.23-19.22.45:735][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset" to "../../../../../../Users/modak/Documents/técnico/unreal/Ilha_MarianaOda/MyProject/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset"
+[2021.05.23-19.22.45:757][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset" to "../../../../../../Users/modak/Documents/técnico/unreal/Ilha_MarianaOda/MyProject/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset"
+[2021.05.23-19.22.45:769][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset" to "../../../../../../Users/modak/Documents/técnico/unreal/Ilha_MarianaOda/MyProject/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset"
+[2021.05.23-19.22.45:783][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset" to "../../../../../../Users/modak/Documents/técnico/unreal/Ilha_MarianaOda/MyProject/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset"
+[2021.05.23-19.22.45:796][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset" to "../../../../../../Users/modak/Documents/técnico/unreal/Ilha_MarianaOda/MyProject/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset"
+[2021.05.23-19.22.45:812][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset" to "../../../../../../Users/modak/Documents/técnico/unreal/Ilha_MarianaOda/MyProject/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset"
+[2021.05.23-19.22.45:814][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Burst_M.uasset" to "../../../../../../Users/modak/Documents/técnico/unreal/Ilha_MarianaOda/MyProject/Content/StarterContent/Textures/T_Burst_M.uasset"
+[2021.05.23-19.22.45:817][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Bush_D.uasset" to "../../../../../../Users/modak/Documents/técnico/unreal/Ilha_MarianaOda/MyProject/Content/StarterContent/Textures/T_Bush_D.uasset"
+[2021.05.23-19.22.45:820][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Bush_N.uasset" to "../../../../../../Users/modak/Documents/técnico/unreal/Ilha_MarianaOda/MyProject/Content/StarterContent/Textures/T_Bush_N.uasset"
+[2021.05.23-19.22.45:822][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset" to "../../../../../../Users/modak/Documents/técnico/unreal/Ilha_MarianaOda/MyProject/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset"
+[2021.05.23-19.22.45:825][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset" to "../../../../../../Users/modak/Documents/técnico/unreal/Ilha_MarianaOda/MyProject/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset"
+[2021.05.23-19.22.45:829][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Chair_M.uasset" to "../../../../../../Users/modak/Documents/técnico/unreal/Ilha_MarianaOda/MyProject/Content/StarterContent/Textures/T_Chair_M.uasset"
+[2021.05.23-19.22.45:835][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Chair_N.uasset" to "../../../../../../Users/modak/Documents/técnico/unreal/Ilha_MarianaOda/MyProject/Content/StarterContent/Textures/T_Chair_N.uasset"
+[2021.05.23-19.22.45:838][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Checker_Noise_M.uasset" to "../../../../../../Users/modak/Documents/técnico/unreal/Ilha_MarianaOda/MyProject/Content/StarterContent/Textures/T_Checker_Noise_M.uasset"
+[2021.05.23-19.22.45:857][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset" to "../../../../../../Users/modak/Documents/técnico/unreal/Ilha_MarianaOda/MyProject/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset"
+[2021.05.23-19.22.45:862][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset" to "../../../../../../Users/modak/Documents/técnico/unreal/Ilha_MarianaOda/MyProject/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset"
+[2021.05.23-19.22.45:891][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset" to "../../../../../../Users/modak/Documents/técnico/unreal/Ilha_MarianaOda/MyProject/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset"
+[2021.05.23-19.22.45:902][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset" to "../../../../../../Users/modak/Documents/técnico/unreal/Ilha_MarianaOda/MyProject/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset"
+[2021.05.23-19.22.45:912][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset" to "../../../../../../Users/modak/Documents/técnico/unreal/Ilha_MarianaOda/MyProject/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset"
+[2021.05.23-19.22.45:932][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset" to "../../../../../../Users/modak/Documents/técnico/unreal/Ilha_MarianaOda/MyProject/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset"
+[2021.05.23-19.22.45:956][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset" to "../../../../../../Users/modak/Documents/técnico/unreal/Ilha_MarianaOda/MyProject/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset"
+[2021.05.23-19.22.45:985][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset" to "../../../../../../Users/modak/Documents/técnico/unreal/Ilha_MarianaOda/MyProject/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset"
+[2021.05.23-19.22.46:026][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset" to "../../../../../../Users/modak/Documents/técnico/unreal/Ilha_MarianaOda/MyProject/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset"
+[2021.05.23-19.22.46:054][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset" to "../../../../../../Users/modak/Documents/técnico/unreal/Ilha_MarianaOda/MyProject/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset"
+[2021.05.23-19.22.46:079][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset" to "../../../../../../Users/modak/Documents/técnico/unreal/Ilha_MarianaOda/MyProject/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset"
+[2021.05.23-19.22.46:112][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset" to "../../../../../../Users/modak/Documents/técnico/unreal/Ilha_MarianaOda/MyProject/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset"
+[2021.05.23-19.22.46:139][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset" to "../../../../../../Users/modak/Documents/técnico/unreal/Ilha_MarianaOda/MyProject/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset"
+[2021.05.23-19.22.46:158][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset" to "../../../../../../Users/modak/Documents/técnico/unreal/Ilha_MarianaOda/MyProject/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset"
+[2021.05.23-19.22.46:168][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset" to "../../../../../../Users/modak/Documents/técnico/unreal/Ilha_MarianaOda/MyProject/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset"
+[2021.05.23-19.22.46:179][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset" to "../../../../../../Users/modak/Documents/técnico/unreal/Ilha_MarianaOda/MyProject/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset"
+[2021.05.23-19.22.46:180][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset" to "../../../../../../Users/modak/Documents/técnico/unreal/Ilha_MarianaOda/MyProject/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset"
+[2021.05.23-19.22.46:186][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset" to "../../../../../../Users/modak/Documents/técnico/unreal/Ilha_MarianaOda/MyProject/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset"
+[2021.05.23-19.22.46:189][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Door_M.uasset" to "../../../../../../Users/modak/Documents/técnico/unreal/Ilha_MarianaOda/MyProject/Content/StarterContent/Textures/T_Door_M.uasset"
+[2021.05.23-19.22.46:193][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Door_N.uasset" to "../../../../../../Users/modak/Documents/técnico/unreal/Ilha_MarianaOda/MyProject/Content/StarterContent/Textures/T_Door_N.uasset"
+[2021.05.23-19.22.46:195][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Dust_Particle_D.uasset" to "../../../../../../Users/modak/Documents/técnico/unreal/Ilha_MarianaOda/MyProject/Content/StarterContent/Textures/T_Dust_Particle_D.uasset"
+[2021.05.23-19.22.46:202][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Explosion_SubUV.uasset" to "../../../../../../Users/modak/Documents/técnico/unreal/Ilha_MarianaOda/MyProject/Content/StarterContent/Textures/T_Explosion_SubUV.uasset"
+[2021.05.23-19.22.46:204][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Fire_SubUV.uasset" to "../../../../../../Users/modak/Documents/técnico/unreal/Ilha_MarianaOda/MyProject/Content/StarterContent/Textures/T_Fire_SubUV.uasset"
+[2021.05.23-19.22.46:209][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset" to "../../../../../../Users/modak/Documents/técnico/unreal/Ilha_MarianaOda/MyProject/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset"
+[2021.05.23-19.22.46:212][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Frame_M.uasset" to "../../../../../../Users/modak/Documents/técnico/unreal/Ilha_MarianaOda/MyProject/Content/StarterContent/Textures/T_Frame_M.uasset"
+[2021.05.23-19.22.46:215][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Frame_N.uasset" to "../../../../../../Users/modak/Documents/técnico/unreal/Ilha_MarianaOda/MyProject/Content/StarterContent/Textures/T_Frame_N.uasset"
+[2021.05.23-19.22.46:217][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Gradinet_01.uasset" to "../../../../../../Users/modak/Documents/técnico/unreal/Ilha_MarianaOda/MyProject/Content/StarterContent/Textures/T_Gradinet_01.uasset"
+[2021.05.23-19.22.46:233][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Grass_D.uasset" to "../../../../../../Users/modak/Documents/técnico/unreal/Ilha_MarianaOda/MyProject/Content/StarterContent/Textures/T_Ground_Grass_D.uasset"
+[2021.05.23-19.22.46:249][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Grass_N.uasset" to "../../../../../../Users/modak/Documents/técnico/unreal/Ilha_MarianaOda/MyProject/Content/StarterContent/Textures/T_Ground_Grass_N.uasset"
+[2021.05.23-19.22.46:262][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset" to "../../../../../../Users/modak/Documents/técnico/unreal/Ilha_MarianaOda/MyProject/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset"
+[2021.05.23-19.22.46:275][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset" to "../../../../../../Users/modak/Documents/técnico/unreal/Ilha_MarianaOda/MyProject/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset"
+[2021.05.23-19.22.46:303][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_ground_Moss_D.uasset" to "../../../../../../Users/modak/Documents/técnico/unreal/Ilha_MarianaOda/MyProject/Content/StarterContent/Textures/T_ground_Moss_D.uasset"
+[2021.05.23-19.22.46:323][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Moss_N.uasset" to "../../../../../../Users/modak/Documents/técnico/unreal/Ilha_MarianaOda/MyProject/Content/StarterContent/Textures/T_Ground_Moss_N.uasset"
+[2021.05.23-19.22.46:327][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Lamp_M.uasset" to "../../../../../../Users/modak/Documents/técnico/unreal/Ilha_MarianaOda/MyProject/Content/StarterContent/Textures/T_Lamp_M.uasset"
+[2021.05.23-19.22.46:339][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Lamp_N.uasset" to "../../../../../../Users/modak/Documents/técnico/unreal/Ilha_MarianaOda/MyProject/Content/StarterContent/Textures/T_Lamp_N.uasset"
+[2021.05.23-19.22.46:376][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_MacroVariation.uasset" to "../../../../../../Users/modak/Documents/técnico/unreal/Ilha_MarianaOda/MyProject/Content/StarterContent/Textures/T_MacroVariation.uasset"
+[2021.05.23-19.22.46:404][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset" to "../../../../../../Users/modak/Documents/técnico/unreal/Ilha_MarianaOda/MyProject/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset"
+[2021.05.23-19.22.46:432][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Copper_D.uasset" to "../../../../../../Users/modak/Documents/técnico/unreal/Ilha_MarianaOda/MyProject/Content/StarterContent/Textures/T_Metal_Copper_D.uasset"
+[2021.05.23-19.22.46:459][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Gold_D.uasset" to "../../../../../../Users/modak/Documents/técnico/unreal/Ilha_MarianaOda/MyProject/Content/StarterContent/Textures/T_Metal_Gold_D.uasset"
+[2021.05.23-19.22.46:469][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Gold_N.uasset" to "../../../../../../Users/modak/Documents/técnico/unreal/Ilha_MarianaOda/MyProject/Content/StarterContent/Textures/T_Metal_Gold_N.uasset"
+[2021.05.23-19.22.46:492][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Rust_D.uasset" to "../../../../../../Users/modak/Documents/técnico/unreal/Ilha_MarianaOda/MyProject/Content/StarterContent/Textures/T_Metal_Rust_D.uasset"
+[2021.05.23-19.22.46:530][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Rust_N.uasset" to "../../../../../../Users/modak/Documents/técnico/unreal/Ilha_MarianaOda/MyProject/Content/StarterContent/Textures/T_Metal_Rust_N.uasset"
+[2021.05.23-19.22.46:542][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Steel_D.uasset" to "../../../../../../Users/modak/Documents/técnico/unreal/Ilha_MarianaOda/MyProject/Content/StarterContent/Textures/T_Metal_Steel_D.uasset"
+[2021.05.23-19.22.46:572][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Steel_N.uasset" to "../../../../../../Users/modak/Documents/técnico/unreal/Ilha_MarianaOda/MyProject/Content/StarterContent/Textures/T_Metal_Steel_N.uasset"
+[2021.05.23-19.22.46:585][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset" to "../../../../../../Users/modak/Documents/técnico/unreal/Ilha_MarianaOda/MyProject/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset"
+[2021.05.23-19.22.46:592][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_RockMesh_M.uasset" to "../../../../../../Users/modak/Documents/técnico/unreal/Ilha_MarianaOda/MyProject/Content/StarterContent/Textures/T_RockMesh_M.uasset"
+[2021.05.23-19.22.46:601][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_RockMesh_N.uasset" to "../../../../../../Users/modak/Documents/técnico/unreal/Ilha_MarianaOda/MyProject/Content/StarterContent/Textures/T_RockMesh_N.uasset"
+[2021.05.23-19.22.46:617][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset" to "../../../../../../Users/modak/Documents/técnico/unreal/Ilha_MarianaOda/MyProject/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset"
+[2021.05.23-19.22.46:629][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset" to "../../../../../../Users/modak/Documents/técnico/unreal/Ilha_MarianaOda/MyProject/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset"
+[2021.05.23-19.22.46:640][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset" to "../../../../../../Users/modak/Documents/técnico/unreal/Ilha_MarianaOda/MyProject/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset"
+[2021.05.23-19.22.46:656][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset" to "../../../../../../Users/modak/Documents/técnico/unreal/Ilha_MarianaOda/MyProject/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset"
+[2021.05.23-19.22.46:670][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset" to "../../../../../../Users/modak/Documents/técnico/unreal/Ilha_MarianaOda/MyProject/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset"
+[2021.05.23-19.22.46:692][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Slate_D.uasset" to "../../../../../../Users/modak/Documents/técnico/unreal/Ilha_MarianaOda/MyProject/Content/StarterContent/Textures/T_Rock_Slate_D.uasset"
+[2021.05.23-19.22.46:709][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Slate_N.uasset" to "../../../../../../Users/modak/Documents/técnico/unreal/Ilha_MarianaOda/MyProject/Content/StarterContent/Textures/T_Rock_Slate_N.uasset"
+[2021.05.23-19.22.46:729][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset" to "../../../../../../Users/modak/Documents/técnico/unreal/Ilha_MarianaOda/MyProject/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset"
+[2021.05.23-19.22.46:732][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Shelf_M.uasset" to "../../../../../../Users/modak/Documents/técnico/unreal/Ilha_MarianaOda/MyProject/Content/StarterContent/Textures/T_Shelf_M.uasset"
+[2021.05.23-19.22.46:739][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Shelf_N.uasset" to "../../../../../../Users/modak/Documents/técnico/unreal/Ilha_MarianaOda/MyProject/Content/StarterContent/Textures/T_Shelf_N.uasset"
+[2021.05.23-19.22.46:741][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Single_Tile_N.uasset" to "../../../../../../Users/modak/Documents/técnico/unreal/Ilha_MarianaOda/MyProject/Content/StarterContent/Textures/T_Single_Tile_N.uasset"
+[2021.05.23-19.22.46:749][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Smoke_SubUV.uasset" to "../../../../../../Users/modak/Documents/técnico/unreal/Ilha_MarianaOda/MyProject/Content/StarterContent/Textures/T_Smoke_SubUV.uasset"
+[2021.05.23-19.22.46:752][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset" to "../../../../../../Users/modak/Documents/técnico/unreal/Ilha_MarianaOda/MyProject/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset"
+[2021.05.23-19.22.46:755][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Spark_Core.uasset" to "../../../../../../Users/modak/Documents/técnico/unreal/Ilha_MarianaOda/MyProject/Content/StarterContent/Textures/T_Spark_Core.uasset"
+[2021.05.23-19.22.46:758][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Statue_M.uasset" to "../../../../../../Users/modak/Documents/técnico/unreal/Ilha_MarianaOda/MyProject/Content/StarterContent/Textures/T_Statue_M.uasset"
+[2021.05.23-19.22.46:761][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Statue_N.uasset" to "../../../../../../Users/modak/Documents/técnico/unreal/Ilha_MarianaOda/MyProject/Content/StarterContent/Textures/T_Statue_N.uasset"
+[2021.05.23-19.22.46:765][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_TableRound_M.uasset" to "../../../../../../Users/modak/Documents/técnico/unreal/Ilha_MarianaOda/MyProject/Content/StarterContent/Textures/T_TableRound_M.uasset"
+[2021.05.23-19.22.46:772][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_TableRound_N.uasset" to "../../../../../../Users/modak/Documents/técnico/unreal/Ilha_MarianaOda/MyProject/Content/StarterContent/Textures/T_TableRound_N.uasset"
+[2021.05.23-19.22.46:775][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Dot_M.uasset" to "../../../../../../Users/modak/Documents/técnico/unreal/Ilha_MarianaOda/MyProject/Content/StarterContent/Textures/T_Tech_Dot_M.uasset"
+[2021.05.23-19.22.46:778][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Dot_N.uasset" to "../../../../../../Users/modak/Documents/técnico/unreal/Ilha_MarianaOda/MyProject/Content/StarterContent/Textures/T_Tech_Dot_N.uasset"
+[2021.05.23-19.22.46:782][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset" to "../../../../../../Users/modak/Documents/técnico/unreal/Ilha_MarianaOda/MyProject/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset"
+[2021.05.23-19.22.46:784][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset" to "../../../../../../Users/modak/Documents/técnico/unreal/Ilha_MarianaOda/MyProject/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset"
+[2021.05.23-19.22.46:789][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Panel_M.uasset" to "../../../../../../Users/modak/Documents/técnico/unreal/Ilha_MarianaOda/MyProject/Content/StarterContent/Textures/T_Tech_Panel_M.uasset"
+[2021.05.23-19.22.46:795][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Panel_N.uasset" to "../../../../../../Users/modak/Documents/técnico/unreal/Ilha_MarianaOda/MyProject/Content/StarterContent/Textures/T_Tech_Panel_N.uasset"
+[2021.05.23-19.22.46:801][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Water_M.uasset" to "../../../../../../Users/modak/Documents/técnico/unreal/Ilha_MarianaOda/MyProject/Content/StarterContent/Textures/T_Water_M.uasset"
+[2021.05.23-19.22.46:808][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Water_N.uasset" to "../../../../../../Users/modak/Documents/técnico/unreal/Ilha_MarianaOda/MyProject/Content/StarterContent/Textures/T_Water_N.uasset"
+[2021.05.23-19.22.46:820][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset" to "../../../../../../Users/modak/Documents/técnico/unreal/Ilha_MarianaOda/MyProject/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset"
+[2021.05.23-19.22.46:834][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset" to "../../../../../../Users/modak/Documents/técnico/unreal/Ilha_MarianaOda/MyProject/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset"
+[2021.05.23-19.22.46:842][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset" to "../../../../../../Users/modak/Documents/técnico/unreal/Ilha_MarianaOda/MyProject/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset"
+[2021.05.23-19.22.46:857][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Oak_D.uasset" to "../../../../../../Users/modak/Documents/técnico/unreal/Ilha_MarianaOda/MyProject/Content/StarterContent/Textures/T_Wood_Oak_D.uasset"
+[2021.05.23-19.22.46:876][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Oak_N.uasset" to "../../../../../../Users/modak/Documents/técnico/unreal/Ilha_MarianaOda/MyProject/Content/StarterContent/Textures/T_Wood_Oak_N.uasset"
+[2021.05.23-19.22.46:909][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Pine_D.uasset" to "../../../../../../Users/modak/Documents/técnico/unreal/Ilha_MarianaOda/MyProject/Content/StarterContent/Textures/T_Wood_Pine_D.uasset"
+[2021.05.23-19.22.46:920][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Pine_N.uasset" to "../../../../../../Users/modak/Documents/técnico/unreal/Ilha_MarianaOda/MyProject/Content/StarterContent/Textures/T_Wood_Pine_N.uasset"
+[2021.05.23-19.22.46:945][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset" to "../../../../../../Users/modak/Documents/técnico/unreal/Ilha_MarianaOda/MyProject/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset"
+[2021.05.23-19.22.46:963][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset" to "../../../../../../Users/modak/Documents/técnico/unreal/Ilha_MarianaOda/MyProject/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset"
+[2021.05.23-19.22.47:257][  0]LogRenderer: Reallocating scene render targets to support 256x256 Format 10 NumSamples 1 (Frame:1).
+[2021.05.23-19.22.47:918][  0]LogSavePackage: Moving '../../../../../../Users/modak/Documents/técnico/unreal/Ilha_MarianaOda/MyProject/Saved/Floor_400x40096C8B82645BB6369F8EA9780E62416E0.tmp' to '../../../../../../Users/modak/Documents/técnico/unreal/Ilha_MarianaOda/MyProject/Content/StarterContent/Architecture/Floor_400x400.uasset'
+[2021.05.23-19.22.47:922][  0]LogFeaturePack: Warning: Inserted 1 feature packs
+[2021.05.23-19.22.47:924][  0]Cmd: MAP LOAD FILE="../../../../../../Users/modak/Documents/técnico/unreal/Ilha_MarianaOda/MyProject/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.05.23-19.22.47:925][  0]LightingResults: New page: Compilação de Iluminação
+[2021.05.23-19.22.47:932][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.05.23-19.22.47:935][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.23-19.22.47:939][  0]MapCheck: New page: Verificação de Mapa
+[2021.05.23-19.22.47:939][  0]LightingResults: New page: Compilação de Iluminação
+[2021.05.23-19.22.47:972][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2021.05.23-19.22.48:324][  0]LogTexture: Display: Building textures: DeprecatedTexture4E9A31EC459F824B7293D9A5960F381F (BGRA8, 128X128)
+[2021.05.23-19.22.48:396][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'FirstPersonExampleMap'.
+[2021.05.23-19.22.48:398][  0]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2021.05.23-19.22.48:446][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.05.23-19.22.48:461][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2021.05.23-19.22.48:463][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.05.23-19.22.48:464][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,22ms to complete.
+[2021.05.23-19.22.48:464][  0]LogFileHelpers: Loading map 'FirstPersonExampleMap' took 0.540
+[2021.05.23-19.22.48:506][  0]LogUnrealEdMisc: Total Editor Startup Time, took 13.226
+[2021.05.23-19.22.48:706][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.23-19.22.48:714][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.23-19.22.48:724][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.23-19.22.48:731][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.23-19.22.48:777][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0154 seconds. Added 3601 classes and 859 folders.
+[2021.05.23-19.22.48:787][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2021.05.23-19.22.48:793][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.05.23-19.22.48:794][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.23-19.22.48:794][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.05.23-19.22.48:794][  0]LogPakFile: OnPakFileMounted2Time == 0.000418
+[2021.05.23-19.22.48:799][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.05.23-19.22.48:799][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.23-19.22.48:799][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.05.23-19.22.48:799][  0]LogPakFile: OnPakFileMounted2Time == 0.000423
+[2021.05.23-19.22.48:801][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2021.05.23-19.22.48:802][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.23-19.22.48:802][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2021.05.23-19.22.48:802][  0]LogPakFile: OnPakFileMounted2Time == 0.000426
+[2021.05.23-19.22.48:803][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.05.23-19.22.48:803][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.23-19.22.48:803][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.05.23-19.22.48:803][  0]LogPakFile: OnPakFileMounted2Time == 0.000431
+[2021.05.23-19.22.48:805][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.05.23-19.22.48:805][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.23-19.22.48:805][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.05.23-19.22.48:805][  0]LogPakFile: OnPakFileMounted2Time == 0.000435
+[2021.05.23-19.22.48:807][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.05.23-19.22.48:807][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.23-19.22.48:807][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.05.23-19.22.48:807][  0]LogPakFile: OnPakFileMounted2Time == 0.000438
+[2021.05.23-19.22.48:808][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.05.23-19.22.48:808][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.23-19.22.48:808][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.05.23-19.22.48:809][  0]LogPakFile: OnPakFileMounted2Time == 0.000440
+[2021.05.23-19.22.48:811][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.05.23-19.22.48:811][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.23-19.22.48:811][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.05.23-19.22.48:811][  0]LogPakFile: OnPakFileMounted2Time == 0.000443
+[2021.05.23-19.22.48:812][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.05.23-19.22.48:812][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.23-19.22.48:812][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.05.23-19.22.48:812][  0]LogPakFile: OnPakFileMounted2Time == 0.000445
+[2021.05.23-19.22.48:814][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.05.23-19.22.48:814][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.23-19.22.48:814][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.05.23-19.22.48:814][  0]LogPakFile: OnPakFileMounted2Time == 0.000448
+[2021.05.23-19.22.48:816][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.05.23-19.22.48:816][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.23-19.22.48:816][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.05.23-19.22.48:816][  0]LogPakFile: OnPakFileMounted2Time == 0.000451
+[2021.05.23-19.22.48:817][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.05.23-19.22.48:817][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.23-19.22.48:817][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.05.23-19.22.48:817][  0]LogPakFile: OnPakFileMounted2Time == 0.000453
+[2021.05.23-19.22.48:818][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.05.23-19.22.48:818][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.23-19.22.48:818][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.05.23-19.22.48:818][  0]LogPakFile: OnPakFileMounted2Time == 0.000455
+[2021.05.23-19.22.48:820][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.05.23-19.22.48:820][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.23-19.22.48:820][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.05.23-19.22.48:820][  0]LogPakFile: OnPakFileMounted2Time == 0.000461
+[2021.05.23-19.22.48:822][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.05.23-19.22.48:822][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.23-19.22.48:822][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.05.23-19.22.48:822][  0]LogPakFile: OnPakFileMounted2Time == 0.000466
+[2021.05.23-19.22.48:824][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.05.23-19.22.48:824][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.23-19.22.48:824][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.05.23-19.22.48:824][  0]LogPakFile: OnPakFileMounted2Time == 0.000468
+[2021.05.23-19.22.48:825][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.05.23-19.22.48:825][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.23-19.22.48:825][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.05.23-19.22.48:825][  0]LogPakFile: OnPakFileMounted2Time == 0.000473
+[2021.05.23-19.22.48:826][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.05.23-19.22.48:826][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.23-19.22.48:827][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.05.23-19.22.48:827][  0]LogPakFile: OnPakFileMounted2Time == 0.000475
+[2021.05.23-19.22.48:828][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.05.23-19.22.48:828][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.23-19.22.48:828][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.05.23-19.22.48:828][  0]LogPakFile: OnPakFileMounted2Time == 0.000476
+[2021.05.23-19.22.48:829][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.05.23-19.22.48:829][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.23-19.22.48:829][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.05.23-19.22.48:829][  0]LogPakFile: OnPakFileMounted2Time == 0.000478
+[2021.05.23-19.22.48:830][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.05.23-19.22.48:830][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.23-19.22.48:831][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.05.23-19.22.48:831][  0]LogPakFile: OnPakFileMounted2Time == 0.000480
+[2021.05.23-19.22.48:832][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.05.23-19.22.48:832][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.23-19.22.48:832][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.05.23-19.22.48:832][  0]LogPakFile: OnPakFileMounted2Time == 0.000483
+[2021.05.23-19.22.48:833][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2021.05.23-19.22.48:833][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.23-19.22.48:833][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2021.05.23-19.22.48:833][  0]LogPakFile: OnPakFileMounted2Time == 0.000486
+[2021.05.23-19.22.48:835][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.05.23-19.22.48:835][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.23-19.22.48:835][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.05.23-19.22.48:835][  0]LogPakFile: OnPakFileMounted2Time == 0.000490
+[2021.05.23-19.22.48:839][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.05.23-19.22.48:839][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.23-19.22.48:839][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.05.23-19.22.48:839][  0]LogPakFile: OnPakFileMounted2Time == 0.000494
+[2021.05.23-19.22.48:841][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.05.23-19.22.48:841][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.23-19.22.48:841][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.05.23-19.22.48:841][  0]LogPakFile: OnPakFileMounted2Time == 0.000496
+[2021.05.23-19.22.48:958][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2021.05.23-19.22.48:963][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 2 classes and 0 folders.
+[2021.05.23-19.22.49:053][  0]LogSlate: Took 0.000858 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.05.23-19.22.49:057][  0]LogSlate: Took 0.000701 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.05.23-19.22.49:066][  0]LogSlate: Took 0.000507 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.05.23-19.22.49:159][  0]LogRenderer: Reallocating scene render targets to support 716x392 Format 10 NumSamples 1 (Frame:1).
+[2021.05.23-19.22.49:224][  0]LogSlate: Took 0.000823 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.05.23-19.22.49:382][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2021.05.23-19.22.49:382][  0]LogLoad: (Engine Initialization) Total time: 14.10 seconds
+[2021.05.23-19.22.49:382][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2021.05.23-19.22.49:382][  0]LogInit: First time updating LLM stats...
+[2021.05.23-19.22.49:516][  0]AssetCheck: New page: Asset Save: Floor_400x400
+[2021.05.23-19.22.49:516][  0]LogContentValidation: Display: Validating StaticMesh /Game/StarterContent/Architecture/Floor_400x400.Floor_400x400
+[2021.05.23-19.22.49:553][  0]LogAssetRegistry: Asset discovery search completed in 9.8168 seconds
+[2021.05.23-19.22.49:557][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000008 seconds (updated 0 objects)
+[2021.05.23-19.22.49:558][  0]LogContentStreaming: Texture pool size now 1000 MB
