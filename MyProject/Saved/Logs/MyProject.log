@@ -2122,3 +2122,49 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.05.23-20.44.06:009][691]MaterialEditorStats: Texture samplers: 4/16
 [2021.05.23-20.44.06:009][691]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
 [2021.05.23-20.44.06:009][691]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.05.23-20.44.18:798][775]LogSlate: Window 'water' being destroyed
+[2021.05.23-20.44.18:835][775]LogSlate: Window 'water' being destroyed
+[2021.05.23-20.44.18:852][775]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2021.05.23-20.44.18:852][775]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.23-20.44.52:007][624]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Untitled" FILE="../../../../../../Users/modak/Documents/técnico/unreal/Ilha_MarianaOda/MyProject/Content/Untitled.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.05.23-20.44.52:016][624]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2021.05.23-20.44.52:029][624]LogTexture: Display: Building textures: Texture2D_9 (BGRA8, 64X64)
+[2021.05.23-20.44.52:030][624]LogTexture: Display: Building textures: Texture2D_10 (BGRA8, 64X64)
+[2021.05.23-20.44.52:031][624]LogTexture: Display: Building textures: Texture2D_11 (BGRA8, 64X64)
+[2021.05.23-20.44.52:032][624]LogTexture: Display: Building textures: Texture2D_12 (BGRA8, 64X64)
+[2021.05.23-20.44.52:034][624]LogTexture: Display: Building textures: Texture2D_13 (BGRA8, 64X64)
+[2021.05.23-20.44.52:035][624]LogTexture: Display: Building textures: Texture2D_17 (BGRA8, 64X64)
+[2021.05.23-20.44.52:036][624]LogTexture: Display: Building textures: Texture2D_18 (BGRA8, 64X64)
+[2021.05.23-20.44.52:037][624]LogTexture: Display: Building textures: Texture2D_19 (BGRA8, 64X64)
+[2021.05.23-20.44.52:038][624]LogTexture: Display: Building textures: Texture2D_20 (BGRA8, 64X64)
+[2021.05.23-20.44.52:039][624]LogTexture: Display: Building textures: Texture2D_21 (BGRA8, 64X64)
+[2021.05.23-20.44.52:040][624]LogTexture: Display: Building textures: Texture2D_25 (BGRA8, 64X64)
+[2021.05.23-20.44.52:043][624]LogTexture: Display: Building textures: Texture2D_26 (BGRA8, 64X64)
+[2021.05.23-20.44.52:045][624]LogTexture: Display: Building textures: Texture2D_27 (BGRA8, 64X64)
+[2021.05.23-20.44.52:046][624]LogTexture: Display: Building textures: Texture2D_28 (BGRA8, 64X64)
+[2021.05.23-20.44.52:047][624]LogTexture: Display: Building textures: Texture2D_29 (BGRA8, 64X64)
+[2021.05.23-20.44.52:048][624]LogTexture: Display: Building textures: Texture2D_30 (BGRA8, 64X64)
+[2021.05.23-20.44.52:051][624]LogTexture: Display: Building textures: Texture2D_31 (BGRA8, 64X64)
+[2021.05.23-20.44.52:052][624]LogTexture: Display: Building textures: Texture2D_33 (BGRA8, 64X64)
+[2021.05.23-20.44.52:054][624]LogTexture: Display: Building textures: Texture2D_34 (BGRA8, 64X64)
+[2021.05.23-20.44.52:055][624]LogTexture: Display: Building textures: Texture2D_35 (BGRA8, 64X64)
+[2021.05.23-20.44.52:056][624]LogTexture: Display: Building textures: Texture2D_36 (BGRA8, 64X64)
+[2021.05.23-20.44.52:058][624]LogTexture: Display: Building textures: Texture2D_37 (BGRA8, 64X64)
+[2021.05.23-20.44.52:059][624]LogTexture: Display: Building textures: Texture2D_38 (BGRA8, 64X64)
+[2021.05.23-20.44.52:060][624]LogTexture: Display: Building textures: Texture2D_39 (BGRA8, 64X64)
+[2021.05.23-20.44.52:061][624]LogTexture: Display: Building textures: Texture2D_42 (BGRA8, 64X64)
+[2021.05.23-20.44.52:062][624]LogTexture: Display: Building textures: Texture2D_43 (BGRA8, 64X64)
+[2021.05.23-20.44.52:063][624]LogTexture: Display: Building textures: Texture2D_44 (BGRA8, 64X64)
+[2021.05.23-20.44.52:064][624]LogTexture: Display: Building textures: Texture2D_45 (BGRA8, 64X64)
+[2021.05.23-20.44.52:065][624]LogTexture: Display: Building textures: Texture2D_46 (BGRA8, 64X64)
+[2021.05.23-20.44.52:066][624]LogTexture: Display: Building textures: Texture2D_47 (BGRA8, 64X64)
+[2021.05.23-20.44.52:067][624]LogTexture: Display: Building textures: Texture2D_50 (BGRA8, 64X64)
+[2021.05.23-20.44.52:068][624]LogTexture: Display: Building textures: Texture2D_51 (BGRA8, 64X64)
+[2021.05.23-20.44.52:069][624]LogTexture: Display: Building textures: Texture2D_52 (BGRA8, 64X64)
+[2021.05.23-20.44.52:070][624]LogTexture: Display: Building textures: Texture2D_53 (BGRA8, 64X64)
+[2021.05.23-20.44.52:071][624]LogTexture: Display: Building textures: Texture2D_54 (BGRA8, 64X64)
+[2021.05.23-20.44.52:072][624]LogTexture: Display: Building textures: Texture2D_55 (BGRA8, 64X64)
+[2021.05.23-20.44.52:073][624]LogTexture: Display: Building textures: Texture2D_75 (BGRA8, 64X64)
+[2021.05.23-20.44.52:246][624]LogSavePackage: Moving '../../../../../../Users/modak/Documents/técnico/unreal/Ilha_MarianaOda/MyProject/Saved/Untitled86F19E2C4DE1EDCFC4140680B2850ED1.tmp' to '../../../../../../Users/modak/Documents/técnico/unreal/Ilha_MarianaOda/MyProject/Content/Untitled.umap'
+[2021.05.23-20.44.52:270][624]AssetCheck: New page: Asset Save: Untitled
+[2021.05.23-20.44.52:270][624]LogContentValidation: Display: Validating World /Game/Untitled.Untitled
