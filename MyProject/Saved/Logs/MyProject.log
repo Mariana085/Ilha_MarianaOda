@@ -972,3 +972,744 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.05.23-20.12.05:608][313]LogSlate: Window 'areia' being destroyed
 [2021.05.23-20.12.05:634][313]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
 [2021.05.23-20.12.05:634][313]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.23-20.12.45:875][638]LogTexture: Display: Building textures: Texture2D_2 (G8, 128X128)
+[2021.05.23-20.12.45:974][638]LogSlate: Took 0.008728 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.05.23-20.13.43:013][529]Cmd: TRANSACTION UNDO
+[2021.05.23-20.13.43:013][529]LogEditorTransaction: Undo Set Location
+[2021.05.23-20.13.43:562][544]Cmd: TRANSACTION UNDO
+[2021.05.23-20.13.43:562][544]LogEditorTransaction: Undo Set Location
+[2021.05.23-20.14.13:546][902]Cmd: TRANSACTION UNDO
+[2021.05.23-20.14.13:546][902]LogEditorTransaction: Undo Edição de Paisagem: Esculpir
+[2021.05.23-20.14.13:612][902]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2021.05.23-20.14.13:950][907]Cmd: TRANSACTION UNDO
+[2021.05.23-20.14.13:950][907]LogEditorTransaction: Undo Edição de Paisagem: Esculpir
+[2021.05.23-20.14.14:009][907]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2021.05.23-20.15.41:604][360]Cmd: TRANSACTION UNDO
+[2021.05.23-20.15.41:604][360]LogEditorTransaction: Undo Set Rotation
+[2021.05.23-20.16.37:392][751]LogTexture: Display: Building textures: Texture2D_1 (BGRA8, 64X64)
+[2021.05.23-20.16.37:395][751]LogTexture: Display: Building textures: Texture2D_1 (BGRA8, 64X64)
+[2021.05.23-20.16.37:396][751]LogTexture: Display: Building textures: Texture2D_2 (BGRA8, 64X64)
+[2021.05.23-20.16.37:400][751]LogTexture: Display: Building textures: Texture2D_2 (BGRA8, 64X64)
+[2021.05.23-20.16.37:402][751]LogTexture: Display: Building textures: Texture2D_3 (BGRA8, 64X64)
+[2021.05.23-20.16.37:406][751]LogTexture: Display: Building textures: Texture2D_3 (BGRA8, 64X64)
+[2021.05.23-20.16.37:408][751]LogTexture: Display: Building textures: Texture2D_4 (BGRA8, 64X64)
+[2021.05.23-20.16.37:412][751]LogTexture: Display: Building textures: Texture2D_4 (BGRA8, 64X64)
+[2021.05.23-20.16.37:414][751]LogTexture: Display: Building textures: Texture2D_5 (BGRA8, 64X64)
+[2021.05.23-20.16.37:418][751]LogTexture: Display: Building textures: Texture2D_5 (BGRA8, 64X64)
+[2021.05.23-20.16.37:420][751]LogTexture: Display: Building textures: Texture2D_6 (BGRA8, 64X64)
+[2021.05.23-20.16.37:424][751]LogTexture: Display: Building textures: Texture2D_6 (BGRA8, 64X64)
+[2021.05.23-20.16.37:426][751]LogTexture: Display: Building textures: Texture2D_7 (BGRA8, 64X64)
+[2021.05.23-20.16.37:441][751]LogTexture: Display: Building textures: Texture2D_7 (BGRA8, 64X64)
+[2021.05.23-20.16.37:443][751]LogTexture: Display: Building textures: Texture2D_8 (BGRA8, 64X64)
+[2021.05.23-20.16.37:446][751]LogTexture: Display: Building textures: Texture2D_8 (BGRA8, 64X64)
+[2021.05.23-20.16.37:447][751]LogTexture: Display: Building textures: Texture2D_9 (BGRA8, 64X64)
+[2021.05.23-20.16.37:451][751]LogTexture: Display: Building textures: Texture2D_9 (BGRA8, 64X64)
+[2021.05.23-20.16.37:453][751]LogTexture: Display: Building textures: Texture2D_10 (BGRA8, 64X64)
+[2021.05.23-20.16.37:457][751]LogTexture: Display: Building textures: Texture2D_10 (BGRA8, 64X64)
+[2021.05.23-20.16.37:458][751]LogTexture: Display: Building textures: Texture2D_11 (BGRA8, 64X64)
+[2021.05.23-20.16.37:461][751]LogTexture: Display: Building textures: Texture2D_11 (BGRA8, 64X64)
+[2021.05.23-20.16.37:463][751]LogTexture: Display: Building textures: Texture2D_12 (BGRA8, 64X64)
+[2021.05.23-20.16.37:467][751]LogTexture: Display: Building textures: Texture2D_12 (BGRA8, 64X64)
+[2021.05.23-20.16.37:468][751]LogTexture: Display: Building textures: Texture2D_13 (BGRA8, 64X64)
+[2021.05.23-20.16.37:472][751]LogTexture: Display: Building textures: Texture2D_13 (BGRA8, 64X64)
+[2021.05.23-20.16.37:474][751]LogTexture: Display: Building textures: Texture2D_14 (BGRA8, 64X64)
+[2021.05.23-20.16.37:478][751]LogTexture: Display: Building textures: Texture2D_14 (BGRA8, 64X64)
+[2021.05.23-20.16.37:479][751]LogTexture: Display: Building textures: Texture2D_15 (BGRA8, 64X64)
+[2021.05.23-20.16.37:483][751]LogTexture: Display: Building textures: Texture2D_15 (BGRA8, 64X64)
+[2021.05.23-20.16.37:484][751]LogTexture: Display: Building textures: Texture2D_16 (BGRA8, 64X64)
+[2021.05.23-20.16.37:487][751]LogTexture: Display: Building textures: Texture2D_16 (BGRA8, 64X64)
+[2021.05.23-20.16.37:489][751]LogTexture: Display: Building textures: Texture2D_17 (BGRA8, 64X64)
+[2021.05.23-20.16.37:493][751]LogTexture: Display: Building textures: Texture2D_17 (BGRA8, 64X64)
+[2021.05.23-20.16.37:494][751]LogTexture: Display: Building textures: Texture2D_18 (BGRA8, 64X64)
+[2021.05.23-20.16.37:498][751]LogTexture: Display: Building textures: Texture2D_18 (BGRA8, 64X64)
+[2021.05.23-20.16.37:500][751]LogTexture: Display: Building textures: Texture2D_19 (BGRA8, 64X64)
+[2021.05.23-20.16.37:504][751]LogTexture: Display: Building textures: Texture2D_19 (BGRA8, 64X64)
+[2021.05.23-20.16.37:505][751]LogTexture: Display: Building textures: Texture2D_20 (BGRA8, 64X64)
+[2021.05.23-20.16.37:509][751]LogTexture: Display: Building textures: Texture2D_20 (BGRA8, 64X64)
+[2021.05.23-20.16.37:511][751]LogTexture: Display: Building textures: Texture2D_21 (BGRA8, 64X64)
+[2021.05.23-20.16.37:516][751]LogTexture: Display: Building textures: Texture2D_21 (BGRA8, 64X64)
+[2021.05.23-20.16.37:517][751]LogTexture: Display: Building textures: Texture2D_22 (BGRA8, 64X64)
+[2021.05.23-20.16.37:521][751]LogTexture: Display: Building textures: Texture2D_22 (BGRA8, 64X64)
+[2021.05.23-20.16.37:524][751]LogTexture: Display: Building textures: Texture2D_23 (BGRA8, 64X64)
+[2021.05.23-20.16.37:528][751]LogTexture: Display: Building textures: Texture2D_23 (BGRA8, 64X64)
+[2021.05.23-20.16.37:530][751]LogTexture: Display: Building textures: Texture2D_24 (BGRA8, 64X64)
+[2021.05.23-20.16.37:534][751]LogTexture: Display: Building textures: Texture2D_24 (BGRA8, 64X64)
+[2021.05.23-20.16.37:541][751]LogTexture: Display: Building textures: Texture2D_25 (BGRA8, 64X64)
+[2021.05.23-20.16.37:556][751]LogTexture: Display: Building textures: Texture2D_25 (BGRA8, 64X64)
+[2021.05.23-20.16.37:558][751]LogTexture: Display: Building textures: Texture2D_26 (BGRA8, 64X64)
+[2021.05.23-20.16.37:562][751]LogTexture: Display: Building textures: Texture2D_26 (BGRA8, 64X64)
+[2021.05.23-20.16.37:564][751]LogTexture: Display: Building textures: Texture2D_27 (BGRA8, 64X64)
+[2021.05.23-20.16.37:569][751]LogTexture: Display: Building textures: Texture2D_27 (BGRA8, 64X64)
+[2021.05.23-20.16.37:571][751]LogTexture: Display: Building textures: Texture2D_28 (BGRA8, 64X64)
+[2021.05.23-20.16.37:575][751]LogTexture: Display: Building textures: Texture2D_28 (BGRA8, 64X64)
+[2021.05.23-20.16.37:577][751]LogTexture: Display: Building textures: Texture2D_29 (BGRA8, 64X64)
+[2021.05.23-20.16.37:582][751]LogTexture: Display: Building textures: Texture2D_29 (BGRA8, 64X64)
+[2021.05.23-20.16.37:584][751]LogTexture: Display: Building textures: Texture2D_30 (BGRA8, 64X64)
+[2021.05.23-20.16.37:591][751]LogTexture: Display: Building textures: Texture2D_30 (BGRA8, 64X64)
+[2021.05.23-20.16.37:593][751]LogTexture: Display: Building textures: Texture2D_31 (BGRA8, 64X64)
+[2021.05.23-20.16.37:598][751]LogTexture: Display: Building textures: Texture2D_31 (BGRA8, 64X64)
+[2021.05.23-20.16.37:600][751]LogTexture: Display: Building textures: Texture2D_32 (BGRA8, 64X64)
+[2021.05.23-20.16.37:604][751]LogTexture: Display: Building textures: Texture2D_32 (BGRA8, 64X64)
+[2021.05.23-20.16.37:605][751]LogTexture: Display: Building textures: Texture2D_33 (BGRA8, 64X64)
+[2021.05.23-20.16.37:611][751]LogTexture: Display: Building textures: Texture2D_33 (BGRA8, 64X64)
+[2021.05.23-20.16.37:612][751]LogTexture: Display: Building textures: Texture2D_34 (BGRA8, 64X64)
+[2021.05.23-20.16.37:616][751]LogTexture: Display: Building textures: Texture2D_34 (BGRA8, 64X64)
+[2021.05.23-20.16.37:618][751]LogTexture: Display: Building textures: Texture2D_35 (BGRA8, 64X64)
+[2021.05.23-20.16.37:622][751]LogTexture: Display: Building textures: Texture2D_35 (BGRA8, 64X64)
+[2021.05.23-20.16.37:624][751]LogTexture: Display: Building textures: Texture2D_36 (BGRA8, 64X64)
+[2021.05.23-20.16.37:628][751]LogTexture: Display: Building textures: Texture2D_36 (BGRA8, 64X64)
+[2021.05.23-20.16.37:630][751]LogTexture: Display: Building textures: Texture2D_37 (BGRA8, 64X64)
+[2021.05.23-20.16.37:634][751]LogTexture: Display: Building textures: Texture2D_37 (BGRA8, 64X64)
+[2021.05.23-20.16.37:637][751]LogTexture: Display: Building textures: Texture2D_38 (BGRA8, 64X64)
+[2021.05.23-20.16.37:641][751]LogTexture: Display: Building textures: Texture2D_38 (BGRA8, 64X64)
+[2021.05.23-20.16.37:643][751]LogTexture: Display: Building textures: Texture2D_39 (BGRA8, 64X64)
+[2021.05.23-20.16.37:649][751]LogTexture: Display: Building textures: Texture2D_39 (BGRA8, 64X64)
+[2021.05.23-20.16.37:650][751]LogTexture: Display: Building textures: Texture2D_40 (BGRA8, 64X64)
+[2021.05.23-20.16.37:654][751]LogTexture: Display: Building textures: Texture2D_40 (BGRA8, 64X64)
+[2021.05.23-20.16.37:656][751]LogTexture: Display: Building textures: Texture2D_41 (BGRA8, 64X64)
+[2021.05.23-20.16.37:660][751]LogTexture: Display: Building textures: Texture2D_41 (BGRA8, 64X64)
+[2021.05.23-20.16.37:662][751]LogTexture: Display: Building textures: Texture2D_42 (BGRA8, 64X64)
+[2021.05.23-20.16.37:670][751]LogTexture: Display: Building textures: Texture2D_42 (BGRA8, 64X64)
+[2021.05.23-20.16.37:672][751]LogTexture: Display: Building textures: Texture2D_43 (BGRA8, 64X64)
+[2021.05.23-20.16.37:677][751]LogTexture: Display: Building textures: Texture2D_43 (BGRA8, 64X64)
+[2021.05.23-20.16.37:679][751]LogTexture: Display: Building textures: Texture2D_44 (BGRA8, 64X64)
+[2021.05.23-20.16.37:684][751]LogTexture: Display: Building textures: Texture2D_44 (BGRA8, 64X64)
+[2021.05.23-20.16.37:686][751]LogTexture: Display: Building textures: Texture2D_45 (BGRA8, 64X64)
+[2021.05.23-20.16.37:691][751]LogTexture: Display: Building textures: Texture2D_45 (BGRA8, 64X64)
+[2021.05.23-20.16.37:692][751]LogTexture: Display: Building textures: Texture2D_46 (BGRA8, 64X64)
+[2021.05.23-20.16.37:697][751]LogTexture: Display: Building textures: Texture2D_46 (BGRA8, 64X64)
+[2021.05.23-20.16.37:699][751]LogTexture: Display: Building textures: Texture2D_47 (BGRA8, 64X64)
+[2021.05.23-20.16.37:704][751]LogTexture: Display: Building textures: Texture2D_47 (BGRA8, 64X64)
+[2021.05.23-20.16.37:706][751]LogTexture: Display: Building textures: Texture2D_48 (BGRA8, 64X64)
+[2021.05.23-20.16.37:711][751]LogTexture: Display: Building textures: Texture2D_48 (BGRA8, 64X64)
+[2021.05.23-20.16.37:714][751]LogTexture: Display: Building textures: Texture2D_49 (BGRA8, 64X64)
+[2021.05.23-20.16.37:719][751]LogTexture: Display: Building textures: Texture2D_49 (BGRA8, 64X64)
+[2021.05.23-20.16.37:721][751]LogTexture: Display: Building textures: Texture2D_50 (BGRA8, 64X64)
+[2021.05.23-20.16.37:726][751]LogTexture: Display: Building textures: Texture2D_50 (BGRA8, 64X64)
+[2021.05.23-20.16.37:727][751]LogTexture: Display: Building textures: Texture2D_51 (BGRA8, 64X64)
+[2021.05.23-20.16.37:732][751]LogTexture: Display: Building textures: Texture2D_51 (BGRA8, 64X64)
+[2021.05.23-20.16.37:734][751]LogTexture: Display: Building textures: Texture2D_52 (BGRA8, 64X64)
+[2021.05.23-20.16.37:739][751]LogTexture: Display: Building textures: Texture2D_52 (BGRA8, 64X64)
+[2021.05.23-20.16.37:741][751]LogTexture: Display: Building textures: Texture2D_53 (BGRA8, 64X64)
+[2021.05.23-20.16.37:747][751]LogTexture: Display: Building textures: Texture2D_53 (BGRA8, 64X64)
+[2021.05.23-20.16.37:748][751]LogTexture: Display: Building textures: Texture2D_54 (BGRA8, 64X64)
+[2021.05.23-20.16.37:752][751]LogTexture: Display: Building textures: Texture2D_54 (BGRA8, 64X64)
+[2021.05.23-20.16.37:753][751]LogTexture: Display: Building textures: Texture2D_55 (BGRA8, 64X64)
+[2021.05.23-20.16.37:758][751]LogTexture: Display: Building textures: Texture2D_55 (BGRA8, 64X64)
+[2021.05.23-20.16.37:760][751]LogTexture: Display: Building textures: Texture2D_56 (BGRA8, 64X64)
+[2021.05.23-20.16.37:764][751]LogTexture: Display: Building textures: Texture2D_56 (BGRA8, 64X64)
+[2021.05.23-20.16.37:766][751]LogTexture: Display: Building textures: Texture2D_57 (BGRA8, 64X64)
+[2021.05.23-20.16.37:770][751]LogTexture: Display: Building textures: Texture2D_57 (BGRA8, 64X64)
+[2021.05.23-20.16.37:772][751]LogTexture: Display: Building textures: Texture2D_58 (BGRA8, 64X64)
+[2021.05.23-20.16.37:775][751]LogTexture: Display: Building textures: Texture2D_58 (BGRA8, 64X64)
+[2021.05.23-20.16.37:777][751]LogTexture: Display: Building textures: Texture2D_59 (BGRA8, 64X64)
+[2021.05.23-20.16.37:781][751]LogTexture: Display: Building textures: Texture2D_59 (BGRA8, 64X64)
+[2021.05.23-20.16.37:787][751]LogTexture: Display: Building textures: Texture2D_60 (BGRA8, 64X64)
+[2021.05.23-20.16.37:791][751]LogTexture: Display: Building textures: Texture2D_60 (BGRA8, 64X64)
+[2021.05.23-20.16.37:792][751]LogTexture: Display: Building textures: Texture2D_61 (BGRA8, 64X64)
+[2021.05.23-20.16.37:796][751]LogTexture: Display: Building textures: Texture2D_61 (BGRA8, 64X64)
+[2021.05.23-20.16.37:798][751]LogTexture: Display: Building textures: Texture2D_62 (BGRA8, 64X64)
+[2021.05.23-20.16.37:802][751]LogTexture: Display: Building textures: Texture2D_62 (BGRA8, 64X64)
+[2021.05.23-20.16.37:804][751]LogTexture: Display: Building textures: Texture2D_63 (BGRA8, 64X64)
+[2021.05.23-20.16.37:809][751]LogTexture: Display: Building textures: Texture2D_63 (BGRA8, 64X64)
+[2021.05.23-20.16.37:811][751]LogTexture: Display: Building textures: Texture2D_64 (BGRA8, 64X64)
+[2021.05.23-20.16.37:815][751]LogTexture: Display: Building textures: Texture2D_64 (BGRA8, 64X64)
+[2021.05.23-20.16.40:116][845]LogTexture: Display: Building textures: Texture2D_65 (BGRA8, 64X64)
+[2021.05.23-20.16.40:119][845]LogTexture: Display: Building textures: Texture2D_65 (BGRA8, 64X64)
+[2021.05.23-20.16.40:510][860]LogTexture: Display: Building textures: Texture2D_66 (BGRA8, 64X64)
+[2021.05.23-20.16.40:514][860]LogTexture: Display: Building textures: Texture2D_66 (BGRA8, 64X64)
+[2021.05.23-20.16.40:953][880]LogTexture: Display: Building textures: Texture2D_67 (BGRA8, 64X64)
+[2021.05.23-20.16.40:958][880]LogTexture: Display: Building textures: Texture2D_67 (BGRA8, 64X64)
+[2021.05.23-20.16.44:952][ 45]LogTexture: Display: Building textures: Texture2D_68 (BGRA8, 64X64)
+[2021.05.23-20.16.44:955][ 45]LogTexture: Display: Building textures: Texture2D_68 (BGRA8, 64X64)
+[2021.05.23-20.16.48:661][201]LogTexture: Display: Building textures: Texture2D_69 (BGRA8, 64X64)
+[2021.05.23-20.16.48:664][201]LogTexture: Display: Building textures: Texture2D_69 (BGRA8, 64X64)
+[2021.05.23-20.16.49:089][218]LogTexture: Display: Building textures: Texture2D_70 (BGRA8, 64X64)
+[2021.05.23-20.16.49:092][218]LogTexture: Display: Building textures: Texture2D_70 (BGRA8, 64X64)
+[2021.05.23-20.16.57:381][592]LogTexture: Display: Building textures: Texture2D_71 (BGRA8, 64X64)
+[2021.05.23-20.16.57:389][592]LogTexture: Display: Building textures: Texture2D_71 (BGRA8, 64X64)
+[2021.05.23-20.16.59:659][692]LogTexture: Display: Building textures: Texture2D_72 (BGRA8, 64X64)
+[2021.05.23-20.16.59:662][692]LogTexture: Display: Building textures: Texture2D_72 (BGRA8, 64X64)
+[2021.05.23-20.17.01:160][754]LogTexture: Display: Building textures: Texture2D_73 (BGRA8, 64X64)
+[2021.05.23-20.17.01:162][754]LogTexture: Display: Building textures: Texture2D_73 (BGRA8, 64X64)
+[2021.05.23-20.17.01:917][783]LogTexture: Display: Building textures: Texture2D_74 (BGRA8, 64X64)
+[2021.05.23-20.17.01:919][783]LogTexture: Display: Building textures: Texture2D_74 (BGRA8, 64X64)
+[2021.05.23-20.17.04:620][911]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (SkyDomeMesh)
+[2021.05.23-20.20.38:883][807]LogTexture: Display: Building textures: Texture2D_75 (BGRA8, 64X64)
+[2021.05.23-20.23.30:603][193]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (SkyDomeMesh)
+[2021.05.23-20.23.31:703][249]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SkyDomeMesh)
+[2021.05.23-20.23.39:076][639]LogActorFactory: Actor Factory created Plane
+[2021.05.23-20.23.39:093][639]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2021.05.23-20.23.39:648][666]LogActorFactory: Actor Factory created Plane
+[2021.05.23-20.24.33:890][425]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2021.05.23-20.29.15:049][444]Cmd: TRANSACTION UNDO
+[2021.05.23-20.29.15:049][444]LogEditorTransaction: Undo Edição de Paisagem: Erosão Hidráulica
+[2021.05.23-20.29.15:073][444]LogTexture: Display: Building textures: Texture2D_19 (BGRA8, 64X64)
+[2021.05.23-20.29.15:074][444]LogTexture: Display: Building textures: Texture2D_18 (BGRA8, 64X64)
+[2021.05.23-20.29.15:077][444]LogTexture: Display: Building textures: Texture2D_17 (BGRA8, 64X64)
+[2021.05.23-20.29.15:079][444]LogTexture: Display: Building textures: Texture2D_11 (BGRA8, 64X64)
+[2021.05.23-20.29.15:081][444]LogTexture: Display: Building textures: Texture2D_3 (BGRA8, 64X64)
+[2021.05.23-20.29.15:083][444]LogTexture: Display: Building textures: Texture2D_10 (BGRA8, 64X64)
+[2021.05.23-20.29.15:086][444]LogTexture: Display: Building textures: Texture2D_9 (BGRA8, 64X64)
+[2021.05.23-20.29.15:088][444]LogTexture: Display: Building textures: Texture2D_2 (BGRA8, 64X64)
+[2021.05.23-20.29.15:657][449]Cmd: TRANSACTION UNDO
+[2021.05.23-20.29.15:657][449]LogEditorTransaction: Undo Edição de Paisagem: Erosão Hidráulica
+[2021.05.23-20.29.15:678][449]LogTexture: Display: Building textures: Texture2D_19 (BGRA8, 64X64)
+[2021.05.23-20.29.15:679][449]LogTexture: Display: Building textures: Texture2D_18 (BGRA8, 64X64)
+[2021.05.23-20.29.15:680][449]LogTexture: Display: Building textures: Texture2D_17 (BGRA8, 64X64)
+[2021.05.23-20.29.15:682][449]LogTexture: Display: Building textures: Texture2D_9 (BGRA8, 64X64)
+[2021.05.23-20.29.15:684][449]LogTexture: Display: Building textures: Texture2D_11 (BGRA8, 64X64)
+[2021.05.23-20.29.15:686][449]LogTexture: Display: Building textures: Texture2D_10 (BGRA8, 64X64)
+[2021.05.23-20.29.15:688][449]LogTexture: Display: Building textures: Texture2D_3 (BGRA8, 64X64)
+[2021.05.23-20.29.15:691][449]LogTexture: Display: Building textures: Texture2D_2 (BGRA8, 64X64)
+[2021.05.23-20.29.42:118][498]Cmd: TRANSACTION UNDO
+[2021.05.23-20.29.42:118][498]LogEditorTransaction: Undo Edição de Paisagem: Esculpir
+[2021.05.23-20.29.42:176][498]LogTexture: Display: Building textures: Texture2D_75 (BGRA8, 64X64)
+[2021.05.23-20.29.42:178][498]LogTexture: Display: Building textures: Texture2D_33 (BGRA8, 64X64)
+[2021.05.23-20.29.42:180][498]LogTexture: Display: Building textures: Texture2D_25 (BGRA8, 64X64)
+[2021.05.23-20.29.42:182][498]LogTexture: Display: Building textures: Texture2D_9 (BGRA8, 64X64)
+[2021.05.23-20.29.42:184][498]LogTexture: Display: Building textures: Texture2D_17 (BGRA8, 64X64)
+[2021.05.23-20.29.42:320][499]Cmd: TRANSACTION UNDO
+[2021.05.23-20.29.42:320][499]LogEditorTransaction: Undo Edição de Paisagem: Esculpir
+[2021.05.23-20.29.42:332][499]LogTexture: Display: Building textures: Texture2D_9 (BGRA8, 64X64)
+[2021.05.23-20.29.42:333][499]LogTexture: Display: Building textures: Texture2D_75 (BGRA8, 64X64)
+[2021.05.23-20.29.42:334][499]LogTexture: Display: Building textures: Texture2D_33 (BGRA8, 64X64)
+[2021.05.23-20.29.42:336][499]LogTexture: Display: Building textures: Texture2D_17 (BGRA8, 64X64)
+[2021.05.23-20.29.42:339][499]LogTexture: Display: Building textures: Texture2D_25 (BGRA8, 64X64)
+[2021.05.23-20.29.42:488][500]Cmd: TRANSACTION UNDO
+[2021.05.23-20.29.42:488][500]LogEditorTransaction: Undo Edição de Paisagem: Esculpir
+[2021.05.23-20.29.42:499][500]LogTexture: Display: Building textures: Texture2D_9 (BGRA8, 64X64)
+[2021.05.23-20.29.42:501][500]LogTexture: Display: Building textures: Texture2D_75 (BGRA8, 64X64)
+[2021.05.23-20.29.42:503][500]LogTexture: Display: Building textures: Texture2D_33 (BGRA8, 64X64)
+[2021.05.23-20.29.42:506][500]LogTexture: Display: Building textures: Texture2D_17 (BGRA8, 64X64)
+[2021.05.23-20.29.42:508][500]LogTexture: Display: Building textures: Texture2D_25 (BGRA8, 64X64)
+[2021.05.23-20.29.42:656][501]Cmd: TRANSACTION UNDO
+[2021.05.23-20.29.42:657][501]LogEditorTransaction: Undo Edição de Paisagem: Esculpir
+[2021.05.23-20.29.42:671][501]LogTexture: Display: Building textures: Texture2D_26 (BGRA8, 64X64)
+[2021.05.23-20.29.42:673][501]LogTexture: Display: Building textures: Texture2D_33 (BGRA8, 64X64)
+[2021.05.23-20.29.42:676][501]LogTexture: Display: Building textures: Texture2D_18 (BGRA8, 64X64)
+[2021.05.23-20.29.42:677][501]LogTexture: Display: Building textures: Texture2D_25 (BGRA8, 64X64)
+[2021.05.23-20.29.42:679][501]LogTexture: Display: Building textures: Texture2D_10 (BGRA8, 64X64)
+[2021.05.23-20.29.42:681][501]LogTexture: Display: Building textures: Texture2D_17 (BGRA8, 64X64)
+[2021.05.23-20.29.42:683][501]LogTexture: Display: Building textures: Texture2D_9 (BGRA8, 64X64)
+[2021.05.23-20.29.42:704][501]Cmd: TRANSACTION UNDO
+[2021.05.23-20.29.42:704][501]LogEditorTransaction: Undo Edição de Paisagem: Erosão Hidráulica
+[2021.05.23-20.29.42:735][501]LogTexture: Display: Building textures: Texture2D_62 (BGRA8, 64X64)
+[2021.05.23-20.29.42:737][501]LogTexture: Display: Building textures: Texture2D_61 (BGRA8, 64X64)
+[2021.05.23-20.29.42:738][501]LogTexture: Display: Building textures: Texture2D_53 (BGRA8, 64X64)
+[2021.05.23-20.29.42:740][501]LogTexture: Display: Building textures: Texture2D_45 (BGRA8, 64X64)
+[2021.05.23-20.29.42:742][501]LogTexture: Display: Building textures: Texture2D_37 (BGRA8, 64X64)
+[2021.05.23-20.29.42:745][501]LogTexture: Display: Building textures: Texture2D_29 (BGRA8, 64X64)
+[2021.05.23-20.29.42:747][501]LogTexture: Display: Building textures: Texture2D_21 (BGRA8, 64X64)
+[2021.05.23-20.29.42:748][501]LogTexture: Display: Building textures: Texture2D_50 (BGRA8, 64X64)
+[2021.05.23-20.29.42:750][501]LogTexture: Display: Building textures: Texture2D_60 (BGRA8, 64X64)
+[2021.05.23-20.29.42:752][501]LogTexture: Display: Building textures: Texture2D_59 (BGRA8, 64X64)
+[2021.05.23-20.29.42:754][501]LogTexture: Display: Building textures: Texture2D_52 (BGRA8, 64X64)
+[2021.05.23-20.29.42:757][501]LogTexture: Display: Building textures: Texture2D_51 (BGRA8, 64X64)
+[2021.05.23-20.29.42:759][501]LogTexture: Display: Building textures: Texture2D_44 (BGRA8, 64X64)
+[2021.05.23-20.29.42:761][501]LogTexture: Display: Building textures: Texture2D_36 (BGRA8, 64X64)
+[2021.05.23-20.29.42:763][501]LogTexture: Display: Building textures: Texture2D_28 (BGRA8, 64X64)
+[2021.05.23-20.29.42:765][501]LogTexture: Display: Building textures: Texture2D_20 (BGRA8, 64X64)
+[2021.05.23-20.29.42:768][501]LogTexture: Display: Building textures: Texture2D_43 (BGRA8, 64X64)
+[2021.05.23-20.29.42:772][501]LogTexture: Display: Building textures: Texture2D_35 (BGRA8, 64X64)
+[2021.05.23-20.29.42:774][501]LogTexture: Display: Building textures: Texture2D_27 (BGRA8, 64X64)
+[2021.05.23-20.29.42:776][501]LogTexture: Display: Building textures: Texture2D_19 (BGRA8, 64X64)
+[2021.05.23-20.29.42:778][501]LogTexture: Display: Building textures: Texture2D_42 (BGRA8, 64X64)
+[2021.05.23-20.29.42:780][501]LogTexture: Display: Building textures: Texture2D_34 (BGRA8, 64X64)
+[2021.05.23-20.29.42:782][501]LogTexture: Display: Building textures: Texture2D_75 (BGRA8, 64X64)
+[2021.05.23-20.29.42:784][501]LogTexture: Display: Building textures: Texture2D_33 (BGRA8, 64X64)
+[2021.05.23-20.29.42:786][501]LogTexture: Display: Building textures: Texture2D_9 (BGRA8, 64X64)
+[2021.05.23-20.29.42:788][501]LogTexture: Display: Building textures: Texture2D_26 (BGRA8, 64X64)
+[2021.05.23-20.29.42:790][501]LogTexture: Display: Building textures: Texture2D_25 (BGRA8, 64X64)
+[2021.05.23-20.29.42:792][501]LogTexture: Display: Building textures: Texture2D_18 (BGRA8, 64X64)
+[2021.05.23-20.29.42:794][501]LogTexture: Display: Building textures: Texture2D_17 (BGRA8, 64X64)
+[2021.05.23-20.29.42:959][502]Cmd: TRANSACTION UNDO
+[2021.05.23-20.29.42:959][502]LogEditorTransaction: Undo Edição de Paisagem: Erosão Hidráulica
+[2021.05.23-20.29.42:969][502]LogTexture: Display: Building textures: Texture2D_33 (BGRA8, 64X64)
+[2021.05.23-20.29.42:971][502]LogTexture: Display: Building textures: Texture2D_25 (BGRA8, 64X64)
+[2021.05.23-20.29.42:972][502]LogTexture: Display: Building textures: Texture2D_17 (BGRA8, 64X64)
+[2021.05.23-20.29.42:973][502]LogTexture: Display: Building textures: Texture2D_9 (BGRA8, 64X64)
+[2021.05.23-20.29.43:839][535]Cmd: TRANSACTION UNDO
+[2021.05.23-20.29.43:840][535]LogEditorTransaction: Undo Edição de Paisagem: Erosão Hidráulica
+[2021.05.23-20.29.43:880][535]LogTexture: Display: Building textures: Texture2D_75 (BGRA8, 64X64)
+[2021.05.23-20.29.43:881][535]LogTexture: Display: Building textures: Texture2D_34 (BGRA8, 64X64)
+[2021.05.23-20.29.43:882][535]LogTexture: Display: Building textures: Texture2D_33 (BGRA8, 64X64)
+[2021.05.23-20.29.43:885][535]LogTexture: Display: Building textures: Texture2D_26 (BGRA8, 64X64)
+[2021.05.23-20.29.43:887][535]LogTexture: Display: Building textures: Texture2D_18 (BGRA8, 64X64)
+[2021.05.23-20.29.43:888][535]LogTexture: Display: Building textures: Texture2D_25 (BGRA8, 64X64)
+[2021.05.23-20.29.43:890][535]LogTexture: Display: Building textures: Texture2D_10 (BGRA8, 64X64)
+[2021.05.23-20.29.43:892][535]LogTexture: Display: Building textures: Texture2D_17 (BGRA8, 64X64)
+[2021.05.23-20.29.43:895][535]LogTexture: Display: Building textures: Texture2D_9 (BGRA8, 64X64)
+[2021.05.23-20.29.44:300][551]Cmd: TRANSACTION UNDO
+[2021.05.23-20.29.44:301][551]LogEditorTransaction: Undo Edição de Paisagem: Erosão Hidráulica
+[2021.05.23-20.29.44:337][551]LogTexture: Display: Building textures: Texture2D_2 (BGRA8, 64X64)
+[2021.05.23-20.29.44:339][551]LogTexture: Display: Building textures: Texture2D_10 (BGRA8, 64X64)
+[2021.05.23-20.29.44:340][551]LogTexture: Display: Building textures: Texture2D_33 (BGRA8, 64X64)
+[2021.05.23-20.29.44:342][551]LogTexture: Display: Building textures: Texture2D_9 (BGRA8, 64X64)
+[2021.05.23-20.29.44:344][551]LogTexture: Display: Building textures: Texture2D_26 (BGRA8, 64X64)
+[2021.05.23-20.29.44:346][551]LogTexture: Display: Building textures: Texture2D_25 (BGRA8, 64X64)
+[2021.05.23-20.29.44:349][551]LogTexture: Display: Building textures: Texture2D_18 (BGRA8, 64X64)
+[2021.05.23-20.29.44:351][551]LogTexture: Display: Building textures: Texture2D_17 (BGRA8, 64X64)
+[2021.05.23-20.29.44:748][567]Cmd: TRANSACTION UNDO
+[2021.05.23-20.29.44:748][567]LogEditorTransaction: Undo Edição de Paisagem: Erosão Hidráulica
+[2021.05.23-20.29.44:791][567]LogTexture: Display: Building textures: Texture2D_20 (BGRA8, 64X64)
+[2021.05.23-20.29.44:793][567]LogTexture: Display: Building textures: Texture2D_12 (BGRA8, 64X64)
+[2021.05.23-20.29.44:802][567]LogTexture: Display: Building textures: Texture2D_4 (BGRA8, 64X64)
+[2021.05.23-20.31.12:095][103]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2021.05.23-20.31.19:306][387]LogContentBrowser: Deferred new asset file creation: NewMaterial
+[2021.05.23-20.31.19:319][387]LogContentBrowser: Creating deferred item: NewMaterial
+[2021.05.23-20.31.22:173][524]LogContentBrowser: Attempting asset rename: NewMaterial -> water
+[2021.05.23-20.31.22:178][524]LogContentBrowser: End creating deferred item NewMaterial
+[2021.05.23-20.31.26:809][686]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/FirstPersonBP/materiais/water.water
+[2021.05.23-20.31.26:811][686]LogMaterial: Display: Missing cached shader map for material water, compiling. 
+[2021.05.23-20.31.26:932][686]LogMaterial: Display: Missing cached shader map for material water, compiling. 
+[2021.05.23-20.31.26:942][686]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2021.05.23-20.31.26:942][686]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2021.05.23-20.31.26:942][686]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2021.05.23-20.31.26:942][686]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2021.05.23-20.31.26:943][686]LogMaterial: Display: Missing cached shader map for material water, compiling. 
+[2021.05.23-20.31.28:236][704]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9
+[2021.05.23-20.31.28:634][709]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2021.05.23-20.31.28:818][711]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 7
+[2021.05.23-20.31.28:929][713]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 6
+[2021.05.23-20.31.29:928][726]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 5
+[2021.05.23-20.31.30:056][727]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 4
+[2021.05.23-20.31.30:171][728]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3
+[2021.05.23-20.31.31:750][732]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2021.05.23-20.31.32:034][734]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2021.05.23-20.31.35:868][758]MaterialEditorStats: Base pass shader: 117 instructions
+[2021.05.23-20.31.35:868][758]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2021.05.23-20.31.35:868][758]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2021.05.23-20.31.35:868][758]MaterialEditorStats: Texture samplers: 2/16
+[2021.05.23-20.32.11:011][371]LogMaterial: Display: Missing cached shader map for material water, compiling. 
+[2021.05.23-20.32.11:022][371]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2021.05.23-20.32.11:031][371]LogMaterial: Display: Missing cached shader map for material water, compiling. 
+[2021.05.23-20.32.11:040][371]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 4
+[2021.05.23-20.32.11:040][371]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3
+[2021.05.23-20.32.11:040][371]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2021.05.23-20.32.11:040][371]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2021.05.23-20.32.11:051][371]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2021.05.23-20.32.12:180][399]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 13
+[2021.05.23-20.32.12:198][400]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 12
+[2021.05.23-20.32.12:345][408]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 11
+[2021.05.23-20.32.12:345][408]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 10
+[2021.05.23-20.32.13:095][431]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9
+[2021.05.23-20.32.13:290][435]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 8
+[2021.05.23-20.32.13:529][441]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 7
+[2021.05.23-20.32.13:628][445]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 6
+[2021.05.23-20.32.14:025][463]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 5
+[2021.05.23-20.32.14:522][473]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 4
+[2021.05.23-20.32.14:953][482]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3
+[2021.05.23-20.32.14:954][482]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2
+[2021.05.23-20.32.14:954][482]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2021.05.23-20.32.15:058][484]MaterialEditorStats: Base pass shader: 119 instructions
+[2021.05.23-20.32.15:058][484]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 193 instructions
+[2021.05.23-20.32.15:058][484]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2021.05.23-20.32.15:058][484]MaterialEditorStats: Texture samplers: 2/16
+[2021.05.23-20.32.22:057][719]LogMaterial: Display: Missing cached shader map for material water, compiling. 
+[2021.05.23-20.32.22:070][719]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2021.05.23-20.32.22:070][719]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2021.05.23-20.32.22:070][719]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2021.05.23-20.32.22:070][719]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2021.05.23-20.32.22:070][719]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2021.05.23-20.32.22:849][735]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9
+[2021.05.23-20.32.23:133][741]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2021.05.23-20.32.23:338][745]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 7
+[2021.05.23-20.32.23:390][746]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 6
+[2021.05.23-20.32.23:899][756]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 5
+[2021.05.23-20.32.24:256][763]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 4
+[2021.05.23-20.32.24:585][769]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3
+[2021.05.23-20.32.24:635][770]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2
+[2021.05.23-20.32.24:679][771]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2021.05.23-20.32.24:801][773]MaterialEditorStats: Base pass shader: 119 instructions
+[2021.05.23-20.32.24:801][773]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 193 instructions
+[2021.05.23-20.32.24:801][773]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2021.05.23-20.32.24:801][773]MaterialEditorStats: Texture samplers: 2/16
+[2021.05.23-20.32.26:813][841]LogMaterial: Display: Missing cached shader map for material water, compiling. 
+[2021.05.23-20.32.26:827][841]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2021.05.23-20.32.26:832][841]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2021.05.23-20.32.26:832][841]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2021.05.23-20.32.26:833][841]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2021.05.23-20.32.26:833][841]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2021.05.23-20.32.27:586][859]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9
+[2021.05.23-20.32.27:850][871]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2021.05.23-20.32.27:862][871]LogMaterial: Display: Missing cached shader map for material water, compiling. 
+[2021.05.23-20.32.27:889][871]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2021.05.23-20.32.28:022][874]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 13
+[2021.05.23-20.32.28:071][875]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 12
+[2021.05.23-20.32.28:585][884]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 11
+[2021.05.23-20.32.28:914][890]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 10
+[2021.05.23-20.32.29:201][895]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2021.05.23-20.32.29:376][898]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2021.05.23-20.32.29:431][899]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 7
+[2021.05.23-20.32.30:242][913]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 6
+[2021.05.23-20.32.30:294][914]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2021.05.23-20.32.30:582][919]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 4
+[2021.05.23-20.32.30:775][922]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2021.05.23-20.32.31:088][927]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2021.05.23-20.32.31:593][935]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2021.05.23-20.32.31:687][936]MaterialEditorStats: Base pass shader: 119 instructions
+[2021.05.23-20.32.31:687][936]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 193 instructions
+[2021.05.23-20.32.31:687][936]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2021.05.23-20.32.31:687][936]MaterialEditorStats: Texture samplers: 2/16
+[2021.05.23-20.32.34:611][ 54]LogMaterial: Display: Missing cached shader map for material water, compiling. 
+[2021.05.23-20.32.34:622][ 54]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2021.05.23-20.32.34:627][ 54]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 13
+[2021.05.23-20.32.34:627][ 54]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 12
+[2021.05.23-20.32.34:627][ 54]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 11
+[2021.05.23-20.32.34:627][ 54]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 10
+[2021.05.23-20.32.35:378][ 68]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9
+[2021.05.23-20.32.35:698][ 73]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2021.05.23-20.32.35:960][ 77]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 7
+[2021.05.23-20.32.35:984][ 77]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 6
+[2021.05.23-20.32.36:553][ 86]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 5
+[2021.05.23-20.32.36:892][ 91]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 4
+[2021.05.23-20.32.37:258][103]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3
+[2021.05.23-20.32.37:327][105]LogMaterial: Display: Missing cached shader map for material water, compiling. 
+[2021.05.23-20.32.37:352][105]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2021.05.23-20.32.37:394][106]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 13
+[2021.05.23-20.32.37:394][106]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 12
+[2021.05.23-20.32.37:623][110]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 11
+[2021.05.23-20.32.38:331][121]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 10
+[2021.05.23-20.32.38:522][124]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9
+[2021.05.23-20.32.38:556][124]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2021.05.23-20.32.38:813][128]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 7
+[2021.05.23-20.32.39:475][138]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 6
+[2021.05.23-20.32.39:861][143]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 5
+[2021.05.23-20.32.40:115][146]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 4
+[2021.05.23-20.32.40:399][150]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2021.05.23-20.32.40:739][155]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2021.05.23-20.32.40:866][157]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2021.05.23-20.32.41:049][159]MaterialEditorStats: Base pass shader: 119 instructions
+[2021.05.23-20.32.41:049][159]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 193 instructions
+[2021.05.23-20.32.41:049][159]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2021.05.23-20.32.41:049][159]MaterialEditorStats: Texture samplers: 2/16
+[2021.05.23-20.32.43:068][199]LogMaterial: Display: Missing cached shader map for material water, compiling. 
+[2021.05.23-20.32.43:082][199]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2021.05.23-20.32.43:088][199]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2021.05.23-20.32.43:088][199]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2021.05.23-20.32.43:088][199]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2021.05.23-20.32.43:088][199]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2021.05.23-20.32.43:091][199]LogSlate: Window 'Seletor de Cor' being destroyed
+[2021.05.23-20.32.44:124][215]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9
+[2021.05.23-20.32.44:566][220]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2021.05.23-20.32.44:783][223]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 7
+[2021.05.23-20.32.44:907][225]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 6
+[2021.05.23-20.32.45:497][233]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 5
+[2021.05.23-20.32.45:755][237]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 4
+[2021.05.23-20.32.46:463][247]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3
+[2021.05.23-20.32.46:472][247]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2
+[2021.05.23-20.32.46:614][249]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2021.05.23-20.32.46:811][251]MaterialEditorStats: Base pass shader: 119 instructions
+[2021.05.23-20.32.46:812][251]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 193 instructions
+[2021.05.23-20.32.46:812][251]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2021.05.23-20.32.46:812][251]MaterialEditorStats: Texture samplers: 2/16
+[2021.05.23-20.33.08:967][443]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2021.05.23-20.33.08:990][443]LogTexture: Display: Building textures: Texture2D_2 (BGRA8, 64X64)
+[2021.05.23-20.33.08:991][443]LogTexture: Display: Building textures: Texture2D_3 (BGRA8, 64X64)
+[2021.05.23-20.33.08:992][443]LogTexture: Display: Building textures: Texture2D_4 (BGRA8, 64X64)
+[2021.05.23-20.33.08:993][443]LogTexture: Display: Building textures: Texture2D_5 (BGRA8, 64X64)
+[2021.05.23-20.33.08:994][443]LogTexture: Display: Building textures: Texture2D_6 (BGRA8, 64X64)
+[2021.05.23-20.33.08:996][443]LogTexture: Display: Building textures: Texture2D_9 (BGRA8, 64X64)
+[2021.05.23-20.33.08:997][443]LogTexture: Display: Building textures: Texture2D_10 (BGRA8, 64X64)
+[2021.05.23-20.33.09:000][443]LogTexture: Display: Building textures: Texture2D_11 (BGRA8, 64X64)
+[2021.05.23-20.33.09:001][443]LogTexture: Display: Building textures: Texture2D_13 (BGRA8, 64X64)
+[2021.05.23-20.33.09:002][443]LogTexture: Display: Building textures: Texture2D_14 (BGRA8, 64X64)
+[2021.05.23-20.33.09:004][443]LogTexture: Display: Building textures: Texture2D_15 (BGRA8, 64X64)
+[2021.05.23-20.33.09:005][443]LogTexture: Display: Building textures: Texture2D_17 (BGRA8, 64X64)
+[2021.05.23-20.33.09:006][443]LogTexture: Display: Building textures: Texture2D_18 (BGRA8, 64X64)
+[2021.05.23-20.33.09:007][443]LogTexture: Display: Building textures: Texture2D_19 (BGRA8, 64X64)
+[2021.05.23-20.33.09:008][443]LogTexture: Display: Building textures: Texture2D_22 (BGRA8, 64X64)
+[2021.05.23-20.33.09:009][443]LogTexture: Display: Building textures: Texture2D_23 (BGRA8, 64X64)
+[2021.05.23-20.33.09:011][443]LogTexture: Display: Building textures: Texture2D_24 (BGRA8, 64X64)
+[2021.05.23-20.33.09:012][443]LogTexture: Display: Building textures: Texture2D_25 (BGRA8, 64X64)
+[2021.05.23-20.33.09:013][443]LogTexture: Display: Building textures: Texture2D_26 (BGRA8, 64X64)
+[2021.05.23-20.33.09:014][443]LogTexture: Display: Building textures: Texture2D_27 (BGRA8, 64X64)
+[2021.05.23-20.33.09:016][443]LogTexture: Display: Building textures: Texture2D_30 (BGRA8, 64X64)
+[2021.05.23-20.33.09:017][443]LogTexture: Display: Building textures: Texture2D_31 (BGRA8, 64X64)
+[2021.05.23-20.33.09:018][443]LogTexture: Display: Building textures: Texture2D_32 (BGRA8, 64X64)
+[2021.05.23-20.33.09:019][443]LogTexture: Display: Building textures: Texture2D_33 (BGRA8, 64X64)
+[2021.05.23-20.33.09:020][443]LogTexture: Display: Building textures: Texture2D_34 (BGRA8, 64X64)
+[2021.05.23-20.33.09:022][443]LogTexture: Display: Building textures: Texture2D_35 (BGRA8, 64X64)
+[2021.05.23-20.33.09:023][443]LogTexture: Display: Building textures: Texture2D_38 (BGRA8, 64X64)
+[2021.05.23-20.33.09:024][443]LogTexture: Display: Building textures: Texture2D_39 (BGRA8, 64X64)
+[2021.05.23-20.33.09:026][443]LogTexture: Display: Building textures: Texture2D_40 (BGRA8, 64X64)
+[2021.05.23-20.33.09:027][443]LogTexture: Display: Building textures: Texture2D_42 (BGRA8, 64X64)
+[2021.05.23-20.33.09:028][443]LogTexture: Display: Building textures: Texture2D_43 (BGRA8, 64X64)
+[2021.05.23-20.33.09:029][443]LogTexture: Display: Building textures: Texture2D_46 (BGRA8, 64X64)
+[2021.05.23-20.33.09:031][443]LogTexture: Display: Building textures: Texture2D_47 (BGRA8, 64X64)
+[2021.05.23-20.33.09:032][443]LogTexture: Display: Building textures: Texture2D_48 (BGRA8, 64X64)
+[2021.05.23-20.33.09:033][443]LogTexture: Display: Building textures: Texture2D_50 (BGRA8, 64X64)
+[2021.05.23-20.33.09:034][443]LogTexture: Display: Building textures: Texture2D_51 (BGRA8, 64X64)
+[2021.05.23-20.33.09:035][443]LogTexture: Display: Building textures: Texture2D_53 (BGRA8, 64X64)
+[2021.05.23-20.33.09:036][443]LogTexture: Display: Building textures: Texture2D_54 (BGRA8, 64X64)
+[2021.05.23-20.33.09:038][443]LogTexture: Display: Building textures: Texture2D_55 (BGRA8, 64X64)
+[2021.05.23-20.33.09:039][443]LogTexture: Display: Building textures: Texture2D_60 (BGRA8, 64X64)
+[2021.05.23-20.33.09:041][443]LogTexture: Display: Building textures: Texture2D_61 (BGRA8, 64X64)
+[2021.05.23-20.33.09:042][443]LogTexture: Display: Building textures: Texture2D_62 (BGRA8, 64X64)
+[2021.05.23-20.33.09:043][443]LogTexture: Display: Building textures: Texture2D_75 (BGRA8, 64X64)
+[2021.05.23-20.33.09:167][443]LogSavePackage: Moving '../../../../../../Users/modak/Documents/técnico/unreal/Ilha_MarianaOda/MyProject/Saved/Untitled_Auto1C20AC2C647503B4939CA0D9188382FA9.tmp' to '../../../../../../Users/modak/Documents/técnico/unreal/Ilha_MarianaOda/MyProject/Saved/Autosaves/Game/Untitled_Auto1.umap'
+[2021.05.23-20.33.09:169][443]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Untitled' took 0.218
+[2021.05.23-20.33.09:169][443]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.218
+[2021.05.23-20.33.09:171][443]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FirstPersonBP/texture/normal_map_areia] ([1] browsable assets)...
+[2021.05.23-20.33.09:181][443]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/FirstPersonBP/texture/normal_map_areia.normal_map_areia]
+[2021.05.23-20.33.09:181][443]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPersonBP/texture/normal_map_areia]
+[2021.05.23-20.33.09:194][443]LogSavePackage: Moving '../../../../../../Users/modak/Documents/técnico/unreal/Ilha_MarianaOda/MyProject/Saved/normal_map_areia_Auto1499D58844325F0BE6F0C37AA8593C191.tmp' to '../../../../../../Users/modak/Documents/técnico/unreal/Ilha_MarianaOda/MyProject/Saved/Autosaves/Game/FirstPersonBP/texture/normal_map_areia_Auto1.uasset'
+[2021.05.23-20.33.09:196][443]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FirstPersonBP/texture/areia] ([1] browsable assets)...
+[2021.05.23-20.33.09:205][443]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/FirstPersonBP/texture/areia.areia]
+[2021.05.23-20.33.09:205][443]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPersonBP/texture/areia]
+[2021.05.23-20.33.09:214][443]LogSavePackage: Moving '../../../../../../Users/modak/Documents/técnico/unreal/Ilha_MarianaOda/MyProject/Saved/areia_Auto1D87CD9E04F9055B043A157A0D4E4E320.tmp' to '../../../../../../Users/modak/Documents/técnico/unreal/Ilha_MarianaOda/MyProject/Saved/Autosaves/Game/FirstPersonBP/texture/areia_Auto1.uasset'
+[2021.05.23-20.33.09:215][443]LogFileHelpers: Auto-saving content packages took 0.045
+[2021.05.23-20.33.11:698][520]LogMaterialEditor: Saving and Compiling material water
+[2021.05.23-20.33.12:492][520]LogMaterial: Display: Missing cached shader map for material water, compiling. 
+[2021.05.23-20.33.12:548][520]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2021.05.23-20.33.12:548][520]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2021.05.23-20.33.12:548][520]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2021.05.23-20.33.12:548][520]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2021.05.23-20.33.12:559][520]LogMaterial: Display: Missing cached shader map for material water, compiling. 
+[2021.05.23-20.33.12:600][520]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2021.05.23-20.33.12:615][520]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.05.23-20.33.13:747][520]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 19
+[2021.05.23-20.33.13:747][520]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 18
+[2021.05.23-20.33.13:747][520]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 17
+[2021.05.23-20.33.13:747][520]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 16
+[2021.05.23-20.33.14:308][520]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 15
+[2021.05.23-20.33.14:308][520]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 14
+[2021.05.23-20.33.14:862][520]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 13
+[2021.05.23-20.33.14:862][520]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 12
+[2021.05.23-20.33.14:862][520]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 8
+[2021.05.23-20.33.14:862][520]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 5
+[2021.05.23-20.33.14:862][520]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2
+[2021.05.23-20.33.14:868][520]TextureStreamingBuild: Display: Compiling optional shaders took 2.262 seconds.
+[2021.05.23-20.33.14:880][520]LogUObjectHash: Compacting FUObjectHashTables data took   2.25ms
+[2021.05.23-20.33.15:512][520]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2021.05.23-20.33.17:027][520]LogSavePackage: Moving '../../../../../../Users/modak/Documents/técnico/unreal/Ilha_MarianaOda/MyProject/Saved/waterD2BB65244AC591337E4432B7A03BE071.tmp' to '../../../../../../Users/modak/Documents/técnico/unreal/Ilha_MarianaOda/MyProject/Content/FirstPersonBP/materiais/water.uasset'
+[2021.05.23-20.33.17:064][520]AssetCheck: New page: Asset Save: water
+[2021.05.23-20.33.17:064][520]LogContentValidation: Display: Validating Material /Game/FirstPersonBP/materiais/water.water
+[2021.05.23-20.33.17:066][520]MaterialEditorStats: Base pass shader: 119 instructions
+[2021.05.23-20.33.17:066][520]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 193 instructions
+[2021.05.23-20.33.17:066][520]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2021.05.23-20.33.17:066][520]MaterialEditorStats: Texture samplers: 3/16
+[2021.05.23-20.34.01:334][236]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\modak\Downloads\water normal.jpeg)
+[2021.05.23-20.34.01:351][236]LogTexture: Display: Building textures: water_normal (BC5, 1024X1024)
+[2021.05.23-20.34.13:844][645]LogMaterial: Display: Missing cached shader map for material water, compiling. 
+[2021.05.23-20.34.13:870][645]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2021.05.23-20.34.13:870][645]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2021.05.23-20.34.13:870][645]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2021.05.23-20.34.13:870][645]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2021.05.23-20.34.13:870][645]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2021.05.23-20.34.13:893][645]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2021.05.23-20.34.13:900][645]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2021.05.23-20.34.15:019][666]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 13
+[2021.05.23-20.34.15:384][672]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 12
+[2021.05.23-20.34.15:633][676]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 11
+[2021.05.23-20.34.15:633][676]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 10
+[2021.05.23-20.34.16:255][685]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 9
+[2021.05.23-20.34.16:529][688]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 8
+[2021.05.23-20.34.16:928][695]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 7
+[2021.05.23-20.34.17:111][697]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2021.05.23-20.34.17:189][699]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 5
+[2021.05.23-20.34.17:281][700]MaterialEditorStats: Base pass shader: 119 instructions
+[2021.05.23-20.34.17:281][700]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 193 instructions
+[2021.05.23-20.34.17:281][700]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2021.05.23-20.34.17:281][700]MaterialEditorStats: Texture samplers: 2/16
+[2021.05.23-20.34.17:362][702]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 4
+[2021.05.23-20.34.18:041][724]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3
+[2021.05.23-20.34.18:041][724]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2021.05.23-20.34.18:173][727]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2021.05.23-20.34.21:292][851]LogMaterial: Display: Missing cached shader map for material water, compiling. 
+[2021.05.23-20.34.21:307][851]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2021.05.23-20.34.21:307][851]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2021.05.23-20.34.21:307][851]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2021.05.23-20.34.21:307][851]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2021.05.23-20.34.21:309][851]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2021.05.23-20.34.22:160][866]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9
+[2021.05.23-20.34.22:463][870]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2021.05.23-20.34.22:680][873]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 7
+[2021.05.23-20.34.22:719][874]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 6
+[2021.05.23-20.34.23:384][883]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 5
+[2021.05.23-20.34.23:733][888]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 4
+[2021.05.23-20.34.24:123][893]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3
+[2021.05.23-20.34.24:123][893]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2
+[2021.05.23-20.34.24:233][895]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2021.05.23-20.34.24:409][897]MaterialEditorStats: Base pass shader: 125 instructions
+[2021.05.23-20.34.24:409][897]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 199 instructions
+[2021.05.23-20.34.24:409][897]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2021.05.23-20.34.24:409][897]MaterialEditorStats: Texture samplers: 3/16
+[2021.05.23-20.34.24:409][897]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2021.05.23-20.34.24:409][897]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.05.23-20.34.24:718][902]LogMaterialEditor: Saving and Compiling material water
+[2021.05.23-20.34.25:650][902]LogMaterial: Display: Missing cached shader map for material water, compiling. 
+[2021.05.23-20.34.25:691][902]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2021.05.23-20.34.25:691][902]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2021.05.23-20.34.25:691][902]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2021.05.23-20.34.25:691][902]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2021.05.23-20.34.25:699][902]LogMaterial: Display: Missing cached shader map for material water, compiling. 
+[2021.05.23-20.34.25:752][902]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2021.05.23-20.34.25:763][902]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.05.23-20.34.26:332][902]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 19
+[2021.05.23-20.34.26:892][902]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 18
+[2021.05.23-20.34.26:892][902]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 17
+[2021.05.23-20.34.26:892][902]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 16
+[2021.05.23-20.34.27:453][902]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 15
+[2021.05.23-20.34.27:453][902]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 14
+[2021.05.23-20.34.27:947][902]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 13
+[2021.05.23-20.34.27:947][902]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 12
+[2021.05.23-20.34.27:947][902]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2021.05.23-20.34.27:947][902]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2021.05.23-20.34.27:947][902]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2021.05.23-20.34.27:951][902]TextureStreamingBuild: Display: Compiling optional shaders took 2.195 seconds.
+[2021.05.23-20.34.27:987][902]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2021.05.23-20.34.29:183][902]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2
+[2021.05.23-20.34.29:743][902]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2021.05.23-20.34.30:225][902]LogSavePackage: Moving '../../../../../../Users/modak/Documents/técnico/unreal/Ilha_MarianaOda/MyProject/Saved/water2EA32FA048EAA3A15ED3A082C74FBFC2.tmp' to '../../../../../../Users/modak/Documents/técnico/unreal/Ilha_MarianaOda/MyProject/Content/FirstPersonBP/materiais/water.uasset'
+[2021.05.23-20.34.30:258][902]AssetCheck: New page: Asset Save: water
+[2021.05.23-20.34.30:258][902]LogContentValidation: Display: Validating Material /Game/FirstPersonBP/materiais/water.water
+[2021.05.23-20.34.30:260][902]MaterialEditorStats: Base pass shader: 125 instructions
+[2021.05.23-20.34.30:260][902]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 199 instructions
+[2021.05.23-20.34.30:260][902]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2021.05.23-20.34.30:260][902]MaterialEditorStats: Texture samplers: 4/16
+[2021.05.23-20.34.30:260][902]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2021.05.23-20.34.30:260][902]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.05.23-20.34.31:778][948]LogSlate: Window 'water' being destroyed
+[2021.05.23-20.34.31:787][948]LogSlate: Window 'water' being destroyed
+[2021.05.23-20.34.31:807][948]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2021.05.23-20.34.31:808][948]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.23-20.34.46:163][560]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2021.05.23-20.34.51:308][769]Cmd: TRANSACTION UNDO
+[2021.05.23-20.34.51:308][769]LogEditorTransaction: Undo Move Actors
+[2021.05.23-20.34.52:023][786]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2021.05.23-20.34.56:581][970]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2021.05.23-20.35.33:114][355]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/FirstPersonBP/materiais/water.water
+[2021.05.23-20.35.33:116][355]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2021.05.23-20.35.33:128][355]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2021.05.23-20.35.33:128][355]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2021.05.23-20.35.33:128][355]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2021.05.23-20.35.33:128][355]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2021.05.23-20.35.33:288][355]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2021.05.23-20.35.33:304][355]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2021.05.23-20.35.33:329][355]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2021.05.23-20.35.33:342][355]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2021.05.23-20.35.34:465][369]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 17
+[2021.05.23-20.35.34:814][374]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 16
+[2021.05.23-20.35.35:037][376]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 15
+[2021.05.23-20.35.35:088][376]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 14
+[2021.05.23-20.35.36:034][390]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 13
+[2021.05.23-20.35.36:132][391]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 12
+[2021.05.23-20.35.36:216][392]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 11
+[2021.05.23-20.35.36:609][403]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 10
+[2021.05.23-20.35.36:891][414]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2021.05.23-20.35.36:929][414]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2021.05.23-20.35.36:976][415]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 17
+[2021.05.23-20.35.37:614][424]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 16
+[2021.05.23-20.35.37:816][426]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 15
+[2021.05.23-20.35.37:956][428]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 14
+[2021.05.23-20.35.38:045][429]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 13
+[2021.05.23-20.35.38:231][431]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2021.05.23-20.35.38:262][431]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2021.05.23-20.35.38:280][431]LogSlate: Window 'Seletor de Cor' being destroyed
+[2021.05.23-20.35.38:795][439]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 13
+[2021.05.23-20.35.38:883][440]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 12
+[2021.05.23-20.35.39:008][442]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 11
+[2021.05.23-20.35.39:600][450]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 10
+[2021.05.23-20.35.39:948][455]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 9
+[2021.05.23-20.35.40:215][458]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 8
+[2021.05.23-20.35.40:471][461]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 7
+[2021.05.23-20.35.41:158][471]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 6
+[2021.05.23-20.35.41:158][471]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2021.05.23-20.35.41:344][474]LogMaterialEditor: Saving and Compiling material water
+[2021.05.23-20.35.42:753][474]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 4
+[2021.05.23-20.35.42:753][474]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2021.05.23-20.35.42:753][474]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2021.05.23-20.35.42:753][474]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2021.05.23-20.35.42:764][474]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2021.05.23-20.35.42:814][474]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2021.05.23-20.35.42:814][474]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2021.05.23-20.35.42:814][474]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2021.05.23-20.35.42:814][474]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2021.05.23-20.35.42:826][474]LogMaterial: Display: Missing cached shader map for material water, compiling. 
+[2021.05.23-20.35.42:873][474]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2021.05.23-20.35.42:881][474]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.05.23-20.35.43:449][474]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 19
+[2021.05.23-20.35.44:010][474]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 18
+[2021.05.23-20.35.44:010][474]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 17
+[2021.05.23-20.35.44:010][474]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 16
+[2021.05.23-20.35.44:570][474]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 15
+[2021.05.23-20.35.44:570][474]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 14
+[2021.05.23-20.35.45:067][474]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 13
+[2021.05.23-20.35.45:068][474]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 12
+[2021.05.23-20.35.45:068][474]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2021.05.23-20.35.45:068][474]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2021.05.23-20.35.45:068][474]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3
+[2021.05.23-20.35.45:072][474]TextureStreamingBuild: Display: Compiling optional shaders took 2.197 seconds.
+[2021.05.23-20.35.45:091][474]LogUObjectHash: Compacting FUObjectHashTables data took   4.68ms
+[2021.05.23-20.35.46:292][474]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2021.05.23-20.35.46:853][474]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2021.05.23-20.35.47:482][474]LogSavePackage: Moving '../../../../../../Users/modak/Documents/técnico/unreal/Ilha_MarianaOda/MyProject/Saved/water31AEC4F54BB2E292E654569EEF0BC129.tmp' to '../../../../../../Users/modak/Documents/técnico/unreal/Ilha_MarianaOda/MyProject/Content/FirstPersonBP/materiais/water.uasset'
+[2021.05.23-20.35.47:516][474]AssetCheck: New page: Asset Save: water
+[2021.05.23-20.35.47:517][474]LogContentValidation: Display: Validating Material /Game/FirstPersonBP/materiais/water.water
+[2021.05.23-20.35.47:519][474]MaterialEditorStats: Base pass shader: 125 instructions
+[2021.05.23-20.35.47:519][474]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 199 instructions
+[2021.05.23-20.35.47:519][474]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2021.05.23-20.35.47:519][474]MaterialEditorStats: Texture samplers: 4/16
+[2021.05.23-20.35.47:519][474]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2021.05.23-20.35.47:519][474]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.05.23-20.35.48:192][497]LogSlate: Window 'water' being destroyed
+[2021.05.23-20.35.48:197][497]LogSlate: Window 'water' being destroyed
+[2021.05.23-20.35.48:215][497]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2021.05.23-20.35.48:215][497]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.23-20.37.16:128][870]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Untitled" FILE="../../../../../../Users/modak/Documents/técnico/unreal/Ilha_MarianaOda/MyProject/Content/Untitled.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.05.23-20.37.16:138][870]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2021.05.23-20.37.16:153][870]LogTexture: Display: Building textures: Texture2D_2 (BGRA8, 64X64)
+[2021.05.23-20.37.16:155][870]LogTexture: Display: Building textures: Texture2D_3 (BGRA8, 64X64)
+[2021.05.23-20.37.16:156][870]LogTexture: Display: Building textures: Texture2D_4 (BGRA8, 64X64)
+[2021.05.23-20.37.16:159][870]LogTexture: Display: Building textures: Texture2D_5 (BGRA8, 64X64)
+[2021.05.23-20.37.16:160][870]LogTexture: Display: Building textures: Texture2D_6 (BGRA8, 64X64)
+[2021.05.23-20.37.16:161][870]LogTexture: Display: Building textures: Texture2D_9 (BGRA8, 64X64)
+[2021.05.23-20.37.16:163][870]LogTexture: Display: Building textures: Texture2D_10 (BGRA8, 64X64)
+[2021.05.23-20.37.16:165][870]LogTexture: Display: Building textures: Texture2D_11 (BGRA8, 64X64)
+[2021.05.23-20.37.16:166][870]LogTexture: Display: Building textures: Texture2D_12 (BGRA8, 64X64)
+[2021.05.23-20.37.16:167][870]LogTexture: Display: Building textures: Texture2D_13 (BGRA8, 64X64)
+[2021.05.23-20.37.16:168][870]LogTexture: Display: Building textures: Texture2D_14 (BGRA8, 64X64)
+[2021.05.23-20.37.16:169][870]LogTexture: Display: Building textures: Texture2D_15 (BGRA8, 64X64)
+[2021.05.23-20.37.16:170][870]LogTexture: Display: Building textures: Texture2D_17 (BGRA8, 64X64)
+[2021.05.23-20.37.16:171][870]LogTexture: Display: Building textures: Texture2D_18 (BGRA8, 64X64)
+[2021.05.23-20.37.16:172][870]LogTexture: Display: Building textures: Texture2D_19 (BGRA8, 64X64)
+[2021.05.23-20.37.16:173][870]LogTexture: Display: Building textures: Texture2D_20 (BGRA8, 64X64)
+[2021.05.23-20.37.16:174][870]LogTexture: Display: Building textures: Texture2D_21 (BGRA8, 64X64)
+[2021.05.23-20.37.16:176][870]LogTexture: Display: Building textures: Texture2D_22 (BGRA8, 64X64)
+[2021.05.23-20.37.16:177][870]LogTexture: Display: Building textures: Texture2D_23 (BGRA8, 64X64)
+[2021.05.23-20.37.16:178][870]LogTexture: Display: Building textures: Texture2D_24 (BGRA8, 64X64)
+[2021.05.23-20.37.16:179][870]LogTexture: Display: Building textures: Texture2D_25 (BGRA8, 64X64)
+[2021.05.23-20.37.16:180][870]LogTexture: Display: Building textures: Texture2D_26 (BGRA8, 64X64)
+[2021.05.23-20.37.16:181][870]LogTexture: Display: Building textures: Texture2D_27 (BGRA8, 64X64)
+[2021.05.23-20.37.16:182][870]LogTexture: Display: Building textures: Texture2D_28 (BGRA8, 64X64)
+[2021.05.23-20.37.16:183][870]LogTexture: Display: Building textures: Texture2D_29 (BGRA8, 64X64)
+[2021.05.23-20.37.16:184][870]LogTexture: Display: Building textures: Texture2D_30 (BGRA8, 64X64)
+[2021.05.23-20.37.16:185][870]LogTexture: Display: Building textures: Texture2D_31 (BGRA8, 64X64)
+[2021.05.23-20.37.16:187][870]LogTexture: Display: Building textures: Texture2D_32 (BGRA8, 64X64)
+[2021.05.23-20.37.16:188][870]LogTexture: Display: Building textures: Texture2D_33 (BGRA8, 64X64)
+[2021.05.23-20.37.16:189][870]LogTexture: Display: Building textures: Texture2D_34 (BGRA8, 64X64)
+[2021.05.23-20.37.16:190][870]LogTexture: Display: Building textures: Texture2D_35 (BGRA8, 64X64)
+[2021.05.23-20.37.16:191][870]LogTexture: Display: Building textures: Texture2D_36 (BGRA8, 64X64)
+[2021.05.23-20.37.16:192][870]LogTexture: Display: Building textures: Texture2D_37 (BGRA8, 64X64)
+[2021.05.23-20.37.16:193][870]LogTexture: Display: Building textures: Texture2D_38 (BGRA8, 64X64)
+[2021.05.23-20.37.16:194][870]LogTexture: Display: Building textures: Texture2D_39 (BGRA8, 64X64)
+[2021.05.23-20.37.16:195][870]LogTexture: Display: Building textures: Texture2D_40 (BGRA8, 64X64)
+[2021.05.23-20.37.16:196][870]LogTexture: Display: Building textures: Texture2D_42 (BGRA8, 64X64)
+[2021.05.23-20.37.16:198][870]LogTexture: Display: Building textures: Texture2D_43 (BGRA8, 64X64)
+[2021.05.23-20.37.16:198][870]LogTexture: Display: Building textures: Texture2D_44 (BGRA8, 64X64)
+[2021.05.23-20.37.16:199][870]LogTexture: Display: Building textures: Texture2D_45 (BGRA8, 64X64)
+[2021.05.23-20.37.16:201][870]LogTexture: Display: Building textures: Texture2D_46 (BGRA8, 64X64)
+[2021.05.23-20.37.16:202][870]LogTexture: Display: Building textures: Texture2D_47 (BGRA8, 64X64)
+[2021.05.23-20.37.16:202][870]LogTexture: Display: Building textures: Texture2D_48 (BGRA8, 64X64)
+[2021.05.23-20.37.16:203][870]LogTexture: Display: Building textures: Texture2D_50 (BGRA8, 64X64)
+[2021.05.23-20.37.16:205][870]LogTexture: Display: Building textures: Texture2D_51 (BGRA8, 64X64)
+[2021.05.23-20.37.16:206][870]LogTexture: Display: Building textures: Texture2D_52 (BGRA8, 64X64)
+[2021.05.23-20.37.16:207][870]LogTexture: Display: Building textures: Texture2D_53 (BGRA8, 64X64)
+[2021.05.23-20.37.16:208][870]LogTexture: Display: Building textures: Texture2D_55 (BGRA8, 64X64)
+[2021.05.23-20.37.16:210][870]LogTexture: Display: Building textures: Texture2D_59 (BGRA8, 64X64)
+[2021.05.23-20.37.16:211][870]LogTexture: Display: Building textures: Texture2D_75 (BGRA8, 64X64)
+[2021.05.23-20.37.16:384][870]LogSavePackage: Moving '../../../../../../Users/modak/Documents/técnico/unreal/Ilha_MarianaOda/MyProject/Saved/Untitled2797570E490F1E9F26B0318650BCDDD5.tmp' to '../../../../../../Users/modak/Documents/técnico/unreal/Ilha_MarianaOda/MyProject/Content/Untitled.umap'
+[2021.05.23-20.37.16:416][870]AssetCheck: New page: Asset Save: Untitled
+[2021.05.23-20.37.16:416][870]LogContentValidation: Display: Validating World /Game/Untitled.Untitled
