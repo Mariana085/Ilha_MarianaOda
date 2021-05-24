@@ -4558,3 +4558,114 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.05.24-00.27.25:113][111]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
 [2021.05.24-00.27.25:142][111]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
 [2021.05.24-00.27.25:186][112]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2021.05.24-00.29.25:737][221]Cmd: EDIT COPY
+[2021.05.24-00.29.25:930][226]Cmd: EDIT PASTE
+[2021.05.24-00.29.42:319][808]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2021.05.24-00.29.43:005][832]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (rock9)
+[2021.05.24-00.29.47:815][ 18]Cmd: EDIT COPY
+[2021.05.24-00.29.48:019][ 25]Cmd: EDIT PASTE
+[2021.05.24-00.30.10:064][887]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (rock9)
+[2021.05.24-00.31.09:847][500]LogMaterial: Display: Missing cached shader map for material areia, compiling. 
+[2021.05.24-00.31.09:884][501]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 28
+[2021.05.24-00.31.09:884][501]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 20
+[2021.05.24-00.31.09:884][501]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 12
+[2021.05.24-00.31.09:884][501]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 4
+[2021.05.24-00.31.38:211][398]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Untitled" FILE="../../../../../../Users/modak/Documents/técnico/unreal/Ilha_MarianaOda/MyProject/Content/Untitled.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.05.24-00.31.38:220][398]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2021.05.24-00.31.38:250][398]LogTexture: Display: Building textures: Texture2D_85 (BGRA8, 64X64)
+[2021.05.24-00.31.38:251][398]LogTexture: Display: Building textures: Texture2D_7 (BGRA8, 64X64)
+[2021.05.24-00.31.38:252][398]LogTexture: Display: Building textures: Texture2D_118 (BGRA8, 64X64)
+[2021.05.24-00.31.38:253][398]LogTexture: Display: Building textures: Texture2D_71 (BGRA8, 64X64)
+[2021.05.24-00.31.38:254][398]LogTexture: Display: Building textures: Texture2D_8 (BGRA8, 64X64)
+[2021.05.24-00.31.38:256][398]LogTexture: Display: Building textures: Texture2D_111 (BGRA8, 64X64)
+[2021.05.24-00.31.38:257][398]LogTexture: Display: Building textures: Texture2D_119 (BGRA8, 64X64)
+[2021.05.24-00.31.38:258][398]LogTexture: Display: Building textures: Texture2D_84 (BGRA8, 64X64)
+[2021.05.24-00.31.38:259][398]LogTexture: Display: Building textures: Texture2D_16 (BGRA8, 64X64)
+[2021.05.24-00.31.38:260][398]LogTexture: Display: Building textures: Texture2D_79 (BGRA8, 64X64)
+[2021.05.24-00.31.38:262][398]LogTexture: Display: Building textures: Texture2D_116 (BGRA8, 64X64)
+[2021.05.24-00.31.38:263][398]LogTexture: Display: Building textures: Texture2D_101 (BGRA8, 64X64)
+[2021.05.24-00.31.38:265][398]LogTexture: Display: Building textures: Texture2D_112 (BGRA8, 64X64)
+[2021.05.24-00.31.38:266][398]LogTexture: Display: Building textures: Texture2D_115 (BGRA8, 64X64)
+[2021.05.24-00.31.38:268][398]LogTexture: Display: Building textures: Texture2D_49 (BGRA8, 64X64)
+[2021.05.24-00.31.38:269][398]LogTexture: Display: Building textures: Texture2D_81 (BGRA8, 64X64)
+[2021.05.24-00.31.38:271][398]LogTexture: Display: Building textures: Texture2D_56 (BGRA8, 64X64)
+[2021.05.24-00.31.38:273][398]LogTexture: Display: Building textures: Texture2D_117 (BGRA8, 64X64)
+[2021.05.24-00.31.38:275][398]LogTexture: Display: Building textures: Texture2D_99 (BGRA8, 64X64)
+[2021.05.24-00.31.38:276][398]LogTexture: Display: Building textures: Texture2D_113 (BGRA8, 64X64)
+[2021.05.24-00.31.38:278][398]LogTexture: Display: Building textures: Texture2D_114 (BGRA8, 64X64)
+[2021.05.24-00.31.38:279][398]LogTexture: Display: Building textures: Texture2D_66 (BGRA8, 64X64)
+[2021.05.24-00.31.38:280][398]LogTexture: Display: Building textures: Texture2D_82 (BGRA8, 64X64)
+[2021.05.24-00.31.38:282][398]LogTexture: Display: Building textures: Texture2D_103 (BGRA8, 64X64)
+[2021.05.24-00.31.38:283][398]LogTexture: Display: Building textures: Texture2D_98 (BGRA8, 64X64)
+[2021.05.24-00.31.38:284][398]LogTexture: Display: Building textures: Texture2D_63 (BGRA8, 64X64)
+[2021.05.24-00.31.38:285][398]LogTexture: Display: Building textures: Texture2D_96 (BGRA8, 64X64)
+[2021.05.24-00.31.38:287][398]LogTexture: Display: Building textures: Texture2D_64 (BGRA8, 64X64)
+[2021.05.24-00.31.38:289][398]LogTexture: Display: Building textures: Texture2D_88 (BGRA8, 64X64)
+[2021.05.24-00.31.38:557][398]LogSavePackage: Moving '../../../../../../Users/modak/Documents/técnico/unreal/Ilha_MarianaOda/MyProject/Saved/Untitled16C24F044FAB350FBD897DAAE3B9F231.tmp' to '../../../../../../Users/modak/Documents/técnico/unreal/Ilha_MarianaOda/MyProject/Content/Untitled.umap'
+[2021.05.24-00.31.38:582][398]AssetCheck: New page: Asset Save: Untitled
+[2021.05.24-00.31.38:582][398]LogContentValidation: Display: Validating World /Game/Untitled.Untitled
+[2021.05.24-00.31.52:444][916]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (rock1)
+[2021.05.24-00.31.53:282][943]Cmd: EDIT COPY
+[2021.05.24-00.31.53:465][948]Cmd: EDIT PASTE
+[2021.05.24-00.32.02:264][231]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (rock4)
+[2021.05.24-00.32.02:611][240]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2021.05.24-00.32.06:450][358]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (rock11)
+[2021.05.24-00.32.22:810][915]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (rock5)
+[2021.05.24-00.32.24:526][971]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2021.05.24-00.32.25:478][  4]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (rock5)
+[2021.05.24-00.32.26:189][ 27]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (rock6)
+[2021.05.24-00.32.26:636][ 41]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (rock7)
+[2021.05.24-00.32.33:082][266]Cmd: EDIT COPY
+[2021.05.24-00.32.33:548][281]Cmd: EDIT PASTE
+[2021.05.24-00.32.48:017][777]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2021.05.24-00.32.52:621][938]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (rock12)
+[2021.05.24-00.32.53:208][956]Cmd: EDIT COPY
+[2021.05.24-00.32.53:369][961]Cmd: EDIT PASTE
+[2021.05.24-00.33.26:694][102]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (rock13)
+[2021.05.24-00.33.42:755][615]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Untitled" FILE="../../../../../../Users/modak/Documents/técnico/unreal/Ilha_MarianaOda/MyProject/Content/Untitled.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.05.24-00.33.42:764][615]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2021.05.24-00.33.42:791][615]LogTexture: Display: Building textures: Texture2D_28 (BGRA8, 64X64)
+[2021.05.24-00.33.42:792][615]LogTexture: Display: Building textures: Texture2D_29 (BGRA8, 64X64)
+[2021.05.24-00.33.42:793][615]LogTexture: Display: Building textures: Texture2D_93 (BGRA8, 64X64)
+[2021.05.24-00.33.43:023][615]LogSavePackage: Moving '../../../../../../Users/modak/Documents/técnico/unreal/Ilha_MarianaOda/MyProject/Saved/Untitled414D47DA45208B265EEFA790B471DA09.tmp' to '../../../../../../Users/modak/Documents/técnico/unreal/Ilha_MarianaOda/MyProject/Content/Untitled.umap'
+[2021.05.24-00.33.43:043][615]AssetCheck: New page: Asset Save: Untitled
+[2021.05.24-00.33.43:043][615]LogContentValidation: Display: Validating World /Game/Untitled.Untitled
+[2021.05.24-00.33.49:346][844]LogTemp: Repeating last play command: Selected Viewport
+[2021.05.24-00.33.49:359][844]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.05.24-00.33.49:359][844]PIE: New page: Sessão de PIE : Untitled (23 de mai de 2021 18:33:49)
+[2021.05.24-00.33.49:359][844]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Untitled
+[2021.05.24-00.33.49:404][844]LogPlayLevel: PIE: StaticDuplicateObject took: (0.044096s)
+[2021.05.24-00.33.49:406][844]LogAIModule: Creating AISystem for world Untitled
+[2021.05.24-00.33.49:406][844]LogPlayLevel: PIE: World Init took: (0.002237s)
+[2021.05.24-00.33.49:407][844]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Untitled.Untitled to /Game/UEDPIE_0_Untitled.Untitled (0.047341s)
+[2021.05.24-00.33.49:416][844]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2021.05.24-00.33.49:420][844]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2021.05.24-00.33.49:420][844]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.24-00.33.49:420][844]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.24-00.33.49:420][844]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.24-00.33.49:420][844]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.24-00.33.49:420][844]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.24-00.33.49:420][844]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.24-00.33.49:420][844]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.24-00.33.49:420][844]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.24-00.33.49:420][844]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.24-00.33.49:420][844]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.24-00.33.49:424][844]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.24-00.33.49:424][844]LogAudioMixer: Display: 1: FrontRight
+[2021.05.24-00.33.49:448][844]LogAudioMixer: Display: Using Audio Device Fones de ouvido (Realtek(R) Audio)
+[2021.05.24-00.33.49:450][844]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.24-00.33.49:450][844]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.24-00.33.49:450][844]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.24-00.33.49:452][844]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.24-00.33.49:452][844]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.05.24-00.33.49:452][844]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.05.24-00.33.49:473][844]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.05.24-00.33.49:474][844]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.05.24-00.33.49:474][844]LogInit: FAudioDevice initialized.
+[2021.05.24-00.33.49:474][844]LogAudio: Display: Audio Device (ID: 4) registered with world 'Untitled'.
+[2021.05.24-00.33.49:486][844]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.05.24-00.33.49:489][844]LogWorld: Bringing World /Game/UEDPIE_0_Untitled.Untitled up for play (max tick rate 60) at 2021.05.23-21.33.49
+[2021.05.24-00.33.49:489][844]LogWorld: Bringing up level for play took: 0.002691
+[2021.05.24-00.33.49:489][844]LogOnline: OSS: Creating online subsystem instance for: :Context_16
+[2021.05.24-00.33.49:496][844]PIE: Servidor conectado
+[2021.05.24-00.33.49:497][844]PIE: Play in editor total start time 0,14 seconds.
