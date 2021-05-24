@@ -2491,3 +2491,670 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.05.23-23.53.15:065][234]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 25
 [2021.05.23-23.53.15:489][243]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 18
 [2021.05.23-23.53.15:559][244]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 13
+[2021.05.23-23.53.19:818][324]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 9
+[2021.05.23-23.53.21:421][355]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2021.05.23-23.53.22:444][368]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 4
+[2021.05.23-23.53.23:665][392]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2021.05.23-23.53.25:037][418]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2021.05.23-23.53.39:913][817]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/FirstPersonBP/materiais/areia.areia
+[2021.05.23-23.53.39:916][817]LogMaterial: Display: Missing cached shader map for material areia, compiling. 
+[2021.05.23-23.53.40:063][817]LogMaterial: Display: Missing cached shader map for material areia, compiling. 
+[2021.05.23-23.53.40:073][817]LogMaterial: Display: Missing cached shader map for material areia, compiling. 
+[2021.05.23-23.53.40:083][817]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2021.05.23-23.53.40:083][817]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2021.05.23-23.53.40:083][817]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2021.05.23-23.53.40:083][817]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2021.05.23-23.53.40:092][817]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2021.05.23-23.53.40:101][817]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2021.05.23-23.53.40:108][817]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionLandscapeLayerCoords_0, compiling. 
+[2021.05.23-23.53.40:115][817]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2021.05.23-23.53.40:122][817]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_3, compiling. 
+[2021.05.23-23.53.40:949][829]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 25
+[2021.05.23-23.53.41:279][834]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 24
+[2021.05.23-23.53.41:503][837]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 23
+[2021.05.23-23.53.41:581][838]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 22
+[2021.05.23-23.53.42:190][846]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 21
+[2021.05.23-23.53.42:579][851]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 20
+[2021.05.23-23.53.43:012][857]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 19
+[2021.05.23-23.53.43:076][858]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 18
+[2021.05.23-23.53.43:146][859]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 17
+[2021.05.23-23.53.43:384][861]MaterialEditorStats: Base pass shader: 118 instructions
+[2021.05.23-23.53.43:384][861]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 192 instructions
+[2021.05.23-23.53.43:384][861]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2021.05.23-23.53.43:384][861]MaterialEditorStats: Texture samplers: 3/16
+[2021.05.23-23.53.43:384][861]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2021.05.23-23.53.43:384][861]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.05.23-23.53.43:549][864]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 16
+[2021.05.23-23.53.44:221][873]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 15
+[2021.05.23-23.53.44:304][874]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 14
+[2021.05.23-23.53.44:359][875]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 13
+[2021.05.23-23.53.44:521][877]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 12
+[2021.05.23-23.53.45:321][888]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 11
+[2021.05.23-23.53.45:460][890]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 10
+[2021.05.23-23.53.45:519][891]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2021.05.23-23.53.45:519][891]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 8
+[2021.05.23-23.53.46:825][906]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 7
+[2021.05.23-23.53.46:930][908]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2021.05.23-23.53.47:148][909]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2021.05.23-23.53.47:367][910]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 4
+[2021.05.23-23.53.48:531][925]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 3
+[2021.05.23-23.53.48:544][925]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2021.05.23-23.53.48:974][930]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2021.05.23-23.53.56:223][981]LogSlate: Window 'areia' being destroyed
+[2021.05.23-23.53.56:259][981]LogSlate: Window 'areia' being destroyed
+[2021.05.23-23.53.56:282][981]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2021.05.23-23.53.56:282][981]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.23-23.54.00:174][ 71]LogSlate: Window 'Criar Novo Objeto de Informações de Camada de Paisagem' being destroyed
+[2021.05.23-23.54.01:580][116]LogMaterial: Display: Missing cached shader map for material areia, compiling. 
+[2021.05.23-23.54.01:608][116]LogTexture: Display: Building textures: Texture2D_93 (BGRA8, 64X64)
+[2021.05.23-23.54.01:612][116]LogTexture: Display: Building textures: Texture2D_94 (BGRA8, 64X64)
+[2021.05.23-23.54.01:617][116]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 28
+[2021.05.23-23.54.01:617][116]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 20
+[2021.05.23-23.54.01:617][116]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 12
+[2021.05.23-23.54.01:617][116]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 4
+[2021.05.23-23.54.01:617][116]LogTexture: Display: Building textures: Texture2D_95 (BGRA8, 64X64)
+[2021.05.23-23.54.01:743][121]LogTexture: Display: Building textures: Texture2D_96 (BGRA8, 64X64)
+[2021.05.23-23.54.01:788][121]LogTexture: Display: Building textures: Texture2D_97 (BGRA8, 64X64)
+[2021.05.23-23.54.16:550][609]LogTexture: Display: Building textures: Texture2D_98 (BGRA8, 64X64)
+[2021.05.23-23.54.24:434][917]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/FirstPersonBP/materiais/areia.areia
+[2021.05.23-23.54.24:437][917]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_2, compiling. 
+[2021.05.23-23.54.24:581][917]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_2, compiling. 
+[2021.05.23-23.54.24:593][917]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_2, compiling. 
+[2021.05.23-23.54.24:610][917]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2021.05.23-23.54.24:610][917]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2021.05.23-23.54.24:610][917]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2021.05.23-23.54.24:610][917]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2021.05.23-23.54.24:616][917]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2021.05.23-23.54.24:625][917]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2021.05.23-23.54.24:633][917]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionLandscapeLayerCoords_0, compiling. 
+[2021.05.23-23.54.24:641][917]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2021.05.23-23.54.24:648][917]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_3, compiling. 
+[2021.05.23-23.54.25:581][928]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 25
+[2021.05.23-23.54.26:019][934]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 24
+[2021.05.23-23.54.26:479][940]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 23
+[2021.05.23-23.54.27:144][948]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 22
+[2021.05.23-23.54.27:198][949]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 21
+[2021.05.23-23.54.27:609][954]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 20
+[2021.05.23-23.54.28:460][963]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 19
+[2021.05.23-23.54.28:679][965]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 18
+[2021.05.23-23.54.29:124][971]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 17
+[2021.05.23-23.54.29:208][972]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 16
+[2021.05.23-23.54.29:443][974]MaterialEditorStats: Base pass shader: 118 instructions
+[2021.05.23-23.54.29:443][974]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 192 instructions
+[2021.05.23-23.54.29:443][974]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2021.05.23-23.54.29:443][974]MaterialEditorStats: Texture samplers: 3/16
+[2021.05.23-23.54.29:444][974]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2021.05.23-23.54.29:444][974]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.05.23-23.54.30:074][982]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 15
+[2021.05.23-23.54.30:091][982]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 14
+[2021.05.23-23.54.30:196][983]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 13
+[2021.05.23-23.54.30:315][985]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 12
+[2021.05.23-23.54.31:312][997]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 11
+[2021.05.23-23.54.31:395][998]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 10
+[2021.05.23-23.54.31:466][999]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 9
+[2021.05.23-23.54.31:468][999]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 8
+[2021.05.23-23.54.32:625][ 13]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 7
+[2021.05.23-23.54.32:634][ 13]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 6
+[2021.05.23-23.54.32:712][ 14]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2021.05.23-23.54.32:744][ 15]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 4
+[2021.05.23-23.54.34:072][ 32]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3
+[2021.05.23-23.54.34:100][ 32]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2021.05.23-23.54.34:242][ 34]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2021.05.23-23.54.50:059][196]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2021.05.23-23.54.50:079][196]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 64X64)
+[2021.05.23-23.54.50:080][196]LogTexture: Display: Building textures: Texture2D_7 (BGRA8, 64X64)
+[2021.05.23-23.54.50:081][196]LogTexture: Display: Building textures: Texture2D_41 (BGRA8, 64X64)
+[2021.05.23-23.54.50:083][196]LogTexture: Display: Building textures: Texture2D_91 (BGRA8, 64X64)
+[2021.05.23-23.54.50:084][196]LogTexture: Display: Building textures: Texture2D_66 (BGRA8, 64X64)
+[2021.05.23-23.54.50:085][196]LogTexture: Display: Building textures: Texture2D_92 (BGRA8, 64X64)
+[2021.05.23-23.54.50:086][196]LogTexture: Display: Building textures: Texture2D_86 (BGRA8, 64X64)
+[2021.05.23-23.54.50:087][196]LogTexture: Display: Building textures: Texture2D_83 (BGRA8, 64X64)
+[2021.05.23-23.54.50:089][196]LogTexture: Display: Building textures: Texture2D_1 (BGRA8, 64X64)
+[2021.05.23-23.54.50:091][196]LogTexture: Display: Building textures: Texture2D_85 (BGRA8, 64X64)
+[2021.05.23-23.54.50:092][196]LogTexture: Display: Building textures: Texture2D_79 (BGRA8, 64X64)
+[2021.05.23-23.54.50:093][196]LogTexture: Display: Building textures: Texture2D_71 (BGRA8, 64X64)
+[2021.05.23-23.54.50:095][196]LogTexture: Display: Building textures: Texture2D_8 (BGRA8, 64X64)
+[2021.05.23-23.54.50:096][196]LogTexture: Display: Building textures: Texture2D_16 (BGRA8, 64X64)
+[2021.05.23-23.54.50:097][196]LogTexture: Display: Building textures: Texture2D_84 (BGRA8, 64X64)
+[2021.05.23-23.54.50:098][196]LogTexture: Display: Building textures: Texture2D_89 (BGRA8, 64X64)
+[2021.05.23-23.54.50:099][196]LogTexture: Display: Building textures: Texture2D_49 (BGRA8, 64X64)
+[2021.05.23-23.54.50:100][196]LogTexture: Display: Building textures: Texture2D_81 (BGRA8, 64X64)
+[2021.05.23-23.54.50:101][196]LogTexture: Display: Building textures: Texture2D_56 (BGRA8, 64X64)
+[2021.05.23-23.54.50:102][196]LogTexture: Display: Building textures: Texture2D_88 (BGRA8, 64X64)
+[2021.05.23-23.54.50:103][196]LogTexture: Display: Building textures: Texture2D_82 (BGRA8, 64X64)
+[2021.05.23-23.54.50:105][196]LogTexture: Display: Building textures: Texture2D_58 (BGRA8, 64X64)
+[2021.05.23-23.54.50:106][196]LogTexture: Display: Building textures: Texture2D_98 (BGRA8, 64X64)
+[2021.05.23-23.54.50:108][196]LogTexture: Display: Building textures: Texture2D_63 (BGRA8, 64X64)
+[2021.05.23-23.54.50:109][196]LogTexture: Display: Building textures: Texture2D_93 (BGRA8, 64X64)
+[2021.05.23-23.54.50:110][196]LogTexture: Display: Building textures: Texture2D_96 (BGRA8, 64X64)
+[2021.05.23-23.54.50:112][196]LogTexture: Display: Building textures: Texture2D_64 (BGRA8, 64X64)
+[2021.05.23-23.54.50:113][196]LogTexture: Display: Building textures: Texture2D_90 (BGRA8, 64X64)
+[2021.05.23-23.54.50:115][196]LogTexture: Display: Building textures: Texture2D_94 (BGRA8, 64X64)
+[2021.05.23-23.54.50:116][196]LogTexture: Display: Building textures: Texture2D_95 (BGRA8, 64X64)
+[2021.05.23-23.54.50:117][196]LogTexture: Display: Building textures: Texture2D_97 (BGRA8, 64X64)
+[2021.05.23-23.54.50:119][196]LogTexture: Display: Building textures: Texture2D_65 (BGRA8, 64X64)
+[2021.05.23-23.54.50:328][196]LogSavePackage: Moving '../../../../../../Users/modak/Documents/técnico/unreal/Ilha_MarianaOda/MyProject/Saved/Untitled_Auto3428EEEA44D99E3D7FA5A6C944069580D.tmp' to '../../../../../../Users/modak/Documents/técnico/unreal/Ilha_MarianaOda/MyProject/Saved/Autosaves/Game/Untitled_Auto3.umap'
+[2021.05.23-23.54.50:332][196]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Untitled' took 0.283
+[2021.05.23-23.54.50:332][196]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.283
+[2021.05.23-23.54.50:333][196]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FirstPersonBP/texture/grass] ([1] browsable assets)...
+[2021.05.23-23.54.50:340][196]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/FirstPersonBP/texture/grass.grass]
+[2021.05.23-23.54.50:340][196]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPersonBP/texture/grass]
+[2021.05.23-23.54.50:355][196]LogSavePackage: Moving '../../../../../../Users/modak/Documents/técnico/unreal/Ilha_MarianaOda/MyProject/Saved/grass_Auto3A2C758AE41E8CC3A67BE1AB0E13CA370.tmp' to '../../../../../../Users/modak/Documents/técnico/unreal/Ilha_MarianaOda/MyProject/Saved/Autosaves/Game/FirstPersonBP/texture/grass_Auto3.uasset'
+[2021.05.23-23.54.50:358][196]LogFileHelpers: Auto-saving content packages took 0.026
+[2021.05.23-23.54.55:983][382]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_2, compiling. 
+[2021.05.23-23.54.55:994][382]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_2, compiling. 
+[2021.05.23-23.54.56:018][383]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2021.05.23-23.54.56:018][383]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2021.05.23-23.54.56:018][383]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2021.05.23-23.54.56:018][383]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2021.05.23-23.54.57:410][412]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2021.05.23-23.54.57:738][417]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 4
+[2021.05.23-23.54.57:975][422]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2021.05.23-23.54.58:069][422]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2021.05.23-23.54.58:132][423]LogMaterialEditor: Saving and Compiling material areia
+[2021.05.23-23.54.59:278][423]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2021.05.23-23.54.59:289][423]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_2, compiling. 
+[2021.05.23-23.54.59:324][423]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2021.05.23-23.54.59:324][423]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2021.05.23-23.54.59:324][423]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2021.05.23-23.54.59:324][423]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2021.05.23-23.54.59:354][423]LogMaterial: Display: Missing cached shader map for material areia, compiling. 
+[2021.05.23-23.54.59:391][423]LogMaterial: Display: Missing cached shader map for material areia, compiling. 
+[2021.05.23-23.54.59:429][423]LogMaterial: Display: Missing cached shader map for material areia, compiling. 
+[2021.05.23-23.54.59:458][423]LogMaterial: Display: Missing cached shader map for material areia, compiling. 
+[2021.05.23-23.54.59:466][423]LogMaterial: Display: Missing cached shader map for material areia, compiling. 
+[2021.05.23-23.54.59:474][423]LogMaterial: Display: Missing cached shader map for material areia, compiling. 
+[2021.05.23-23.54.59:482][423]LogMaterial: Display: Missing cached shader map for material areia, compiling. 
+[2021.05.23-23.54.59:519][423]LogMaterial: Display: Missing cached shader map for material areia, compiling. 
+[2021.05.23-23.54.59:578][423]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2021.05.23-23.54.59:594][423]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.05.23-23.55.00:165][423]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 149
+[2021.05.23-23.55.00:165][423]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 148
+[2021.05.23-23.55.00:725][423]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 147
+[2021.05.23-23.55.00:725][423]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 146
+[2021.05.23-23.55.00:725][423]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 145
+[2021.05.23-23.55.01:286][423]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 144
+[2021.05.23-23.55.01:286][423]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 143
+[2021.05.23-23.55.01:286][423]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 142
+[2021.05.23-23.55.01:286][423]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 132
+[2021.05.23-23.55.01:286][423]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 122
+[2021.05.23-23.55.01:552][423]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 112
+[2021.05.23-23.55.01:591][423]TextureStreamingBuild: Display: Compiling optional shaders took 2.007 seconds.
+[2021.05.23-23.55.01:603][423]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2021.05.23-23.55.06:158][423]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 102
+[2021.05.23-23.55.07:278][423]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 92
+[2021.05.23-23.55.07:278][423]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 82
+[2021.05.23-23.55.08:320][423]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 72
+[2021.05.23-23.55.08:498][423]LogSavePackage: Moving '../../../../../../Users/modak/Documents/técnico/unreal/Ilha_MarianaOda/MyProject/Saved/areiaE385326B45711814CA7AD09E8C036E5C.tmp' to '../../../../../../Users/modak/Documents/técnico/unreal/Ilha_MarianaOda/MyProject/Content/FirstPersonBP/materiais/areia.uasset'
+[2021.05.23-23.55.08:542][423]AssetCheck: New page: Asset Save: areia
+[2021.05.23-23.55.08:542][423]LogContentValidation: Display: Validating Material /Game/FirstPersonBP/materiais/areia.areia
+[2021.05.23-23.55.08:546][423]MaterialEditorStats: Base pass shader: 118 instructions
+[2021.05.23-23.55.08:546][423]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 192 instructions
+[2021.05.23-23.55.08:546][423]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2021.05.23-23.55.08:546][423]MaterialEditorStats: Texture samplers: 4/16
+[2021.05.23-23.55.08:546][423]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2021.05.23-23.55.08:547][423]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.05.23-23.55.10:031][443]LogSlate: Window 'areia' being destroyed
+[2021.05.23-23.55.10:044][443]LogSlate: Window 'areia' being destroyed
+[2021.05.23-23.55.10:079][443]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2021.05.23-23.55.10:079][443]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.23-23.55.13:614][510]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 62
+[2021.05.23-23.55.14:185][521]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 52
+[2021.05.23-23.55.14:922][536]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 42
+[2021.05.23-23.55.18:886][610]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 32
+[2021.05.23-23.55.23:404][695]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 23
+[2021.05.23-23.55.23:480][696]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 17
+[2021.05.23-23.55.23:757][702]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 12
+[2021.05.23-23.55.25:256][727]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 8
+[2021.05.23-23.55.27:487][765]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2021.05.23-23.55.27:800][770]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3
+[2021.05.23-23.55.27:959][772]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2
+[2021.05.23-23.55.28:223][777]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2021.05.23-23.55.37:546][120]LogMaterial: Display: Missing cached shader map for material areia, compiling. 
+[2021.05.23-23.55.37:583][121]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 28
+[2021.05.23-23.55.37:583][121]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 20
+[2021.05.23-23.55.37:583][121]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 12
+[2021.05.23-23.55.37:583][121]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 4
+[2021.05.23-23.55.47:558][374]LogTexture: Display: Building textures: Texture2D_99 (BGRA8, 64X64)
+[2021.05.23-23.55.47:606][374]LogTexture: Display: Building textures: Texture2D_100 (BGRA8, 64X64)
+[2021.05.23-23.55.49:058][437]LogTexture: Display: Building textures: Texture2D_101 (BGRA8, 64X64)
+[2021.05.23-23.55.49:859][470]LogTexture: Display: Building textures: Texture2D_102 (BGRA8, 64X64)
+[2021.05.23-23.55.52:169][565]LogTexture: Display: Building textures: Texture2D_103 (BGRA8, 64X64)
+[2021.05.23-23.55.56:578][727]Cmd: TRANSACTION UNDO
+[2021.05.23-23.55.56:578][727]LogEditorTransaction: Undo Edição de Paisagem: Pintura
+[2021.05.23-23.55.56:621][727]LogTexture: Display: Building textures: Texture2D_103 (BGRA8, 64X64)
+[2021.05.23-23.55.56:623][727]LogTexture: Display: Building textures: Texture2D_98 (BGRA8, 64X64)
+[2021.05.23-23.55.56:625][727]LogTexture: Display: Building textures: Texture2D_90 (BGRA8, 64X64)
+[2021.05.23-23.55.56:628][727]LogTexture: Display: Building textures: Texture2D_64 (BGRA8, 64X64)
+[2021.05.23-23.56.07:985][159]LogTexture: Display: Building textures: Texture2D_104 (BGRA8, 64X64)
+[2021.05.23-23.56.11:525][300]LogTexture: Display: Building textures: Texture2D_105 (BGRA8, 64X64)
+[2021.05.23-23.56.13:564][378]LogTexture: Display: Building textures: Texture2D_106 (BGRA8, 64X64)
+[2021.05.23-23.56.16:474][489]LogTexture: Display: Building textures: Texture2D_107 (BGRA8, 64X64)
+[2021.05.23-23.56.16:541][490]LogTexture: Display: Building textures: Texture2D_108 (BGRA8, 64X64)
+[2021.05.23-23.56.23:379][755]LogTexture: Display: Building textures: Texture2D_109 (BGRA8, 64X64)
+[2021.05.23-23.56.26:144][864]LogTexture: Display: Building textures: Texture2D_110 (BGRA8, 64X64)
+[2021.05.23-23.56.26:220][866]LogTexture: Display: Building textures: Texture2D_111 (BGRA8, 64X64)
+[2021.05.23-23.56.28:206][941]LogTexture: Display: Building textures: Texture2D_112 (BGRA8, 64X64)
+[2021.05.23-23.56.32:244][100]LogTexture: Display: Building textures: Texture2D_113 (BGRA8, 64X64)
+[2021.05.23-23.57.39:140][388]LogTexture: Display: Building textures: Texture2D_114 (BGRA8, 64X64)
+[2021.05.23-23.58.22:758][638]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/FirstPersonBP/materiais/areia.areia
+[2021.05.23-23.58.22:761][638]LogMaterial: Display: Missing cached shader map for material areia, compiling. 
+[2021.05.23-23.58.22:913][638]LogMaterial: Display: Missing cached shader map for material areia, compiling. 
+[2021.05.23-23.58.22:923][638]LogMaterial: Display: Missing cached shader map for material areia, compiling. 
+[2021.05.23-23.58.22:940][638]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2021.05.23-23.58.22:940][638]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2021.05.23-23.58.22:940][638]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2021.05.23-23.58.22:940][638]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2021.05.23-23.58.22:941][638]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2021.05.23-23.58.22:952][638]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2021.05.23-23.58.22:958][638]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionLandscapeLayerCoords_0, compiling. 
+[2021.05.23-23.58.22:964][638]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2021.05.23-23.58.22:971][638]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_3, compiling. 
+[2021.05.23-23.58.24:108][664]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 25
+[2021.05.23-23.58.24:368][671]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 24
+[2021.05.23-23.58.24:590][677]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 23
+[2021.05.23-23.58.24:628][678]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 22
+[2021.05.23-23.58.25:279][693]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 21
+[2021.05.23-23.58.25:521][700]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 20
+[2021.05.23-23.58.25:968][711]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 19
+[2021.05.23-23.58.26:034][713]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 18
+[2021.05.23-23.58.26:044][713]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 17
+[2021.05.23-23.58.26:086][714]MaterialEditorStats: Base pass shader: 118 instructions
+[2021.05.23-23.58.26:086][714]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 192 instructions
+[2021.05.23-23.58.26:086][714]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2021.05.23-23.58.26:086][714]MaterialEditorStats: Texture samplers: 3/16
+[2021.05.23-23.58.26:086][714]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2021.05.23-23.58.26:086][714]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.05.23-23.58.26:325][721]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 16
+[2021.05.23-23.58.26:916][735]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 15
+[2021.05.23-23.58.27:078][739]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 14
+[2021.05.23-23.58.27:090][739]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 13
+[2021.05.23-23.58.27:196][741]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 12
+[2021.05.23-23.58.27:957][760]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 11
+[2021.05.23-23.58.28:001][761]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 10
+[2021.05.23-23.58.28:053][761]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9
+[2021.05.23-23.58.28:084][761]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 8
+[2021.05.23-23.58.28:342][768]LogMaterial: Display: Missing cached shader map for material areia, compiling. 
+[2021.05.23-23.58.28:369][768]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionLandscapeLayerCoords_0, compiling. 
+[2021.05.23-23.58.28:394][768]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_3, compiling. 
+[2021.05.23-23.58.28:853][777]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 20
+[2021.05.23-23.58.28:889][778]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 19
+[2021.05.23-23.58.28:973][780]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 18
+[2021.05.23-23.58.28:973][780]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 17
+[2021.05.23-23.58.29:843][800]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 16
+[2021.05.23-23.58.29:964][803]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 15
+[2021.05.23-23.58.29:964][803]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 14
+[2021.05.23-23.58.30:424][813]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 13
+[2021.05.23-23.58.30:810][822]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 12
+[2021.05.23-23.58.31:064][828]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 11
+[2021.05.23-23.58.31:428][836]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 10
+[2021.05.23-23.58.31:674][842]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9
+[2021.05.23-23.58.32:002][849]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2021.05.23-23.58.32:897][864]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 7
+[2021.05.23-23.58.32:955][865]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 6
+[2021.05.23-23.58.33:135][869]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 5
+[2021.05.23-23.58.33:234][870]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 4
+[2021.05.23-23.58.33:241][870]MaterialEditorStats: Base pass shader: 118 instructions
+[2021.05.23-23.58.33:241][870]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 192 instructions
+[2021.05.23-23.58.33:241][870]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2021.05.23-23.58.33:242][870]MaterialEditorStats: Texture samplers: 3/16
+[2021.05.23-23.58.33:242][870]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2021.05.23-23.58.33:242][870]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.05.23-23.58.34:339][892]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3
+[2021.05.23-23.58.34:339][892]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2021.05.23-23.58.34:339][892]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1
+[2021.05.23-23.59.07:795][350]Cmd: TRANSACTION UNDO
+[2021.05.23-23.59.07:796][350]LogEditorTransaction: Undo Edição de Paisagem: Pintura
+[2021.05.23-23.59.07:872][350]LogMaterial: Display: Missing cached shader map for material areia, compiling. 
+[2021.05.23-23.59.07:887][350]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2021.05.23-23.59.07:887][350]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2021.05.23-23.59.07:887][350]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2021.05.23-23.59.07:887][350]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2021.05.23-23.59.08:983][367]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2021.05.23-23.59.09:405][373]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 4
+[2021.05.23-23.59.09:465][374]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2021.05.23-23.59.09:505][374]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2021.05.23-23.59.10:225][384]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2021.05.23-23.59.10:964][393]MaterialEditorStats: Base pass shader: 118 instructions
+[2021.05.23-23.59.10:964][393]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 192 instructions
+[2021.05.23-23.59.10:964][393]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2021.05.23-23.59.10:964][393]MaterialEditorStats: Texture samplers: 3/16
+[2021.05.23-23.59.10:964][393]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2021.05.23-23.59.10:964][393]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.05.23-23.59.47:980][902]LogMaterial: Display: Missing cached shader map for material areia, compiling. 
+[2021.05.23-23.59.48:020][903]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 28
+[2021.05.23-23.59.48:020][903]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 20
+[2021.05.23-23.59.48:020][903]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 12
+[2021.05.23-23.59.48:020][903]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 4
+[2021.05.24-00.00.27:489][ 41]LogMaterial: Display: Missing cached shader map for material areia, compiling. 
+[2021.05.24-00.00.27:500][ 41]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_4, compiling. 
+[2021.05.24-00.00.27:511][ 41]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 13
+[2021.05.24-00.00.27:511][ 41]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 12
+[2021.05.24-00.00.27:511][ 41]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 11
+[2021.05.24-00.00.27:511][ 41]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 10
+[2021.05.24-00.00.27:521][ 41]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2021.05.24-00.00.27:529][ 41]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2021.05.24-00.00.27:536][ 41]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionLandscapeLayerCoords_0, compiling. 
+[2021.05.24-00.00.27:543][ 41]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2021.05.24-00.00.27:552][ 41]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_3, compiling. 
+[2021.05.24-00.00.27:560][ 41]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_4, compiling. 
+[2021.05.24-00.00.29:072][ 64]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 29
+[2021.05.24-00.00.29:330][ 67]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 28
+[2021.05.24-00.00.29:583][ 70]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 27
+[2021.05.24-00.00.29:673][ 70]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 26
+[2021.05.24-00.00.30:408][ 80]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 25
+[2021.05.24-00.00.30:737][ 84]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 24
+[2021.05.24-00.00.31:172][ 90]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 23
+[2021.05.24-00.00.31:251][ 91]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 22
+[2021.05.24-00.00.31:445][ 93]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 21
+[2021.05.24-00.00.31:592][ 95]MaterialEditorStats: Base pass shader: 118 instructions
+[2021.05.24-00.00.31:592][ 95]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 192 instructions
+[2021.05.24-00.00.31:592][ 95]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2021.05.24-00.00.31:592][ 95]MaterialEditorStats: Texture samplers: 3/16
+[2021.05.24-00.00.31:592][ 95]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2021.05.24-00.00.31:592][ 95]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.05.24-00.00.31:689][ 97]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 20
+[2021.05.24-00.00.32:453][106]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 19
+[2021.05.24-00.00.32:522][107]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 18
+[2021.05.24-00.00.32:531][107]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 17
+[2021.05.24-00.00.32:812][111]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 16
+[2021.05.24-00.00.33:556][121]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 15
+[2021.05.24-00.00.33:791][124]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 14
+[2021.05.24-00.00.33:872][125]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 13
+[2021.05.24-00.00.33:880][125]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 12
+[2021.05.24-00.00.34:936][139]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 11
+[2021.05.24-00.00.34:966][139]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 10
+[2021.05.24-00.00.35:013][140]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9
+[2021.05.24-00.00.35:097][141]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 8
+[2021.05.24-00.00.36:163][155]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2021.05.24-00.00.36:237][156]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 6
+[2021.05.24-00.00.36:251][156]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 5
+[2021.05.24-00.00.36:312][157]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 4
+[2021.05.24-00.00.37:456][172]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3
+[2021.05.24-00.00.37:523][173]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2
+[2021.05.24-00.00.37:597][174]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1
+[2021.05.24-00.00.43:622][324]LogMaterial: Display: Missing cached shader map for material areia, compiling. 
+[2021.05.24-00.00.43:637][324]LogMaterial: Display: Missing cached shader map for material areia, compiling. 
+[2021.05.24-00.00.43:670][325]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2021.05.24-00.00.43:670][325]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2021.05.24-00.00.43:670][325]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2021.05.24-00.00.43:670][325]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2021.05.24-00.00.44:595][340]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2021.05.24-00.00.44:888][344]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 4
+[2021.05.24-00.00.45:114][347]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2021.05.24-00.00.45:149][347]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2021.05.24-00.00.45:837][356]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2021.05.24-00.00.46:769][369]MaterialEditorStats: Base pass shader: 118 instructions
+[2021.05.24-00.00.46:769][369]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 192 instructions
+[2021.05.24-00.00.46:769][369]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2021.05.24-00.00.46:769][369]MaterialEditorStats: Texture samplers: 3/16
+[2021.05.24-00.00.46:769][369]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2021.05.24-00.00.46:769][369]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.05.24-00.00.52:031][513]LogMaterial: Display: Missing cached shader map for material areia, compiling. 
+[2021.05.24-00.00.52:045][513]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2021.05.24-00.00.52:045][513]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2021.05.24-00.00.52:045][513]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2021.05.24-00.00.52:045][513]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2021.05.24-00.00.52:047][513]LogMaterial: Display: Missing cached shader map for material areia, compiling. 
+[2021.05.24-00.00.52:963][528]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9
+[2021.05.24-00.00.53:377][533]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2021.05.24-00.00.53:603][536]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 7
+[2021.05.24-00.00.53:678][537]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 6
+[2021.05.24-00.00.54:654][549]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 5
+[2021.05.24-00.00.54:801][551]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 4
+[2021.05.24-00.00.54:827][551]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3
+[2021.05.24-00.00.55:285][557]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2021.05.24-00.00.55:793][563]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1
+[2021.05.24-00.00.56:716][575]MaterialEditorStats: Base pass shader: 118 instructions
+[2021.05.24-00.00.56:716][575]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 192 instructions
+[2021.05.24-00.00.56:716][575]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2021.05.24-00.00.56:716][575]MaterialEditorStats: Texture samplers: 3/16
+[2021.05.24-00.00.56:716][575]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2021.05.24-00.00.56:716][575]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.05.24-00.01.13:963][ 53]LogMaterial: Display: Missing cached shader map for material areia, compiling. 
+[2021.05.24-00.01.13:980][ 53]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionLandscapeLayerCoords_0, compiling. 
+[2021.05.24-00.01.13:987][ 53]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2021.05.24-00.01.13:987][ 53]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2021.05.24-00.01.13:987][ 53]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2021.05.24-00.01.13:987][ 53]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2021.05.24-00.01.13:999][ 53]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_4, compiling. 
+[2021.05.24-00.01.14:902][ 64]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 13
+[2021.05.24-00.01.15:241][ 70]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 12
+[2021.05.24-00.01.15:438][ 73]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 11
+[2021.05.24-00.01.15:537][ 74]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 10
+[2021.05.24-00.01.16:181][ 82]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 9
+[2021.05.24-00.01.16:480][ 85]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 8
+[2021.05.24-00.01.16:832][ 89]LogMaterial: Display: Missing cached shader map for material areia, compiling. 
+[2021.05.24-00.01.16:867][ 89]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_4, compiling. 
+[2021.05.24-00.01.16:916][ 90]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 16
+[2021.05.24-00.01.16:916][ 90]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 15
+[2021.05.24-00.01.17:091][ 93]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 14
+[2021.05.24-00.01.17:373][ 97]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 13
+[2021.05.24-00.01.18:177][107]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 12
+[2021.05.24-00.01.18:180][107]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 11
+[2021.05.24-00.01.18:243][108]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 10
+[2021.05.24-00.01.19:090][119]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9
+[2021.05.24-00.01.19:150][120]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2021.05.24-00.01.19:521][125]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 7
+[2021.05.24-00.01.19:891][129]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2021.05.24-00.01.20:310][134]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 5
+[2021.05.24-00.01.21:128][144]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 4
+[2021.05.24-00.01.21:420][148]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3
+[2021.05.24-00.01.21:482][149]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2021.05.24-00.01.21:583][150]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2021.05.24-00.01.21:760][152]MaterialEditorStats: Base pass shader: 118 instructions
+[2021.05.24-00.01.21:760][152]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 192 instructions
+[2021.05.24-00.01.21:760][152]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2021.05.24-00.01.21:760][152]MaterialEditorStats: Texture samplers: 3/16
+[2021.05.24-00.01.21:761][152]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2021.05.24-00.01.21:761][152]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.05.24-00.01.34:847][374]LogMaterial: Display: Missing cached shader map for material areia, compiling. 
+[2021.05.24-00.01.34:858][374]LogMaterial: Display: Missing cached shader map for material areia, compiling. 
+[2021.05.24-00.01.34:868][374]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2021.05.24-00.01.34:868][374]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2021.05.24-00.01.34:868][374]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2021.05.24-00.01.34:868][374]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2021.05.24-00.01.34:873][374]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionLandscapeLayerCoords_0, compiling. 
+[2021.05.24-00.01.35:778][389]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9
+[2021.05.24-00.01.36:098][394]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2021.05.24-00.01.36:269][397]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 7
+[2021.05.24-00.01.36:349][398]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 6
+[2021.05.24-00.01.36:568][400]LogMaterial: Display: Missing cached shader map for material areia, compiling. 
+[2021.05.24-00.01.36:596][400]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_4, compiling. 
+[2021.05.24-00.01.36:909][406]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 17
+[2021.05.24-00.01.37:358][413]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 16
+[2021.05.24-00.01.37:789][419]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 15
+[2021.05.24-00.01.37:835][420]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 14
+[2021.05.24-00.01.37:926][421]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 13
+[2021.05.24-00.01.38:468][429]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 12
+[2021.05.24-00.01.38:734][433]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 11
+[2021.05.24-00.01.38:895][436]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 10
+[2021.05.24-00.01.39:392][443]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 9
+[2021.05.24-00.01.39:622][446]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 8
+[2021.05.24-00.01.39:662][446]LogMaterial: Display: Missing cached shader map for material areia, compiling. 
+[2021.05.24-00.01.39:685][446]LogMaterial: Display: Missing cached shader map for material areia, compiling. 
+[2021.05.24-00.01.39:704][446]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 13
+[2021.05.24-00.01.40:367][457]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 12
+[2021.05.24-00.01.40:613][461]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 11
+[2021.05.24-00.01.40:688][462]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 10
+[2021.05.24-00.01.40:971][466]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 9
+[2021.05.24-00.01.41:512][474]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 8
+[2021.05.24-00.01.41:621][475]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2021.05.24-00.01.41:708][476]LogMaterialEditor: Saving and Compiling material areia
+[2021.05.24-00.01.43:271][476]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2021.05.24-00.01.43:271][476]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2021.05.24-00.01.43:272][476]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 4
+[2021.05.24-00.01.43:272][476]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3
+[2021.05.24-00.01.43:272][476]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2
+[2021.05.24-00.01.43:272][476]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2021.05.24-00.01.43:300][476]LogMaterial: Display: Missing cached shader map for material areia, compiling. 
+[2021.05.24-00.01.43:420][476]LogMaterial: Display: Missing cached shader map for material areia, compiling. 
+[2021.05.24-00.01.43:478][476]LogMaterial: Display: Missing cached shader map for material areia, compiling. 
+[2021.05.24-00.01.43:543][476]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 21
+[2021.05.24-00.01.43:543][476]LogMaterial: Display: Missing cached shader map for material areia, compiling. 
+[2021.05.24-00.01.43:581][476]LogMaterial: Display: Missing cached shader map for material areia, compiling. 
+[2021.05.24-00.01.43:621][476]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 76
+[2021.05.24-00.01.43:621][476]LogMaterial: Display: Missing cached shader map for material areia, compiling. 
+[2021.05.24-00.01.43:661][476]LogMaterial: Display: Missing cached shader map for material areia, compiling. 
+[2021.05.24-00.01.43:674][476]LogMaterial: Display: Missing cached shader map for material areia, compiling. 
+[2021.05.24-00.01.43:686][476]LogMaterial: Display: Missing cached shader map for material areia, compiling. 
+[2021.05.24-00.01.43:698][476]LogMaterial: Display: Missing cached shader map for material areia, compiling. 
+[2021.05.24-00.01.43:736][476]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 149
+[2021.05.24-00.01.43:736][476]LogMaterial: Display: Missing cached shader map for material areia, compiling. 
+[2021.05.24-00.01.43:794][476]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 204
+[2021.05.24-00.01.43:809][476]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2021.05.24-00.01.43:824][476]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.05.24-00.01.44:395][476]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 205
+[2021.05.24-00.01.44:954][476]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 204
+[2021.05.24-00.01.44:954][476]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 203
+[2021.05.24-00.01.44:954][476]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 202
+[2021.05.24-00.01.45:515][476]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 201
+[2021.05.24-00.01.45:515][476]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 200
+[2021.05.24-00.01.45:515][476]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 199
+[2021.05.24-00.01.45:860][476]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 198
+[2021.05.24-00.01.45:860][476]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 188
+[2021.05.24-00.01.45:860][476]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 178
+[2021.05.24-00.01.45:860][476]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 168
+[2021.05.24-00.01.45:902][476]TextureStreamingBuild: Display: Compiling optional shaders took 2.088 seconds.
+[2021.05.24-00.01.45:917][476]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2021.05.24-00.01.51:030][476]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 158
+[2021.05.24-00.01.51:589][476]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 148
+[2021.05.24-00.01.51:589][476]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 138
+[2021.05.24-00.01.53:180][476]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 128
+[2021.05.24-00.01.53:188][476]LogMaterial: Display: Missing cached shader map for material areia, compiling. 
+[2021.05.24-00.01.53:414][476]LogSavePackage: Moving '../../../../../../Users/modak/Documents/técnico/unreal/Ilha_MarianaOda/MyProject/Saved/areia72FB10BE47B8024BE78135A9D422CDD6.tmp' to '../../../../../../Users/modak/Documents/técnico/unreal/Ilha_MarianaOda/MyProject/Content/FirstPersonBP/materiais/areia.uasset'
+[2021.05.24-00.01.53:464][476]AssetCheck: New page: Asset Save: areia
+[2021.05.24-00.01.53:464][476]LogContentValidation: Display: Validating Material /Game/FirstPersonBP/materiais/areia.areia
+[2021.05.24-00.01.53:467][476]MaterialEditorStats: Base pass shader: 118 instructions
+[2021.05.24-00.01.53:467][476]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 192 instructions
+[2021.05.24-00.01.53:467][476]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2021.05.24-00.01.53:467][476]MaterialEditorStats: Texture samplers: 4/16
+[2021.05.24-00.01.53:467][476]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2021.05.24-00.01.53:467][476]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.05.24-00.01.57:737][550]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 124
+[2021.05.24-00.01.59:083][567]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 114
+[2021.05.24-00.01.59:634][573]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 104
+[2021.05.24-00.02.02:355][613]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 94
+[2021.05.24-00.02.05:712][654]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 84
+[2021.05.24-00.02.06:001][654]LogSlate: Window 'Mensagem' being destroyed
+[2021.05.24-00.02.06:016][654]Message dialog closed, result: Ok, title: Mensagem, text: A camada ainda não possui informações de camada atribuídas. Você deve criar ou atribuir uma informação de camada antes de poder pintá-la.
+[2021.05.24-00.02.07:258][672]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 74
+[2021.05.24-00.02.08:548][676]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 64
+[2021.05.24-00.02.08:696][676]LogSlate: Window 'Criar Novo Objeto de Informações de Camada de Paisagem' being destroyed
+[2021.05.24-00.02.10:689][698]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 54
+[2021.05.24-00.02.11:027][698]LogSlate: Window 'Mensagem' being destroyed
+[2021.05.24-00.02.11:043][698]Message dialog closed, result: Ok, title: Mensagem, text: A camada ainda não possui informações de camada atribuídas. Você deve criar ou atribuir uma informação de camada antes de poder pintá-la.
+[2021.05.24-00.02.13:444][725]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 44
+[2021.05.24-00.02.14:765][725]LogSlate: Window 'Mensagem' being destroyed
+[2021.05.24-00.02.14:777][725]Message dialog closed, result: Ok, title: Mensagem, text: A camada ainda não possui informações de camada atribuídas. Você deve criar ou atribuir uma informação de camada antes de poder pintá-la.
+[2021.05.24-00.02.16:946][754]LogMaterial: Display: Missing cached shader map for material areia, compiling. 
+[2021.05.24-00.02.17:012][754]LogMaterial: Display: Missing cached shader map for material areia, compiling. 
+[2021.05.24-00.02.17:397][760]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 90
+[2021.05.24-00.02.17:509][762]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 80
+[2021.05.24-00.02.18:975][788]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 70
+[2021.05.24-00.02.20:287][812]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 60
+[2021.05.24-00.02.26:248][919]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 50
+[2021.05.24-00.02.26:452][923]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 40
+[2021.05.24-00.02.26:807][929]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 30
+[2021.05.24-00.02.29:892][986]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 22
+[2021.05.24-00.02.33:178][ 44]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 16
+[2021.05.24-00.02.34:361][ 65]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 11
+[2021.05.24-00.02.35:319][ 83]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 8
+[2021.05.24-00.02.35:319][ 83]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 5
+[2021.05.24-00.02.36:867][111]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2
+[2021.05.24-00.02.37:060][114]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2021.05.24-00.02.50:837][629]Cmd: TRANSACTION UNDO
+[2021.05.24-00.02.50:837][629]LogEditorTransaction: Undo Edição de Paisagem: Pintura
+[2021.05.24-00.02.50:899][629]LogTexture: Display: Building textures: Texture2D_64 (BGRA8, 64X64)
+[2021.05.24-00.02.50:901][629]LogTexture: Display: Building textures: Texture2D_103 (BGRA8, 64X64)
+[2021.05.24-00.02.50:903][629]LogTexture: Display: Building textures: Texture2D_93 (BGRA8, 64X64)
+[2021.05.24-00.02.50:906][629]LogTexture: Display: Building textures: Texture2D_66 (BGRA8, 64X64)
+[2021.05.24-00.02.50:909][629]LogTexture: Display: Building textures: Texture2D_96 (BGRA8, 64X64)
+[2021.05.24-00.02.50:912][629]LogTexture: Display: Building textures: Texture2D_82 (BGRA8, 64X64)
+[2021.05.24-00.02.50:965][629]LogMaterial: Display: Missing cached shader map for material areia, compiling. 
+[2021.05.24-00.02.50:980][629]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2021.05.24-00.02.50:980][629]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2021.05.24-00.02.50:980][629]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2021.05.24-00.02.50:980][629]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2021.05.24-00.02.51:246][633]Cmd: TRANSACTION UNDO
+[2021.05.24-00.02.51:246][633]LogEditorTransaction: Undo Edição de Paisagem: Pintura
+[2021.05.24-00.02.51:296][633]LogTexture: Display: Building textures: Texture2D_64 (BGRA8, 64X64)
+[2021.05.24-00.02.51:327][633]LogTexture: Display: Building textures: Texture2D_96 (BGRA8, 64X64)
+[2021.05.24-00.02.51:330][633]LogTexture: Display: Building textures: Texture2D_93 (BGRA8, 64X64)
+[2021.05.24-00.02.51:334][633]LogTexture: Display: Building textures: Texture2D_66 (BGRA8, 64X64)
+[2021.05.24-00.02.51:336][633]LogTexture: Display: Building textures: Texture2D_103 (BGRA8, 64X64)
+[2021.05.24-00.02.51:339][633]LogTexture: Display: Building textures: Texture2D_82 (BGRA8, 64X64)
+[2021.05.24-00.02.51:422][633]LogMaterial: Display: Missing cached shader map for material areia, compiling. 
+[2021.05.24-00.02.51:749][637]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9
+[2021.05.24-00.02.52:043][642]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2021.05.24-00.02.52:220][645]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 7
+[2021.05.24-00.02.52:282][646]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 6
+[2021.05.24-00.02.53:199][661]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 5
+[2021.05.24-00.02.53:339][662]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 4
+[2021.05.24-00.02.53:398][663]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3
+[2021.05.24-00.02.53:934][669]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2021.05.24-00.02.54:272][675]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1
+[2021.05.24-00.02.55:298][696]MaterialEditorStats: Base pass shader: 118 instructions
+[2021.05.24-00.02.55:298][696]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 192 instructions
+[2021.05.24-00.02.55:299][696]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2021.05.24-00.02.55:299][696]MaterialEditorStats: Texture samplers: 3/16
+[2021.05.24-00.02.55:299][696]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2021.05.24-00.02.55:299][696]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.05.24-00.03.06:173][  9]LogMaterial: Display: Missing cached shader map for material areia, compiling. 
+[2021.05.24-00.03.06:187][  9]LogMaterial: Display: Missing cached shader map for material areia, compiling. 
+[2021.05.24-00.03.06:212][ 10]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2021.05.24-00.03.06:212][ 10]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2021.05.24-00.03.06:212][ 10]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2021.05.24-00.03.06:212][ 10]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2021.05.24-00.03.07:057][ 23]LogMaterialEditor: Saving and Compiling material areia
+[2021.05.24-00.03.08:650][ 23]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2021.05.24-00.03.08:650][ 23]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 4
+[2021.05.24-00.03.08:650][ 23]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2021.05.24-00.03.08:650][ 23]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2021.05.24-00.03.08:650][ 23]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2021.05.24-00.03.08:665][ 23]LogMaterial: Display: Missing cached shader map for material areia, compiling. 
+[2021.05.24-00.03.08:707][ 23]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2021.05.24-00.03.08:707][ 23]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2021.05.24-00.03.08:707][ 23]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2021.05.24-00.03.08:707][ 23]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2021.05.24-00.03.08:731][ 23]LogMaterial: Display: Missing cached shader map for material areia, compiling. 
+[2021.05.24-00.03.08:764][ 23]LogMaterial: Display: Missing cached shader map for material areia, compiling. 
+[2021.05.24-00.03.08:773][ 23]LogMaterial: Display: Missing cached shader map for material areia, compiling. 
+[2021.05.24-00.03.08:782][ 23]LogMaterial: Display: Missing cached shader map for material areia, compiling. 
+[2021.05.24-00.03.08:793][ 23]LogMaterial: Display: Missing cached shader map for material areia, compiling. 
+[2021.05.24-00.03.08:815][ 23]LogMaterial: Display: Missing cached shader map for material areia, compiling. 
+[2021.05.24-00.03.08:866][ 23]LogMaterial: Display: Missing cached shader map for material areia, compiling. 
+[2021.05.24-00.03.08:900][ 23]LogMaterial: Display: Missing cached shader map for material areia, compiling. 
+[2021.05.24-00.03.08:933][ 23]LogMaterial: Display: Missing cached shader map for material areia, compiling. 
+[2021.05.24-00.03.08:965][ 23]LogMaterial: Display: Missing cached shader map for material areia, compiling. 
+[2021.05.24-00.03.09:002][ 23]LogMaterial: Display: Missing cached shader map for material areia, compiling. 
+[2021.05.24-00.03.09:047][ 23]LogMaterial: Display: Missing cached shader map for material areia, compiling. 
+[2021.05.24-00.03.09:091][ 23]LogMaterial: Display: Missing cached shader map for material areia, compiling. 
+[2021.05.24-00.03.09:177][ 23]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2021.05.24-00.03.09:211][ 23]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.05.24-00.03.09:782][ 23]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 267
+[2021.05.24-00.03.09:782][ 23]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 266
+[2021.05.24-00.03.09:782][ 23]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 265
+[2021.05.24-00.03.09:782][ 23]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 264
+[2021.05.24-00.03.10:342][ 23]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 263
+[2021.05.24-00.03.10:342][ 23]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 262
+[2021.05.24-00.03.10:902][ 23]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 261
+[2021.05.24-00.03.10:903][ 23]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 260
+[2021.05.24-00.03.10:903][ 23]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 250
+[2021.05.24-00.03.10:903][ 23]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 240
+[2021.05.24-00.03.11:005][ 23]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 230
+[2021.05.24-00.03.11:047][ 23]TextureStreamingBuild: Display: Compiling optional shaders took 1.858 seconds.
+[2021.05.24-00.03.11:066][ 23]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2021.05.24-00.03.18:992][ 23]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 220
+[2021.05.24-00.03.18:992][ 23]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 210
+[2021.05.24-00.03.19:385][ 23]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 200
+[2021.05.24-00.03.19:385][ 23]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 190
+[2021.05.24-00.03.19:598][ 23]LogSavePackage: Moving '../../../../../../Users/modak/Documents/técnico/unreal/Ilha_MarianaOda/MyProject/Saved/areia1E55996D4FB6FCFDFAB7AAA03DA26B3A.tmp' to '../../../../../../Users/modak/Documents/técnico/unreal/Ilha_MarianaOda/MyProject/Content/FirstPersonBP/materiais/areia.uasset'
+[2021.05.24-00.03.19:640][ 23]AssetCheck: New page: Asset Save: areia
+[2021.05.24-00.03.19:640][ 23]LogContentValidation: Display: Validating Material /Game/FirstPersonBP/materiais/areia.areia
+[2021.05.24-00.03.19:648][ 23]MaterialEditorStats: Base pass shader: 118 instructions
+[2021.05.24-00.03.19:649][ 23]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 192 instructions
+[2021.05.24-00.03.19:649][ 23]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2021.05.24-00.03.19:649][ 23]MaterialEditorStats: Texture samplers: 4/16
+[2021.05.24-00.03.19:649][ 23]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2021.05.24-00.03.19:649][ 23]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
