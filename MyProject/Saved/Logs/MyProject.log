@@ -4248,3 +4248,313 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.05.24-00.16.38:618][628]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 370
 [2021.05.24-00.16.38:658][628]TextureStreamingBuild: Display: Compiling optional shaders took 7.556 seconds.
 [2021.05.24-00.16.38:674][628]LogUObjectHash: Compacting FUObjectHashTables data took   2.38ms
+[2021.05.24-00.16.44:905][628]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 360
+[2021.05.24-00.16.46:588][628]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 350
+[2021.05.24-00.16.47:149][628]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 340
+[2021.05.24-00.16.47:149][628]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 330
+[2021.05.24-00.16.51:626][628]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 320
+[2021.05.24-00.16.52:744][628]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 310
+[2021.05.24-00.16.53:865][628]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 300
+[2021.05.24-00.16.53:865][628]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 290
+[2021.05.24-00.16.57:232][628]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 280
+[2021.05.24-00.16.59:474][628]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 270
+[2021.05.24-00.16.59:474][628]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 260
+[2021.05.24-00.17.00:032][628]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 250
+[2021.05.24-00.17.03:395][628]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 240
+[2021.05.24-00.17.05:075][628]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 230
+[2021.05.24-00.17.07:870][628]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 220
+[2021.05.24-00.17.08:353][628]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 210
+[2021.05.24-00.17.08:800][628]LogSavePackage: Moving '../../../../../../Users/modak/Documents/técnico/unreal/Ilha_MarianaOda/MyProject/Saved/areia8AEDA8364F1725EDA50AB28955B66C35.tmp' to '../../../../../../Users/modak/Documents/técnico/unreal/Ilha_MarianaOda/MyProject/Content/FirstPersonBP/materiais/areia.uasset'
+[2021.05.24-00.17.08:834][628]AssetCheck: New page: Asset Save: areia
+[2021.05.24-00.17.08:834][628]LogContentValidation: Display: Validating Material /Game/FirstPersonBP/materiais/areia.areia
+[2021.05.24-00.17.08:839][628]MaterialEditorStats: Base pass shader: 116 instructions
+[2021.05.24-00.17.08:839][628]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 190 instructions
+[2021.05.24-00.17.08:839][628]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2021.05.24-00.17.08:839][628]MaterialEditorStats: Texture samplers: 3/16
+[2021.05.24-00.17.13:045][689]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 200
+[2021.05.24-00.17.14:904][720]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 190
+[2021.05.24-00.17.18:253][778]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 180
+[2021.05.24-00.17.18:549][783]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 170
+[2021.05.24-00.17.21:295][831]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 160
+[2021.05.24-00.17.25:514][903]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 150
+[2021.05.24-00.17.27:360][936]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 140
+[2021.05.24-00.17.28:027][947]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 130
+[2021.05.24-00.17.31:549][  6]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 120
+[2021.05.24-00.17.33:647][ 42]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 110
+[2021.05.24-00.17.38:769][119]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 100
+[2021.05.24-00.17.38:913][122]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 90
+[2021.05.24-00.17.40:263][143]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 80
+[2021.05.24-00.17.43:330][191]Cmd: TRANSACTION UNDO
+[2021.05.24-00.17.43:330][191]LogEditorTransaction: Undo Edição de Paisagem: Pintura
+[2021.05.24-00.17.43:349][191]LogTexture: Display: Building textures: Texture2D_93 (BGRA8, 64X64)
+[2021.05.24-00.17.43:352][191]LogTexture: Display: Building textures: Texture2D_63 (BGRA8, 64X64)
+[2021.05.24-00.17.43:447][191]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_4, compiling. 
+[2021.05.24-00.17.44:502][204]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 79
+[2021.05.24-00.17.46:324][232]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 78
+[2021.05.24-00.17.47:089][241]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 77
+[2021.05.24-00.17.47:782][249]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 76
+[2021.05.24-00.17.48:117][255]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 75
+[2021.05.24-00.17.49:688][279]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 74
+[2021.05.24-00.17.50:133][286]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 73
+[2021.05.24-00.17.50:577][293]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 72
+[2021.05.24-00.17.50:784][297]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 71
+[2021.05.24-00.17.51:771][313]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 70
+[2021.05.24-00.17.51:772][313]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 60
+[2021.05.24-00.17.51:831][314]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 50
+[2021.05.24-00.17.52:009][317]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 40
+[2021.05.24-00.17.52:115][319]MaterialEditorStats: Base pass shader: 116 instructions
+[2021.05.24-00.17.52:116][319]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 190 instructions
+[2021.05.24-00.17.52:116][319]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2021.05.24-00.17.52:116][319]MaterialEditorStats: Texture samplers: 2/16
+[2021.05.24-00.18.00:314][444]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 30
+[2021.05.24-00.18.01:283][461]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 22
+[2021.05.24-00.18.02:179][476]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 16
+[2021.05.24-00.18.02:542][482]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 11
+[2021.05.24-00.18.06:492][543]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 8
+[2021.05.24-00.18.09:049][577]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2021.05.24-00.18.09:282][580]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3
+[2021.05.24-00.18.09:333][581]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2021.05.24-00.18.09:903][589]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2021.05.24-00.18.12:604][604]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2021.05.24-00.18.12:629][604]LogTexture: Display: Building textures: Texture2D_66 (BGRA8, 64X64)
+[2021.05.24-00.18.12:630][604]LogTexture: Display: Building textures: Texture2D_101 (BGRA8, 64X64)
+[2021.05.24-00.18.12:631][604]LogTexture: Display: Building textures: Texture2D_114 (BGRA8, 64X64)
+[2021.05.24-00.18.12:632][604]LogTexture: Display: Building textures: Texture2D_63 (BGRA8, 64X64)
+[2021.05.24-00.18.12:637][604]LogTexture: Display: Building textures: Texture2D_93 (BGRA8, 64X64)
+[2021.05.24-00.18.12:864][604]LogSavePackage: Moving '../../../../../../Users/modak/Documents/técnico/unreal/Ilha_MarianaOda/MyProject/Saved/Untitled_Auto5695622EF4AA31F26A25E27B9C1129666.tmp' to '../../../../../../Users/modak/Documents/técnico/unreal/Ilha_MarianaOda/MyProject/Saved/Autosaves/Game/Untitled_Auto5.umap'
+[2021.05.24-00.18.12:867][604]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Untitled' took 0.275
+[2021.05.24-00.18.12:867][604]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.275
+[2021.05.24-00.18.12:868][604]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FirstPersonBP/texture/grama] ([1] browsable assets)...
+[2021.05.24-00.18.12:880][604]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/FirstPersonBP/texture/grama.grama]
+[2021.05.24-00.18.12:880][604]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPersonBP/texture/grama]
+[2021.05.24-00.18.12:897][604]LogSavePackage: Moving '../../../../../../Users/modak/Documents/técnico/unreal/Ilha_MarianaOda/MyProject/Saved/grama_Auto5EA5C0CC944E4DFEE42361EA0DDDBA6EA.tmp' to '../../../../../../Users/modak/Documents/técnico/unreal/Ilha_MarianaOda/MyProject/Saved/Autosaves/Game/FirstPersonBP/texture/grama_Auto5.uasset'
+[2021.05.24-00.18.12:899][604]LogFileHelpers: Auto-saving content packages took 0.032
+[2021.05.24-00.18.43:258][448]LogEditorViewport: Clicking on Actor (context menu): Landscape (Landscape)
+[2021.05.24-00.18.45:953][526]Cmd: TRANSACTION UNDO
+[2021.05.24-00.18.45:954][526]LogEditorTransaction: Undo Edição de Paisagem: Pintura
+[2021.05.24-00.18.46:019][526]LogTexture: Display: Building textures: Texture2D_101 (BGRA8, 64X64)
+[2021.05.24-00.18.46:021][526]LogTexture: Display: Building textures: Texture2D_71 (BGRA8, 64X64)
+[2021.05.24-00.18.46:024][526]LogTexture: Display: Building textures: Texture2D_99 (BGRA8, 64X64)
+[2021.05.24-00.18.46:026][526]LogTexture: Display: Building textures: Texture2D_79 (BGRA8, 64X64)
+[2021.05.24-00.18.46:086][526]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_4, compiling. 
+[2021.05.24-00.18.46:104][526]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2021.05.24-00.18.46:104][526]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2021.05.24-00.18.46:104][526]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2021.05.24-00.18.46:104][526]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2021.05.24-00.18.47:461][549]Cmd: TRANSACTION UNDO
+[2021.05.24-00.18.47:461][549]LogEditorTransaction: Undo Edição de Paisagem: Pintura
+[2021.05.24-00.18.47:556][549]LogTexture: Display: Building textures: Texture2D_99 (BGRA8, 64X64)
+[2021.05.24-00.18.47:561][549]LogTexture: Display: Building textures: Texture2D_101 (BGRA8, 64X64)
+[2021.05.24-00.18.47:564][549]LogTexture: Display: Building textures: Texture2D_71 (BGRA8, 64X64)
+[2021.05.24-00.18.47:568][549]LogTexture: Display: Building textures: Texture2D_79 (BGRA8, 64X64)
+[2021.05.24-00.18.47:689][549]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2021.05.24-00.18.47:692][549]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_4, compiling. 
+[2021.05.24-00.18.47:976][555]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 9
+[2021.05.24-00.18.48:159][558]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 8
+[2021.05.24-00.18.48:418][562]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 7
+[2021.05.24-00.18.49:352][574]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 6
+[2021.05.24-00.18.49:510][576]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 5
+[2021.05.24-00.18.49:674][577]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 4
+[2021.05.24-00.18.49:738][578]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3
+[2021.05.24-00.18.50:758][587]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2
+[2021.05.24-00.18.51:083][591]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1
+[2021.05.24-00.18.52:143][602]MaterialEditorStats: Base pass shader: 116 instructions
+[2021.05.24-00.18.52:143][602]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 190 instructions
+[2021.05.24-00.18.52:143][602]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2021.05.24-00.18.52:143][602]MaterialEditorStats: Texture samplers: 2/16
+[2021.05.24-00.19.05:818][ 12]LogTexture: Display: Building textures: Texture2D_115 (BGRA8, 64X64)
+[2021.05.24-00.19.36:754][ 12]LogTexture: Display: Building textures: Texture2D_116 (BGRA8, 64X64)
+[2021.05.24-00.19.36:760][ 12]LogTexture: Display: Building textures: Texture2D_117 (BGRA8, 64X64)
+[2021.05.24-00.19.40:519][134]LogMaterial: Display: Missing cached shader map for material areia, compiling. 
+[2021.05.24-00.19.40:554][134]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 28
+[2021.05.24-00.19.40:554][134]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 20
+[2021.05.24-00.19.40:554][134]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 12
+[2021.05.24-00.19.40:554][134]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 4
+[2021.05.24-00.19.51:526][372]LogTexture: Display: Building textures: Texture2D_118 (BGRA8, 64X64)
+[2021.05.24-00.20.01:459][685]LogTexture: Display: Building textures: Texture2D_119 (BGRA8, 64X64)
+[2021.05.24-00.20.45:262][ 67]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Untitled" FILE="../../../../../../Users/modak/Documents/técnico/unreal/Ilha_MarianaOda/MyProject/Content/Untitled.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.05.24-00.20.45:278][ 67]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2021.05.24-00.20.45:309][ 67]LogTexture: Display: Building textures: Texture2D_92 (BGRA8, 64X64)
+[2021.05.24-00.20.45:310][ 67]LogTexture: Display: Building textures: Texture2D_108 (BGRA8, 64X64)
+[2021.05.24-00.20.45:311][ 67]LogTexture: Display: Building textures: Texture2D_86 (BGRA8, 64X64)
+[2021.05.24-00.20.45:312][ 67]LogTexture: Display: Building textures: Texture2D_83 (BGRA8, 64X64)
+[2021.05.24-00.20.45:313][ 67]LogTexture: Display: Building textures: Texture2D_110 (BGRA8, 64X64)
+[2021.05.24-00.20.45:314][ 67]LogTexture: Display: Building textures: Texture2D_1 (BGRA8, 64X64)
+[2021.05.24-00.20.45:316][ 67]LogTexture: Display: Building textures: Texture2D_85 (BGRA8, 64X64)
+[2021.05.24-00.20.45:317][ 67]LogTexture: Display: Building textures: Texture2D_7 (BGRA8, 64X64)
+[2021.05.24-00.20.45:318][ 67]LogTexture: Display: Building textures: Texture2D_118 (BGRA8, 64X64)
+[2021.05.24-00.20.45:320][ 67]LogTexture: Display: Building textures: Texture2D_71 (BGRA8, 64X64)
+[2021.05.24-00.20.45:322][ 67]LogTexture: Display: Building textures: Texture2D_8 (BGRA8, 64X64)
+[2021.05.24-00.20.45:323][ 67]LogTexture: Display: Building textures: Texture2D_111 (BGRA8, 64X64)
+[2021.05.24-00.20.45:324][ 67]LogTexture: Display: Building textures: Texture2D_119 (BGRA8, 64X64)
+[2021.05.24-00.20.45:325][ 67]LogTexture: Display: Building textures: Texture2D_84 (BGRA8, 64X64)
+[2021.05.24-00.20.45:326][ 67]LogTexture: Display: Building textures: Texture2D_16 (BGRA8, 64X64)
+[2021.05.24-00.20.45:328][ 67]LogTexture: Display: Building textures: Texture2D_79 (BGRA8, 64X64)
+[2021.05.24-00.20.45:329][ 67]LogTexture: Display: Building textures: Texture2D_116 (BGRA8, 64X64)
+[2021.05.24-00.20.45:330][ 67]LogTexture: Display: Building textures: Texture2D_101 (BGRA8, 64X64)
+[2021.05.24-00.20.45:332][ 67]LogTexture: Display: Building textures: Texture2D_112 (BGRA8, 64X64)
+[2021.05.24-00.20.45:333][ 67]LogTexture: Display: Building textures: Texture2D_115 (BGRA8, 64X64)
+[2021.05.24-00.20.45:335][ 67]LogTexture: Display: Building textures: Texture2D_49 (BGRA8, 64X64)
+[2021.05.24-00.20.45:336][ 67]LogTexture: Display: Building textures: Texture2D_81 (BGRA8, 64X64)
+[2021.05.24-00.20.45:337][ 67]LogTexture: Display: Building textures: Texture2D_117 (BGRA8, 64X64)
+[2021.05.24-00.20.45:338][ 67]LogTexture: Display: Building textures: Texture2D_99 (BGRA8, 64X64)
+[2021.05.24-00.20.45:339][ 67]LogTexture: Display: Building textures: Texture2D_113 (BGRA8, 64X64)
+[2021.05.24-00.20.45:340][ 67]LogTexture: Display: Building textures: Texture2D_114 (BGRA8, 64X64)
+[2021.05.24-00.20.45:342][ 67]LogTexture: Display: Building textures: Texture2D_66 (BGRA8, 64X64)
+[2021.05.24-00.20.45:343][ 67]LogTexture: Display: Building textures: Texture2D_82 (BGRA8, 64X64)
+[2021.05.24-00.20.45:344][ 67]LogTexture: Display: Building textures: Texture2D_103 (BGRA8, 64X64)
+[2021.05.24-00.20.45:351][ 67]LogTexture: Display: Building textures: Texture2D_98 (BGRA8, 64X64)
+[2021.05.24-00.20.45:353][ 67]LogTexture: Display: Building textures: Texture2D_63 (BGRA8, 64X64)
+[2021.05.24-00.20.45:354][ 67]LogTexture: Display: Building textures: Texture2D_93 (BGRA8, 64X64)
+[2021.05.24-00.20.45:355][ 67]LogTexture: Display: Building textures: Texture2D_96 (BGRA8, 64X64)
+[2021.05.24-00.20.45:357][ 67]LogTexture: Display: Building textures: Texture2D_64 (BGRA8, 64X64)
+[2021.05.24-00.20.45:358][ 67]LogTexture: Display: Building textures: Texture2D_94 (BGRA8, 64X64)
+[2021.05.24-00.20.45:359][ 67]LogTexture: Display: Building textures: Texture2D_95 (BGRA8, 64X64)
+[2021.05.24-00.20.45:658][ 67]LogSavePackage: Moving '../../../../../../Users/modak/Documents/técnico/unreal/Ilha_MarianaOda/MyProject/Saved/UntitledB39DA7C24095FA0FE9C55186C556AFEC.tmp' to '../../../../../../Users/modak/Documents/técnico/unreal/Ilha_MarianaOda/MyProject/Content/Untitled.umap'
+[2021.05.24-00.20.45:871][ 67]AssetCheck: New page: Asset Save: Untitled
+[2021.05.24-00.20.45:871][ 67]LogContentValidation: Display: Validating World /Game/Untitled.Untitled
+[2021.05.24-00.20.55:469][391]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (rock1)
+[2021.05.24-00.21.12:486][949]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (rock2)
+[2021.05.24-00.21.16:884][ 93]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (rock1)
+[2021.05.24-00.21.37:675][773]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (rock2)
+[2021.05.24-00.22.13:780][908]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (rock1)
+[2021.05.24-00.22.14:744][938]Cmd: EDIT COPY
+[2021.05.24-00.22.14:986][944]Cmd: EDIT PASTE
+[2021.05.24-00.22.31:620][444]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (rock2)
+[2021.05.24-00.22.32:295][465]Cmd: EDIT COPY
+[2021.05.24-00.22.32:572][474]Cmd: EDIT PASTE
+[2021.05.24-00.22.44:098][862]Cmd: TRANSACTION UNDO
+[2021.05.24-00.22.44:098][862]LogEditorTransaction: Undo Scale Actors
+[2021.05.24-00.22.44:148][862]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_4, compiling. 
+[2021.05.24-00.22.44:211][863]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2021.05.24-00.22.44:211][863]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2021.05.24-00.22.44:211][863]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2021.05.24-00.22.44:211][863]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2021.05.24-00.22.45:515][886]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2021.05.24-00.22.45:840][891]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 4
+[2021.05.24-00.22.46:071][895]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2021.05.24-00.22.46:129][896]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2021.05.24-00.22.46:833][906]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2021.05.24-00.22.47:166][910]Cmd: TRANSACTION UNDO
+[2021.05.24-00.22.47:166][910]LogEditorTransaction: Undo Scale Actors
+[2021.05.24-00.22.47:193][910]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_4, compiling. 
+[2021.05.24-00.22.47:211][910]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9
+[2021.05.24-00.22.47:538][914]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 8
+[2021.05.24-00.22.47:606][915]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 7
+[2021.05.24-00.22.47:699][918]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 6
+[2021.05.24-00.22.48:489][931]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 5
+[2021.05.24-00.22.48:726][934]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 4
+[2021.05.24-00.22.48:795][935]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3
+[2021.05.24-00.22.49:126][941]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2021.05.24-00.22.49:683][949]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1
+[2021.05.24-00.22.50:653][964]MaterialEditorStats: Base pass shader: 116 instructions
+[2021.05.24-00.22.50:653][964]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 190 instructions
+[2021.05.24-00.22.50:653][964]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2021.05.24-00.22.50:653][964]MaterialEditorStats: Texture samplers: 2/16
+[2021.05.24-00.22.51:123][980]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2021.05.24-00.22.51:404][988]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (rock3)
+[2021.05.24-00.22.54:049][ 82]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (rock1)
+[2021.05.24-00.22.56:139][155]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (rock3)
+[2021.05.24-00.22.59:420][275]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (rock1)
+[2021.05.24-00.23.04:870][473]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (rock4)
+[2021.05.24-00.23.57:178][316]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (rock4)
+[2021.05.24-00.23.58:330][350]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (rock2)
+[2021.05.24-00.23.59:154][377]Cmd: EDIT COPY
+[2021.05.24-00.23.59:470][387]Cmd: EDIT PASTE
+[2021.05.24-00.24.07:079][633]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (rock1)
+[2021.05.24-00.24.07:851][658]Cmd: EDIT COPY
+[2021.05.24-00.24.08:065][665]Cmd: EDIT PASTE
+[2021.05.24-00.24.25:088][214]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (rock5)
+[2021.05.24-00.24.38:249][594]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (rock6)
+[2021.05.24-00.24.41:553][699]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (rock5)
+[2021.05.24-00.24.45:104][813]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (rock6)
+[2021.05.24-00.24.52:109][ 36]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (rock5)
+[2021.05.24-00.25.01:590][345]Cmd: EDIT COPY
+[2021.05.24-00.25.01:828][351]Cmd: EDIT PASTE
+[2021.05.24-00.25.51:531][143]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (rock1)
+[2021.05.24-00.25.55:234][267]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2021.05.24-00.25.55:792][284]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (rock4)
+[2021.05.24-00.25.56:522][307]LogEditorViewport: Clicking on Actor (CTRL LMB): Landscape (Landscape)
+[2021.05.24-00.25.56:648][308]Cmd: EDIT COPY
+[2021.05.24-00.26.02:604][308]LogSlate: Window 'Mensagem' being destroyed
+[2021.05.24-00.26.02:610][308]Message dialog closed, result: No, title: Mensagem, text: A Paisagem tem um grande número (54) de componentes, então ela usará uma grande quantidade de memória para copiá-la para a área de transferência. Continuar?
+[2021.05.24-00.26.03:727][350]Cmd: EDIT COPY
+[2021.05.24-00.26.04:276][371]Cmd: EDIT PASTE
+[2021.05.24-00.26.06:052][430]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (rock4)
+[2021.05.24-00.26.08:317][511]Cmd: TRANSACTION UNDO
+[2021.05.24-00.26.08:317][511]LogEditorTransaction: Undo Move Actors
+[2021.05.24-00.26.08:365][511]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_4, compiling. 
+[2021.05.24-00.26.08:425][512]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2021.05.24-00.26.08:425][512]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2021.05.24-00.26.08:425][512]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2021.05.24-00.26.08:425][512]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2021.05.24-00.26.09:600][535]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2021.05.24-00.26.09:906][540]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 4
+[2021.05.24-00.26.10:177][545]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2021.05.24-00.26.10:202][546]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2021.05.24-00.26.10:740][553]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2021.05.24-00.26.11:425][562]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (rock8)
+[2021.05.24-00.26.11:585][564]MaterialEditorStats: Base pass shader: 116 instructions
+[2021.05.24-00.26.11:585][564]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 190 instructions
+[2021.05.24-00.26.11:585][564]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2021.05.24-00.26.11:586][564]MaterialEditorStats: Texture samplers: 2/16
+[2021.05.24-00.26.38:694][454]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Untitled" FILE="../../../../../../Users/modak/Documents/técnico/unreal/Ilha_MarianaOda/MyProject/Content/Untitled.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.05.24-00.26.38:729][454]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2021.05.24-00.26.38:766][454]LogTexture: Display: Building textures: Texture2D_34 (BGRA8, 64X64)
+[2021.05.24-00.26.38:767][454]LogTexture: Display: Building textures: Texture2D_43 (BGRA8, 64X64)
+[2021.05.24-00.26.38:768][454]LogTexture: Display: Building textures: Texture2D_44 (BGRA8, 64X64)
+[2021.05.24-00.26.38:770][454]LogTexture: Display: Building textures: Texture2D_51 (BGRA8, 64X64)
+[2021.05.24-00.26.38:771][454]LogTexture: Display: Building textures: Texture2D_52 (BGRA8, 64X64)
+[2021.05.24-00.26.39:007][454]LogSavePackage: Moving '../../../../../../Users/modak/Documents/técnico/unreal/Ilha_MarianaOda/MyProject/Saved/Untitled8CB28BF54F7CE9FB56E464B348FB9B42.tmp' to '../../../../../../Users/modak/Documents/técnico/unreal/Ilha_MarianaOda/MyProject/Content/Untitled.umap'
+[2021.05.24-00.26.39:040][454]AssetCheck: New page: Asset Save: Untitled
+[2021.05.24-00.26.39:040][454]LogContentValidation: Display: Validating World /Game/Untitled.Untitled
+[2021.05.24-00.26.41:082][525]LogTemp: Repeating last play command: Selected Viewport
+[2021.05.24-00.26.41:098][525]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.05.24-00.26.41:099][525]PIE: New page: Sessão de PIE : Untitled (23 de mai de 2021 18:26:41)
+[2021.05.24-00.26.41:099][525]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Untitled
+[2021.05.24-00.26.41:147][525]LogPlayLevel: PIE: StaticDuplicateObject took: (0.047481s)
+[2021.05.24-00.26.41:150][525]LogAIModule: Creating AISystem for world Untitled
+[2021.05.24-00.26.41:152][525]LogPlayLevel: PIE: World Init took: (0.004996s)
+[2021.05.24-00.26.41:152][525]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Untitled.Untitled to /Game/UEDPIE_0_Untitled.Untitled (0.052886s)
+[2021.05.24-00.26.41:162][525]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2021.05.24-00.26.41:164][525]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2021.05.24-00.26.41:164][525]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.24-00.26.41:164][525]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.24-00.26.41:164][525]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.24-00.26.41:164][525]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.24-00.26.41:165][525]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.24-00.26.41:165][525]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.24-00.26.41:165][525]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.24-00.26.41:165][525]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.24-00.26.41:165][525]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.24-00.26.41:165][525]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.24-00.26.41:169][525]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.24-00.26.41:169][525]LogAudioMixer: Display: 1: FrontRight
+[2021.05.24-00.26.41:196][525]LogAudioMixer: Display: Using Audio Device Fones de ouvido (Realtek(R) Audio)
+[2021.05.24-00.26.41:199][525]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.24-00.26.41:199][525]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.24-00.26.41:199][525]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.24-00.26.41:202][525]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.24-00.26.41:203][525]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.05.24-00.26.41:203][525]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.05.24-00.26.41:226][525]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.05.24-00.26.41:226][525]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.05.24-00.26.41:226][525]LogInit: FAudioDevice initialized.
+[2021.05.24-00.26.41:226][525]LogAudio: Display: Audio Device (ID: 3) registered with world 'Untitled'.
+[2021.05.24-00.26.41:261][525]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.05.24-00.26.41:265][525]LogWorld: Bringing World /Game/UEDPIE_0_Untitled.Untitled up for play (max tick rate 60) at 2021.05.23-21.26.41
+[2021.05.24-00.26.41:265][525]LogWorld: Bringing up level for play took: 0.003193
+[2021.05.24-00.26.41:267][525]LogOnline: OSS: Creating online subsystem instance for: :Context_15
+[2021.05.24-00.26.41:278][525]PIE: Servidor conectado
+[2021.05.24-00.26.41:278][525]PIE: Play in editor total start time 0,183 seconds.
+[2021.05.24-00.27.25:031][111]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.24-00.27.25:031][111]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Untitled
+[2021.05.24-00.27.25:031][111]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.05.24-00.27.25:032][111]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.24-00.27.25:073][111]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.24-00.27.25:104][111]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.24-00.27.25:111][111]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.24-00.27.25:112][111]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.24-00.27.25:113][111]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.24-00.27.25:142][111]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2021.05.24-00.27.25:186][112]LogPlayLevel: Display: Destroying online subsystem :Context_15
